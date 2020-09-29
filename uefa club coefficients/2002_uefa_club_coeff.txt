@@ -1,0 +1,2270 @@
+<div class="tab-content" id="calendar-container">
+<div class="standings d3-plugin" data-plugin="popover">
+<div class="d3-plugin table-datatables" data-options='{"order":[[0,"asc"]],"searching":true,"ordering":true,"dom":"lrtip","columnDefs":[{"orderable":false,"targets":"datatable-disable-sort"},{"searchable":true,"targets":"datatable-enable-search"},{"searchable":false,"targets":"_all"},{"type":"html-num","targets":0},{"width":"30%","targets":1}],"scrollX":true,"fixedColumns":{"leftColumns":2},"scrollToColumn":true,"scrollOffset":230}' data-plugin="datatables">
+<div class="dataTables_wrapper form-inline dt-bootstrap no-footer" id="DataTables_Table_0_wrapper"><div class="DTFC_ScrollWrapper" style="position: relative; clear: both; height: 2944px;"><div aria-hidden="true" class="DTFC_RightWrapper" style="position:absolute; top:0; right:0;"><div class="DTFC_RightHeadWrapper" style="position:relative; top:0; left:0;"><div class="DTFC_RightHeadBlocker DTFC_Blocker" style="position:absolute; top:0; bottom:0;"></div></div><div class="DTFC_RightBodyWrapper" style="position:relative; top:0; left:0; height:0; overflow:hidden;"><div class="DTFC_RightBodyLiner" style="position:relative; top:0; left:0; overflow-y:scroll;"></div></div><div class="DTFC_RightFootWrapper" style="position:relative; top:0; left:0;"><div class="DTFC_RightFootBlocker DTFC_Blocker" style="position:absolute; top:0; bottom:0;"></div></div></div><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 882px; padding-right: 0px;"><table class="table table--standings js-datatables dataTable no-footer" role="grid" style="margin-left: 0px; width: 882px;"><thead>
+<tr role="row" style="height: 32px;"><th aria-controls="DataTables_Table_0" aria-label="Pos: activate to sort column descending" aria-sort="ascending" class="table_member-pos sorting_asc" colspan="1" rowspan="1" style="width: 60px;" tabindex="0" title="Position">Pos</th><th aria-label="
+              Country
+            " class="table_member-name datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 248px;">
+              Country
+            </th><th aria-controls="DataTables_Table_0" aria-label="season_1998: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 64px;" tabindex="0" title="season_1998">season_1998</th><th aria-controls="DataTables_Table_0" aria-label="98/99: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px;" tabindex="0" title="1998/99">98/99</th><th aria-controls="DataTables_Table_0" aria-label="99/00: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px;" tabindex="0" title="1999/00">99/00</th><th aria-controls="DataTables_Table_0" aria-label="00/01: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px;" tabindex="0" title="2000/01">00/01</th><th aria-controls="DataTables_Table_0" aria-label="01/02: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px;" tabindex="0" title="2001/02">01/02</th><th aria-controls="DataTables_Table_0" aria-label='
+                Check&amp;nbsp;how points are calculated" data-original-title="" title=""&gt;
+                  
+                
+                Pts
+              : activate to sort column ascending' class="table_member-points column-scroll sorting" colspan="1" rowspan="1" style="width: 61px;" tabindex="0" title="Points">
+<a data-content="&lt;a href='/memberassociations/uefarankings/country/about/'&gt;Check how points are calculated&lt;/a&gt;" data-html="true" data-original-title="" data-placement="top" data-toggle="popover" data-trigger="focus" role="button" tabindex="0" title="">
+<span class="icon-tooltip"></span>
+</a>
+                Pts
+              </th><th aria-label="
+                    
+                      
+                    
+                    Clubs
+                  " class="table_member-clubs datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 61px;" title="Clubs">
+<a data-content="Clubs still in competition/participating clubs" data-html="true" data-original-title="" data-placement="top" data-toggle="popover" data-trigger="focus" role="button" tabindex="0" title="">
+<span class="icon-tooltip"></span>
+</a>
+                    Clubs
+                  </th></tr>
+</thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; width: 100%;"><table class="table table--standings js-datatables dataTable no-footer" id="DataTables_Table_0" role="grid" style="width: 882px;"><thead>
+<tr role="row" style="height: 0px;"><th aria-controls="DataTables_Table_0" aria-label="Pos: activate to sort column descending" aria-sort="ascending" class="table_member-pos sorting_asc" colspan="1" rowspan="1" style="width: 60px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="Position"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Pos</div></th><th aria-label="
+              Country
+            " class="table_member-name datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 248px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+              Country
+            </div></th><th aria-controls="DataTables_Table_0" aria-label="season_1998: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 64px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="season_1998"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">season_1998</div></th><th aria-controls="DataTables_Table_0" aria-label="98/99: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="1998/99"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">98/99</div></th><th aria-controls="DataTables_Table_0" aria-label="99/00: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="1999/00"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">99/00</div></th><th aria-controls="DataTables_Table_0" aria-label="00/01: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="2000/01"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">00/01</div></th><th aria-controls="DataTables_Table_0" aria-label="01/02: activate to sort column ascending" class="table_member-season sorting" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="2001/02"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">01/02</div></th><th aria-controls="DataTables_Table_0" aria-label='
+                Check&amp;nbsp;how points are calculated" data-original-title="" title=""&gt;
+                  
+                
+                Pts
+              : activate to sort column ascending' class="table_member-points column-scroll sorting" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="Points"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+<a data-content="&lt;a href='/memberassociations/uefarankings/country/about/'&gt;Check how points are calculated&lt;/a&gt;" data-html="true" data-original-title="" data-placement="top" data-toggle="popover" data-trigger="focus" role="button" tabindex="0" title="">
+<span class="icon-tooltip"></span>
+</a>
+                Pts
+              </div></th><th aria-label="
+                    
+                      
+                    
+                    Clubs
+                  " class="table_member-clubs datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 61px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" title="Clubs"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+<a data-content="Clubs still in competition/participating clubs" data-html="true" data-original-title="" data-placement="top" data-toggle="popover" data-trigger="focus" role="button" tabindex="0" title="">
+<span class="icon-tooltip"></span>
+</a>
+                    Clubs
+                  </div></th></tr>
+</thead>
+<tbody>
+<tr class="odd" data-is-current-team="0" data-rank="1" data-team-id="122" role="row" style="height: 56px;">
+<td class="table_member-pos sorting_1">
+<span class="position">1</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-ESP team_122 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Spain"></span>
+<span class="team-code">
+                    ESP
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Spain
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Spain
+                    </span>
+</span>
+</td>
+<td class="table_member-season">8.428</td>
+<td class="table_member-season">10.000</td>
+<td class="table_member-season">18.571</td>
+<td class="table_member-season">16.611</td>
+<td class="table_member-season">14.857</td>
+<td class="table_member-points">
+68.467                  </td>
+<td class="table_member-clubs">8</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="2" data-team-id="66" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">2</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-ITA team_66 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Italy"></span>
+<span class="team-code">
+                    ITA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Italy
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Italy
+                    </span>
+</span>
+</td>
+<td class="table_member-season">12.285</td>
+<td class="table_member-season">12.000</td>
+<td class="table_member-season">12.000</td>
+<td class="table_member-season">9.812</td>
+<td class="table_member-season">12.571</td>
+<td class="table_member-points">
+58.668                  </td>
+<td class="table_member-clubs">7</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="3" data-team-id="39" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">3</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-ENG team_39 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="England"></span>
+<span class="team-code">
+                    ENG
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      England
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      England
+                    </span>
+</span>
+</td>
+<td class="table_member-season">7.785</td>
+<td class="table_member-season">7.437</td>
+<td class="table_member-season">14.500</td>
+<td class="table_member-season">14.166</td>
+<td class="table_member-season">11.571</td>
+<td class="table_member-points">
+55.459                  </td>
+<td class="table_member-clubs">9</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="4" data-team-id="47" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">4</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-GER team_47 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Germany"></span>
+<span class="team-code">
+                    GER
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Germany
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Germany
+                    </span>
+</span>
+</td>
+<td class="table_member-season">11.000</td>
+<td class="table_member-season">6.357</td>
+<td class="table_member-season">11.071</td>
+<td class="table_member-season">11.062</td>
+<td class="table_member-season">13.500</td>
+<td class="table_member-points">
+52.990                  </td>
+<td class="table_member-clubs">7</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="5" data-team-id="43" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">5</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-FRA team_43 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="France"></span>
+<span class="team-code">
+                    FRA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      France
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      France
+                    </span>
+</span>
+</td>
+<td class="table_member-season">6.800</td>
+<td class="table_member-season">8.642</td>
+<td class="table_member-season">10.285</td>
+<td class="table_member-season">9.500</td>
+<td class="table_member-season">7.125</td>
+<td class="table_member-points">
+42.352                  </td>
+<td class="table_member-clubs">6</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="6" data-team-id="49" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">6</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-GRE team_49 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
+<span class="team-code">
+                    GRE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Greece
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Greece
+                    </span>
+</span>
+</td>
+<td class="table_member-season">6.500</td>
+<td class="table_member-season">6.200</td>
+<td class="table_member-season">5.416</td>
+<td class="table_member-season">6.750</td>
+<td class="table_member-season">11.250</td>
+<td class="table_member-points">
+36.116                  </td>
+<td class="table_member-clubs">6</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="7" data-team-id="95" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">7</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-NED team_95 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Netherlands"></span>
+<span class="team-code">
+                    NED
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Netherlands
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Netherlands
+                    </span>
+</span>
+</td>
+<td class="table_member-season">6.833</td>
+<td class="table_member-season">4.833</td>
+<td class="table_member-season">6.250</td>
+<td class="table_member-season">6.083</td>
+<td class="table_member-season">10.166</td>
+<td class="table_member-points">
+34.165                  </td>
+<td class="table_member-clubs">6</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="8" data-team-id="135" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">8</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-TUR team_135 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
+<span class="team-code">
+                    TUR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Turkey
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Turkey
+                    </span>
+</span>
+</td>
+<td class="table_member-season">4.400</td>
+<td class="table_member-season">3.200</td>
+<td class="table_member-season">7.750</td>
+<td class="table_member-season">7.750</td>
+<td class="table_member-season">5.625</td>
+<td class="table_member-points">
+28.725                  </td>
+<td class="table_member-clubs">6</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="9" data-team-id="110" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">9</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-POR team_110 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Portugal"></span>
+<span class="team-code">
+                    POR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Portugal
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Portugal
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.416</td>
+<td class="table_member-season">3.500</td>
+<td class="table_member-season">5.833</td>
+<td class="table_member-season">6.125</td>
+<td class="table_member-season">9.375</td>
+<td class="table_member-points">
+28.249                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="10" data-team-id="57451" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">10</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-RUS team_57451 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Russia"></span>
+<span class="team-code">
+                    RUS
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Russia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Russia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">9.875</td>
+<td class="table_member-season">7.000</td>
+<td class="table_member-season">4.250</td>
+<td class="table_member-season">3.833</td>
+<td class="table_member-season">2.333</td>
+<td class="table_member-points">
+27.291                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="11" data-team-id="58837" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">11</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-CZE team_58837 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
+<span class="team-code">
+                    CZE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Czech Republic
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Czech Republic
+                    </span>
+</span>
+</td>
+<td class="table_member-season">4.875</td>
+<td class="table_member-season">2.250</td>
+<td class="table_member-season">8.000</td>
+<td class="table_member-season">6.000</td>
+<td class="table_member-season">5.500</td>
+<td class="table_member-points">
+26.625                  </td>
+<td class="table_member-clubs">5</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="12" data-team-id="117" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">12</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-SCO team_117 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Scotland"></span>
+<span class="team-code">
+                    SCO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Scotland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Scotland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.125</td>
+<td class="table_member-season">5.625</td>
+<td class="table_member-season">5.125</td>
+<td class="table_member-season">5.625</td>
+<td class="table_member-season">6.625</td>
+<td class="table_member-points">
+26.125                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="13" data-team-id="57166" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">13</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-UKR team_57166 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Ukraine"></span>
+<span class="team-code">
+                    UKR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Ukraine
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Ukraine
+                    </span>
+</span>
+</td>
+<td class="table_member-season">5.625</td>
+<td class="table_member-season">7.333</td>
+<td class="table_member-season">5.375</td>
+<td class="table_member-season">4.000</td>
+<td class="table_member-season">3.625</td>
+<td class="table_member-points">
+25.958                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="14" data-team-id="13" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">14</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-BEL team_13 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belgium"></span>
+<span class="team-code">
+                    BEL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Belgium
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Belgium
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.900</td>
+<td class="table_member-season">5.500</td>
+<td class="table_member-season">3.250</td>
+<td class="table_member-season">7.000</td>
+<td class="table_member-season">5.875</td>
+<td class="table_member-points">
+25.525                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="15" data-team-id="8" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">15</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-AUT team_8 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
+<span class="team-code">
+                    AUT
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Austria
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Austria
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.875</td>
+<td class="table_member-season">4.375</td>
+<td class="table_member-season">3.875</td>
+<td class="table_member-season">7.750</td>
+<td class="table_member-season">3.375</td>
+<td class="table_member-points">
+23.250                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="16" data-team-id="128" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">16</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-SUI team_128 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
+<span class="team-code">
+                    SUI
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Switzerland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Switzerland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">2.250</td>
+<td class="table_member-season">5.750</td>
+<td class="table_member-season">4.125</td>
+<td class="table_member-season">4.375</td>
+<td class="table_member-season">6.125</td>
+<td class="table_member-points">
+22.625                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="17" data-team-id="101" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">17</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-NOR team_101 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
+<span class="team-code">
+                    NOR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Norway
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Norway
+                    </span>
+</span>
+</td>
+<td class="table_member-season">4.600</td>
+<td class="table_member-season">3.800</td>
+<td class="table_member-season">5.200</td>
+<td class="table_member-season">4.625</td>
+<td class="table_member-season">3.250</td>
+<td class="table_member-points">
+21.475                  </td>
+<td class="table_member-clubs">5</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="18" data-team-id="65" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">18</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-ISR team_65 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
+<span class="team-code">
+                    ISR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Israel
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Israel
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.166</td>
+<td class="table_member-season">5.000</td>
+<td class="table_member-season">3.000</td>
+<td class="table_member-season">1.833</td>
+<td class="table_member-season">8.333</td>
+<td class="table_member-points">
+21.332                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="19" data-team-id="56370" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">19</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-CRO team_56370 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
+<span class="team-code">
+                    CRO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Croatia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Croatia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">5.166</td>
+<td class="table_member-season">4.875</td>
+<td class="table_member-season">2.250</td>
+<td class="table_member-season">4.375</td>
+<td class="table_member-season">4.375</td>
+<td class="table_member-points">
+21.041                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="20" data-team-id="109" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">20</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="team-flag flag-POL team_109 lazyfade" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
+<span class="team-code">
+                    POL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Poland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Poland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">2.500</td>
+<td class="table_member-season">4.000</td>
+<td class="table_member-season">3.250</td>
+<td class="table_member-season">3.625</td>
+<td class="table_member-season">4.125</td>
+<td class="table_member-points">
+17.500                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="21" data-team-id="35" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">21</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-DEN team_35" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Denmark"></span>
+<span class="team-code">
+                    DEN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Denmark
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Denmark
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.250</td>
+<td class="table_member-season">4.125</td>
+<td class="table_member-season">1.750</td>
+<td class="table_member-season">3.750</td>
+<td class="table_member-season">4.500</td>
+<td class="table_member-points">
+17.375                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="22" data-team-id="127" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">22</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SWE team_127" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
+<span class="team-code">
+                    SWE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Sweden
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Sweden
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.900</td>
+<td class="table_member-season">2.375</td>
+<td class="table_member-season">4.333</td>
+<td class="table_member-season">4.800</td>
+<td class="table_member-season">3.833</td>
+<td class="table_member-points">
+17.241                  </td>
+<td class="table_member-clubs">4</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="23" data-team-id="147" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">23</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SRB team_147" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Serbia"></span>
+<span class="team-code">
+                    SRB
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Serbia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Serbia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.333</td>
+<td class="table_member-season">4.166</td>
+<td class="table_member-season">3.166</td>
+<td class="table_member-season">4.500</td>
+<td class="table_member-season">3.166</td>
+<td class="table_member-points">
+16.331                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="24" data-team-id="58836" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">24</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SVK team_58836" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Slovakia"></span>
+<span class="team-code">
+                    SVK
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Slovakia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Slovakia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">2.666</td>
+<td class="table_member-season">3.333</td>
+<td class="table_member-season">2.500</td>
+<td class="table_member-season">3.666</td>
+<td class="table_member-season">3.500</td>
+<td class="table_member-points">
+15.665                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="25" data-team-id="20" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">25</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BUL team_20" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Bulgaria"></span>
+<span class="team-code">
+                    BUL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Bulgaria
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Bulgaria
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">2.833</td>
+<td class="table_member-season">3.833</td>
+<td class="table_member-season">3.000</td>
+<td class="table_member-season">4.833</td>
+<td class="table_member-points">
+15.165                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="26" data-team-id="113" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">26</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ROU team_113" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
+<span class="team-code">
+                    ROU
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Romania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Romania
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.125</td>
+<td class="table_member-season">2.500</td>
+<td class="table_member-season">4.833</td>
+<td class="table_member-season">0.833</td>
+<td class="table_member-season">2.625</td>
+<td class="table_member-points">
+13.916                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="27" data-team-id="57" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">27</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-HUN team_57" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Hungary"></span>
+<span class="team-code">
+                    HUN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Hungary
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Hungary
+                    </span>
+</span>
+</td>
+<td class="table_member-season">4.125</td>
+<td class="table_member-season">2.333</td>
+<td class="table_member-season">3.125</td>
+<td class="table_member-season">2.666</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-points">
+13.749                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="28" data-team-id="57163" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">28</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SVN team_57163" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Slovenia"></span>
+<span class="team-code">
+                    SVN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Slovenia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Slovenia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">3.166</td>
+<td class="table_member-season">2.333</td>
+<td class="table_member-season">3.000</td>
+<td class="table_member-season">1.833</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-points">
+11.832                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="29" data-team-id="33" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">29</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-CYP team_33" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
+<span class="team-code">
+                    CYP
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Cyprus
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Cyprus
+                    </span>
+</span>
+</td>
+<td class="table_member-season">2.333</td>
+<td class="table_member-season">2.500</td>
+<td class="table_member-season">2.166</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-season">1.333</td>
+<td class="table_member-points">
+9.332                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="30" data-team-id="42" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">30</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-FIN team_42" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Finland"></span>
+<span class="team-code">
+                    FIN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Finland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Finland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.166</td>
+<td class="table_member-season">3.000</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-season">1.375</td>
+<td class="table_member-points">
+8.041                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="31" data-team-id="56558" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">31</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LVA team_56558" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Latvia"></span>
+<span class="team-code">
+                    LVA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Latvia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Latvia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.666</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-season">2.500</td>
+<td class="table_member-season">0.833</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-points">
+7.165                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="32" data-team-id="57157" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">32</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-GEO team_57157" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Georgia"></span>
+<span class="team-code">
+                    GEO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Georgia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Georgia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">2.666</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">1.333</td>
+<td class="table_member-points">
+6.999                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="33" data-team-id="57160" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">33</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MDA team_57160" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Moldova"></span>
+<span class="team-code">
+                    MDA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Moldova
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Moldova
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">2.000</td>
+<td class="table_member-season">1.166</td>
+<td class="table_member-season">1.166</td>
+<td class="table_member-points">
+5.165                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="34" data-team-id="58" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">34</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ISL team_58" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Iceland"></span>
+<span class="team-code">
+                    ISL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Iceland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Iceland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.500</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-season">0.833</td>
+<td class="table_member-season">0.833</td>
+<td class="table_member-points">
+4.832                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="35" data-team-id="57155" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">35</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BLR team_57155" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
+<span class="team-code">
+                    BLR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Belarus
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Belarus
+                    </span>
+</span>
+</td>
+<td class="table_member-season">1.833</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-season">0.750</td>
+<td class="table_member-points">
+4.083                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="36" data-team-id="56557" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">36</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LTU team_56557" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Lithuania"></span>
+<span class="team-code">
+                    LTU
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Lithuania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Lithuania
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">1.333</td>
+<td class="table_member-season">0.833</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-points">
+3.831                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="37" data-team-id="64" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">37</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-IRL team_64" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Republic of Ireland"></span>
+<span class="team-code">
+                    IRL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Republic of Ireland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Republic of Ireland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">1.666</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-points">
+3.331                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="38" data-team-id="59205" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">38</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MKD team_59205" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="North Macedonia"></span>
+<span class="team-code">
+                    MKD
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      North Macedonia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      North Macedonia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-points">
+2.997                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="39" data-team-id="88" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">39</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MLT team_88" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Malta"></span>
+<span class="team-code">
+                    MLT
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Malta
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Malta
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">1.166</td>
+<td class="table_member-points">
+2.498                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="40" data-team-id="144" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">40</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-WAL team_144" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Wales"></span>
+<span class="team-code">
+                    WAL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Wales
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Wales
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">1.000</td>
+<td class="table_member-points">
+1.832                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="41" data-team-id="56556" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">41</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-EST team_56556" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Estonia"></span>
+<span class="team-code">
+                    EST
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Estonia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Estonia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-points">
+1.665                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="42" data-team-id="60094" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">42</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BIH team_60094" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Bosnia and Herzegovina"></span>
+<span class="team-code">
+                    BIH
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Bosnia and Herzegovina
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Bosnia and Herzegovina
+                    </span>
+</span>
+</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-points">
+1.333                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="43" data-team-id="57419" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">43</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ARM team_57419" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Armenia"></span>
+<span class="team-code">
+                    ARM
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Armenia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Armenia
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-points">
+1.332                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="44" data-team-id="63" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">44</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-NIR team_63" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Northern Ireland"></span>
+<span class="team-code">
+                    NIR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Northern Ireland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Northern Ireland
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-points">
+1.331                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="45" data-team-id="2" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">45</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ALB team_2" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Albania"></span>
+<span class="team-code">
+                    ALB
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Albania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Albania
+                    </span>
+</span>
+</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-points">
+1.165                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="46" data-team-id="51218" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">46</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-FRO team_51218" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Faroe Islands"></span>
+<span class="team-code">
+                    FRO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Faroe Islands
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Faroe Islands
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-points">
+1.165                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="47" data-team-id="57154" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">47</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-AZE team_57154" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Azerbaijan"></span>
+<span class="team-code">
+                    AZE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Azerbaijan
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Azerbaijan
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.666</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-points">
+1.165                  </td>
+<td class="table_member-clubs">0</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="48" data-team-id="81" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">48</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LIE team_81" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Liechtenstein"></span>
+<span class="team-code">
+                    LIE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Liechtenstein
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Liechtenstein
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-season">0.500</td>
+<td class="table_member-points">
+1.000                  </td>
+<td class="table_member-clubs">1</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="49" data-team-id="82" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">49</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LUX team_82" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Luxembourg"></span>
+<span class="team-code">
+                    LUX
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Luxembourg
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Luxembourg
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.166</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-season">0.333</td>
+<td class="table_member-points">
+0.832                  </td>
+<td class="table_member-clubs">3</td>
+</tr><tr class="even" data-is-current-team="0" data-rank="50" data-team-id="60618" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">50</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-AND team_60618" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Andorra"></span>
+<span class="team-code">
+                    AND
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Andorra
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Andorra
+                    </span>
+</span>
+</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-points">
+0.000                  </td>
+<td class="table_member-clubs">1</td>
+</tr><tr class="odd" data-is-current-team="0" data-rank="51" data-team-id="50168" role="row" style="height: 57px;">
+<td class="table_member-pos sorting_1">
+<span class="position">51</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td>
+<td class="table_member-name">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SMR team_50168" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="San Marino"></span>
+<span class="team-code">
+                    SMR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      San Marino
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      San Marino
+                    </span>
+</span>
+</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">-</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-season">0.000</td>
+<td class="table_member-points">
+0.000                  </td>
+<td class="table_member-clubs">1</td>
+</tr></tbody>
+</table></div></div><div aria-hidden="true" class="DTFC_LeftWrapper" style="position: absolute; top: 0px; left: 0px; width: 324px; height: 1px;"><div class="DTFC_LeftHeadWrapper" style="position:relative; top:0; left:0; overflow:hidden;"><table class="table table--standings js-datatables dataTable no-footer DTFC_Cloned" role="grid" style="margin-left: 0px; width: 100%;"><thead><tr role="row" style="height: 32px;"><th aria-controls="DataTables_Table_0" aria-label="Pos: activate to sort column descending" aria-sort="ascending" class="table_member-pos sorting_asc" colspan="1" rowspan="1" style="width: 57px;" tabindex="0" title="Position">Pos</th><th aria-label="
+              Country
+            " class="table_member-name datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 235px;">
+              Country
+            </th></tr></thead></table></div><div class="DTFC_LeftBodyWrapper" style="position: relative; top: 0px; left: 0px; height: 2906px; overflow: hidden;"><div class="DTFC_LeftBodyLiner" style="position: relative; top: 0px; left: 0px; overflow-y: scroll; width: 341px; height: 2906px; max-height: 2906px;"><table class="table table--standings js-datatables dataTable no-footer DTFC_Cloned" role="grid" style="width: 100%; padding: 0px; margin: 0px;"><thead>
+<tr role="row" style="height: 0px;"><th aria-controls="DataTables_Table_0" aria-label="Pos: activate to sort column descending" aria-sort="ascending" class="table_member-pos sorting_asc" colspan="1" rowspan="1" style="width: 57px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" tabindex="0" title="Position"></th><th aria-label="
+              Country
+            " class="table_member-name datatable-disable-sort sorting_disabled" colspan="1" rowspan="1" style="width: 235px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"></th></tr>
+</thead>
+<tbody><tr class="odd" data-dt-row="0" data-is-current-team="0" data-rank="1" data-team-id="122" role="row" style="height: 56px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="0">
+<span class="position">1</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="0">
+<span class="table_team-name_block">
+<span class="team-flag flag-ESP team_122 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Spain"></span>
+<span class="team-code">
+                    ESP
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Spain
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Spain
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="1" data-is-current-team="0" data-rank="2" data-team-id="66" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="1">
+<span class="position">2</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="1">
+<span class="table_team-name_block">
+<span class="team-flag flag-ITA team_66 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Italy"></span>
+<span class="team-code">
+                    ITA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Italy
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Italy
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="2" data-is-current-team="0" data-rank="3" data-team-id="39" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="2">
+<span class="position">3</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="2">
+<span class="table_team-name_block">
+<span class="team-flag flag-ENG team_39 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="England"></span>
+<span class="team-code">
+                    ENG
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      England
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      England
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="3" data-is-current-team="0" data-rank="4" data-team-id="47" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="3">
+<span class="position">4</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="3">
+<span class="table_team-name_block">
+<span class="team-flag flag-GER team_47 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Germany"></span>
+<span class="team-code">
+                    GER
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Germany
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Germany
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="4" data-is-current-team="0" data-rank="5" data-team-id="43" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="4">
+<span class="position">5</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="4">
+<span class="table_team-name_block">
+<span class="team-flag flag-FRA team_43 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="France"></span>
+<span class="team-code">
+                    FRA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      France
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      France
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="5" data-is-current-team="0" data-rank="6" data-team-id="49" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="5">
+<span class="position">6</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="5">
+<span class="table_team-name_block">
+<span class="team-flag flag-GRE team_49 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
+<span class="team-code">
+                    GRE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Greece
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Greece
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="6" data-is-current-team="0" data-rank="7" data-team-id="95" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="6">
+<span class="position">7</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="6">
+<span class="table_team-name_block">
+<span class="team-flag flag-NED team_95 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Netherlands"></span>
+<span class="team-code">
+                    NED
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Netherlands
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Netherlands
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="7" data-is-current-team="0" data-rank="8" data-team-id="135" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="7">
+<span class="position">8</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="7">
+<span class="table_team-name_block">
+<span class="team-flag flag-TUR team_135 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
+<span class="team-code">
+                    TUR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Turkey
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Turkey
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="8" data-is-current-team="0" data-rank="9" data-team-id="110" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="8">
+<span class="position">9</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="8">
+<span class="table_team-name_block">
+<span class="team-flag flag-POR team_110 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Portugal"></span>
+<span class="team-code">
+                    POR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Portugal
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Portugal
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="9" data-is-current-team="0" data-rank="10" data-team-id="57451" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="9">
+<span class="position">10</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="9">
+<span class="table_team-name_block">
+<span class="team-flag flag-RUS team_57451 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Russia"></span>
+<span class="team-code">
+                    RUS
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Russia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Russia
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="10" data-is-current-team="0" data-rank="11" data-team-id="58837" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="10">
+<span class="position">11</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="10">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-CZE team_58837" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
+<span class="team-code">
+                    CZE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Czech Republic
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Czech Republic
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="11" data-is-current-team="0" data-rank="12" data-team-id="117" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="11">
+<span class="position">12</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="11">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SCO team_117" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Scotland"></span>
+<span class="team-code">
+                    SCO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Scotland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Scotland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="12" data-is-current-team="0" data-rank="13" data-team-id="57166" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="12">
+<span class="position">13</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="12">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-UKR team_57166" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Ukraine"></span>
+<span class="team-code">
+                    UKR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Ukraine
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Ukraine
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="13" data-is-current-team="0" data-rank="14" data-team-id="13" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="13">
+<span class="position">14</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="13">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BEL team_13" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belgium"></span>
+<span class="team-code">
+                    BEL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Belgium
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Belgium
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="14" data-is-current-team="0" data-rank="15" data-team-id="8" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="14">
+<span class="position">15</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="14">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-AUT team_8" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
+<span class="team-code">
+                    AUT
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Austria
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Austria
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="15" data-is-current-team="0" data-rank="16" data-team-id="128" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="15">
+<span class="position">16</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="15">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SUI team_128" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
+<span class="team-code">
+                    SUI
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Switzerland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Switzerland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="16" data-is-current-team="0" data-rank="17" data-team-id="101" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="16">
+<span class="position">17</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="16">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-NOR team_101" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
+<span class="team-code">
+                    NOR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Norway
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Norway
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="17" data-is-current-team="0" data-rank="18" data-team-id="65" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="17">
+<span class="position">18</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="17">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ISR team_65" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
+<span class="team-code">
+                    ISR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Israel
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Israel
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="18" data-is-current-team="0" data-rank="19" data-team-id="56370" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="18">
+<span class="position">19</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="18">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-CRO team_56370" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
+<span class="team-code">
+                    CRO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Croatia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Croatia
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="19" data-is-current-team="0" data-rank="20" data-team-id="109" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="19">
+<span class="position">20</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="19">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-POL team_109" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
+<span class="team-code">
+                    POL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Poland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Poland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="20" data-is-current-team="0" data-rank="21" data-team-id="35" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="20">
+<span class="position">21</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="20">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-DEN team_35" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Denmark"></span>
+<span class="team-code">
+                    DEN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Denmark
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Denmark
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="21" data-is-current-team="0" data-rank="22" data-team-id="127" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="21">
+<span class="position">22</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="21">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SWE team_127" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
+<span class="team-code">
+                    SWE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Sweden
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Sweden
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="22" data-is-current-team="0" data-rank="23" data-team-id="147" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="22">
+<span class="position">23</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="22">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SRB team_147" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Serbia"></span>
+<span class="team-code">
+                    SRB
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Serbia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Serbia
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="23" data-is-current-team="0" data-rank="24" data-team-id="58836" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="23">
+<span class="position">24</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="23">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SVK team_58836" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Slovakia"></span>
+<span class="team-code">
+                    SVK
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Slovakia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Slovakia
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="24" data-is-current-team="0" data-rank="25" data-team-id="20" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="24">
+<span class="position">25</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="24">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BUL team_20" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Bulgaria"></span>
+<span class="team-code">
+                    BUL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Bulgaria
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Bulgaria
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="25" data-is-current-team="0" data-rank="26" data-team-id="113" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="25">
+<span class="position">26</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="25">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ROU team_113" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
+<span class="team-code">
+                    ROU
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Romania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Romania
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="26" data-is-current-team="0" data-rank="27" data-team-id="57" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="26">
+<span class="position">27</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="26">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-HUN team_57" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Hungary"></span>
+<span class="team-code">
+                    HUN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Hungary
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Hungary
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="27" data-is-current-team="0" data-rank="28" data-team-id="57163" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="27">
+<span class="position">28</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="27">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SVN team_57163" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Slovenia"></span>
+<span class="team-code">
+                    SVN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Slovenia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Slovenia
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="28" data-is-current-team="0" data-rank="29" data-team-id="33" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="28">
+<span class="position">29</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="28">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-CYP team_33" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
+<span class="team-code">
+                    CYP
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Cyprus
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Cyprus
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="29" data-is-current-team="0" data-rank="30" data-team-id="42" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="29">
+<span class="position">30</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="29">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-FIN team_42" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Finland"></span>
+<span class="team-code">
+                    FIN
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Finland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Finland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="30" data-is-current-team="0" data-rank="31" data-team-id="56558" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="30">
+<span class="position">31</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="30">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LVA team_56558" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Latvia"></span>
+<span class="team-code">
+                    LVA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Latvia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Latvia
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="31" data-is-current-team="0" data-rank="32" data-team-id="57157" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="31">
+<span class="position">32</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="31">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-GEO team_57157" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Georgia"></span>
+<span class="team-code">
+                    GEO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Georgia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Georgia
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="32" data-is-current-team="0" data-rank="33" data-team-id="57160" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="32">
+<span class="position">33</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="32">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MDA team_57160" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Moldova"></span>
+<span class="team-code">
+                    MDA
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Moldova
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Moldova
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="33" data-is-current-team="0" data-rank="34" data-team-id="58" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="33">
+<span class="position">34</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="33">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ISL team_58" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Iceland"></span>
+<span class="team-code">
+                    ISL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Iceland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Iceland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="34" data-is-current-team="0" data-rank="35" data-team-id="57155" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="34">
+<span class="position">35</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="34">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BLR team_57155" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
+<span class="team-code">
+                    BLR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Belarus
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Belarus
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="35" data-is-current-team="0" data-rank="36" data-team-id="56557" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="35">
+<span class="position">36</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="35">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LTU team_56557" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Lithuania"></span>
+<span class="team-code">
+                    LTU
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Lithuania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Lithuania
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="36" data-is-current-team="0" data-rank="37" data-team-id="64" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="36">
+<span class="position">37</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="36">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-IRL team_64" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Republic of Ireland"></span>
+<span class="team-code">
+                    IRL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Republic of Ireland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Republic of Ireland
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="37" data-is-current-team="0" data-rank="38" data-team-id="59205" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="37">
+<span class="position">38</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="37">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MKD team_59205" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="North Macedonia"></span>
+<span class="team-code">
+                    MKD
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      North Macedonia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      North Macedonia
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="38" data-is-current-team="0" data-rank="39" data-team-id="88" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="38">
+<span class="position">39</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="38">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-MLT team_88" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Malta"></span>
+<span class="team-code">
+                    MLT
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Malta
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Malta
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="39" data-is-current-team="0" data-rank="40" data-team-id="144" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="39">
+<span class="position">40</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="39">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-WAL team_144" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Wales"></span>
+<span class="team-code">
+                    WAL
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Wales
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Wales
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="40" data-is-current-team="0" data-rank="41" data-team-id="56556" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="40">
+<span class="position">41</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="40">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-EST team_56556" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Estonia"></span>
+<span class="team-code">
+                    EST
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Estonia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Estonia
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="41" data-is-current-team="0" data-rank="42" data-team-id="60094" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="41">
+<span class="position">42</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="41">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-BIH team_60094" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Bosnia and Herzegovina"></span>
+<span class="team-code">
+                    BIH
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Bosnia and Herzegovina
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Bosnia and Herzegovina
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="42" data-is-current-team="0" data-rank="43" data-team-id="57419" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="42">
+<span class="position">43</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="42">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ARM team_57419" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Armenia"></span>
+<span class="team-code">
+                    ARM
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Armenia
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Armenia
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="43" data-is-current-team="0" data-rank="44" data-team-id="63" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="43">
+<span class="position">44</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="43">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-NIR team_63" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Northern Ireland"></span>
+<span class="team-code">
+                    NIR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Northern Ireland
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Northern Ireland
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="44" data-is-current-team="0" data-rank="45" data-team-id="2" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="44">
+<span class="position">45</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="44">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-ALB team_2" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Albania"></span>
+<span class="team-code">
+                    ALB
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Albania
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Albania
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="45" data-is-current-team="0" data-rank="46" data-team-id="51218" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="45">
+<span class="position">46</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="45">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-FRO team_51218" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Faroe Islands"></span>
+<span class="team-code">
+                    FRO
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Faroe Islands
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Faroe Islands
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="46" data-is-current-team="0" data-rank="47" data-team-id="57154" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="46">
+<span class="position">47</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="46">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-AZE team_57154" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Azerbaijan"></span>
+<span class="team-code">
+                    AZE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Azerbaijan
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Azerbaijan
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="47" data-is-current-team="0" data-rank="48" data-team-id="81" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="47">
+<span class="position">48</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="47">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LIE team_81" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Liechtenstein"></span>
+<span class="team-code">
+                    LIE
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Liechtenstein
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Liechtenstein
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="48" data-is-current-team="0" data-rank="49" data-team-id="82" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="48">
+<span class="position">49</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="48">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-LUX team_82" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Luxembourg"></span>
+<span class="team-code">
+                    LUX
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Luxembourg
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Luxembourg
+                    </span>
+</span>
+</td></tr><tr class="even" data-dt-row="49" data-is-current-team="0" data-rank="50" data-team-id="60618" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="49">
+<span class="position">50</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="49">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-AND team_60618" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Andorra"></span>
+<span class="team-code">
+                    AND
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      Andorra
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      Andorra
+                    </span>
+</span>
+</td></tr><tr class="odd" data-dt-row="50" data-is-current-team="0" data-rank="51" data-team-id="50168" role="row" style="height: 57px;"><td class="table_member-pos sorting_1" data-dt-column="0" data-dt-row="50">
+<span class="position">51</span>
+<span class="trend icon-trend-stable" title="STABLE"></span>
+</td><td class="table_member-name" data-dt-column="1" data-dt-row="50">
+<span class="table_team-name_block">
+<span class="pflazyload pflazy-bg team-flag flag-SMR team_50168" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="San Marino"></span>
+<span class="team-code">
+                    SMR
+                  </span>
+<span class="team-name visible-md visible-lg">
+                      San Marino
+                    </span>
+<span class="team-name visible-sm visible-xs">
+                      San Marino
+                    </span>
+</span>
+</td></tr></tbody>
+</table></div></div><div class="DTFC_LeftFootWrapper" style="position:relative; top:0; left:0; overflow:hidden;"></div></div></div></div>
+</div>
+<div class="standings-extras">
+<div class="standings-lastupdate">
+        Last updated: 19/06/2018 09:35
+      </div>
+</div>
+</div>
+</div>

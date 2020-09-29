@@ -1,0 +1,2 @@
+<div class="tab-content" id="calendar-container">
+<div class="gflt-overlay js-loading"><div class="gflt-overlay-content"><div class="gflt-loading">Loading...</div></div></div></div>
