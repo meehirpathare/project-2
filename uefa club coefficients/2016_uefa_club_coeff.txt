@@ -332,7 +332,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-TUR team_135" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
+<span class="team-flag flag-TUR team_135 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
 <span class="team-code">
                     TUR
                   </span>
@@ -359,7 +359,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-SUI team_128" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
+<span class="team-flag flag-SUI team_128 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
 <span class="team-code">
                     SUI
                   </span>
@@ -386,7 +386,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CZE team_58837" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
+<span class="team-flag flag-CZE team_58837 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
 <span class="team-code">
                     CZE
                   </span>
@@ -413,7 +413,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-GRE team_49" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
+<span class="team-flag flag-GRE team_49 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
 <span class="team-code">
                     GRE
                   </span>
@@ -440,7 +440,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-ROU team_113" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
+<span class="team-flag flag-ROU team_113 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
 <span class="team-code">
                     ROU
                   </span>
@@ -467,7 +467,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-AUT team_8" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
+<span class="team-flag flag-AUT team_8 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
 <span class="team-code">
                     AUT
                   </span>
@@ -494,7 +494,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CRO team_56370" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
+<span class="team-flag flag-CRO team_56370 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
 <span class="team-code">
                     CRO
                   </span>
@@ -521,7 +521,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-POL team_109" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
+<span class="team-flag flag-POL team_109 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
 <span class="team-code">
                     POL
                   </span>
@@ -548,7 +548,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CYP team_33" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
+<span class="team-flag flag-CYP team_33 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
 <span class="team-code">
                     CYP
                   </span>
@@ -575,7 +575,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-BLR team_57155" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
+<span class="team-flag flag-BLR team_57155 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
 <span class="team-code">
                     BLR
                   </span>
@@ -602,7 +602,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-SWE team_127" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
+<span class="team-flag flag-SWE team_127 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
 <span class="team-code">
                     SWE
                   </span>
@@ -629,7 +629,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-NOR team_101" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
+<span class="team-flag flag-NOR team_101 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
 <span class="team-code">
                     NOR
                   </span>
@@ -656,7 +656,7 @@
 </td>
 <td class="table_member-name">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-ISR team_65" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
+<span class="team-flag flag-ISR team_65 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
 <span class="team-code">
                     ISR
                   </span>
@@ -1688,7 +1688,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="10">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-TUR team_135" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
+<span class="team-flag flag-TUR team_135 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Turkey"></span>
 <span class="team-code">
                     TUR
                   </span>
@@ -1704,7 +1704,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="11">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-SUI team_128" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
+<span class="team-flag flag-SUI team_128 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Switzerland"></span>
 <span class="team-code">
                     SUI
                   </span>
@@ -1720,7 +1720,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="12">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CZE team_58837" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
+<span class="team-flag flag-CZE team_58837 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Czech Republic"></span>
 <span class="team-code">
                     CZE
                   </span>
@@ -1736,7 +1736,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="13">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-GRE team_49" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
+<span class="team-flag flag-GRE team_49 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Greece"></span>
 <span class="team-code">
                     GRE
                   </span>
@@ -1752,7 +1752,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="14">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-ROU team_113" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
+<span class="team-flag flag-ROU team_113 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Romania"></span>
 <span class="team-code">
                     ROU
                   </span>
@@ -1768,7 +1768,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="15">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-AUT team_8" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
+<span class="team-flag flag-AUT team_8 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Austria"></span>
 <span class="team-code">
                     AUT
                   </span>
@@ -1784,7 +1784,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="16">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CRO team_56370" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
+<span class="team-flag flag-CRO team_56370 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Croatia"></span>
 <span class="team-code">
                     CRO
                   </span>
@@ -1800,7 +1800,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="17">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-POL team_109" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
+<span class="team-flag flag-POL team_109 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Poland"></span>
 <span class="team-code">
                     POL
                   </span>
@@ -1816,7 +1816,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="18">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-CYP team_33" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
+<span class="team-flag flag-CYP team_33 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Cyprus"></span>
 <span class="team-code">
                     CYP
                   </span>
@@ -1832,7 +1832,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="19">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-BLR team_57155" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
+<span class="team-flag flag-BLR team_57155 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Belarus"></span>
 <span class="team-code">
                     BLR
                   </span>
@@ -1848,7 +1848,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="20">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-SWE team_127" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
+<span class="team-flag flag-SWE team_127 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Sweden"></span>
 <span class="team-code">
                     SWE
                   </span>
@@ -1864,7 +1864,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="21">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-NOR team_101" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
+<span class="team-flag flag-NOR team_101 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Norway"></span>
 <span class="team-code">
                     NOR
                   </span>
@@ -1880,7 +1880,7 @@
 <span class="trend icon-trend-stable" title="STABLE"></span>
 </td><td class="table_member-name" data-dt-column="1" data-dt-row="22">
 <span class="table_team-name_block">
-<span class="pflazyload pflazy-bg team-flag flag-ISR team_65" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
+<span class="team-flag flag-ISR team_65 lazyloaded" data-bgset="" data-fallback="https://img.uefa.com/imgml/TP/teams/logos/clublogo_140X140.png" data-sizes="auto" title="Israel"></span>
 <span class="team-code">
                     ISR
                   </span>
