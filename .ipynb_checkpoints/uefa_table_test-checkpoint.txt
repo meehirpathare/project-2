@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html data-culture="en-GB" data-lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website# ">
+<title>Country coefficients | UEFA Coefficients | UEFA.com</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video and stats, as well as insights into how the organisation works, including information on financial fair play, how UEFA supports grassroots football and the UEFA HatTrick funding scheme." name="description"/>
+<meta content="UEFA.com" name="author"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="UEFA.com" name="application-name"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="UEFA.com" name="apple-mobile-web-app-title"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="Country coefficients | UEFA Coefficients" property="twitter:text:title"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="website" property="og:type"/>
+<meta content="Country coefficients | UEFA Coefficients" property="og:title"/>
+<meta content="https://img.uefa.com/imgml/icons/social/og/uefacom.jpg" property="og:image"/>
+<meta content="0" property="og:image:width"/>
+<meta content="0" property="og:image:height"/>
+<link href="https://img.uefa.com/imgml/icons/social/og/uefacom.jpg" rel="image_src"/>
+<meta content="UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video and stats, as well as insights into how the organisation works, including information on financial fair play, how UEFA supports grassroots football and the UEFA HatTrick funding scheme." property="og:description"/>
+<meta content="UEFA.com" property="og:site_name"/>
+<!-- mobile stuff -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/icomoon/icomoon.ttf" rel="preload"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/roboto/RobotoCondensed-LightItalic.ttf" rel="preload"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/roboto/RobotoCondensed-Regular.ttf" rel="preload"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/roboto/RobotoCondensed-Bold.ttf" rel="preload"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/roboto/Roboto-Regular.ttf" rel="preload"/>
+<link as="font" crossorigin="anonymous" href="/Content/fonts/roboto/Roboto-Bold.ttf" rel="preload"/>
+<!-- CSS file ~/CompiledAssets/UefaCom/css/preload.css content -->
+<style type="text/css">.main-wrap{position:relative;opacity:0;-webkit-transition-property:opacity;transition-property:opacity;-webkit-transition-duration:.5s;transition-duration:.5s;-webkit-transition-timing-function:ease-out;transition-timing-function:ease-out;-webkit-backface-visibility:hidden;backface-visibility:hidden}
+/*# sourceMappingURL=preload.css.map */</style>
+<link as="style" crossorigin="anonymous" href="/CompiledAssets/UefaCom/css/fonts/global.css?_t=51a06aa5b06fd67963f96759dffbdf21" onload="this.rel = 'stylesheet'" rel="preload"/>
+<noscript><link href="/CompiledAssets/UefaCom/css/fonts/global.css?_t=51a06aa5b06fd67963f96759dffbdf21" rel="stylesheet"/></noscript>
+<link as="style" crossorigin="anonymous" href="/CompiledAssets/UefaCom/css/competitions/uefarankings/base-uefarankings.css?_t=d7c639a444a202d56b2cb59949275755" onload="this.rel = 'stylesheet'" rel="preload"/>
+<noscript><link href="/CompiledAssets/UefaCom/css/competitions/uefarankings/base-uefarankings.css?_t=d7c639a444a202d56b2cb59949275755" rel="stylesheet"/></noscript>
+<link as="style" crossorigin="anonymous" href="/CompiledAssets/UefaCom/css/competitions/uefarankings/sections/standings.css?_t=a9de069d08409b27696e259759dfa34f" onload="this.rel = 'stylesheet'" rel="preload"/>
+<noscript><link href="/CompiledAssets/UefaCom/css/competitions/uefarankings/sections/standings.css?_t=a9de069d08409b27696e259759dfa34f" rel="stylesheet"/></noscript>
+<script type="application/ld+json">
+    [{"@type":"SportsOrganization","@id":"https://www.uefa.com","@context":"http://schema.org","url":"https://www.uefa.com","description":"Europe\u0027s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc.).  The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA\u0027s club competitions.","name":"UEFA","legalName":"UEFA","location":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"CH","addressLocality":"Nyon","streetAddress":"Route de GenÃ¨ve 46, 1260 Nyon, Switzerland"}},"telephone":"+41 (0) 848 00 2727","foundingDate":"1954-06-15","foundingLocation":"CH","sport":"Football","logo":{"@type":"ImageObject","url":"https://img.uefa.com/imgml/uefaorg/new/logo.png","width":200,"height":200},"sameAs":["https://twitter.com/@@UEFAcom","https://www.facebook.com/uefacom","https://plus.google.com/+UEFAcom","https://www.youtube.com/user/UEFA","https://www.instagram.com/uefacom/"],"potentialAction":{"@type":"SearchAction","target":"//www.uefa.com/search/#{search_term_string}","query-input":"required name=search_term_string"}},
+    {"@type":"WebSite","@context":"http://schema.org","name":"UEFA.com","url":"https://www.uefa.com"}]
+  </script>
+<script type="text/javascript">
+    window.uefaBaseUrl = '//www.uefa.com';
+    window.vsmBaseUrl = '';
+    window.uefaApiBaseUrl = '/api/v1/';
+    window.liveBlogBasePath = '/api/v2/blogs/';
+
+    window.competitionId = '';
+    window.competitionFolder = 'uefarankings';
+    window.competitionBanner = '';
+    window.isClub = true;
+    window.imgBaseUrl = 'https://img.uefa.com';
+
+    window.apiUrl = 'https://digital-api.uefa.com/';
+    window.apiKey = 'ceeee1a5bb209502c6c438abd8f30aef179ce669bb9288f2d1cf2fa276de03f4';
+    window.matchApiUrl = 'https://match.uefa.com/';
+    window.compApiUrl = 'https://comp.uefa.com/';
+    window.masApiUrl = 'https://mas.uefa.com/';
+    window.cardApiUrl = 'https://data-card.uefa.com/';
+    window.cobaltCachedSearch = false;
+    window.cobaltApiUrl = 'https://editorial.uefa.com/api/';
+    window.cobaltBaseUrl = 'https://editorial.uefa.com/';
+    window.cobaltImgBaseUrl = 'https://editorial.uefa.com/';
+
+    window.gamingHubComponentUrl = 'https://gaming.uefa.com/webcomponent/index.js';
+
+    window.akamaiTokenUrl = '/api/v1/akamai/token';
+    window.idpApiKey = '3__N-xOlzJ6RNTtosKWZJvECS0U7fE12-78J9VzwEGBwwoaUXfji5hn-uaK9930RN5';
+
+    window.hideCookie = false;
+    window.syncFavourites = true;
+    window.syncFavouritesNotification = false;
+
+    window.instantviewactive = true;
+    window.instantviewforced = false;
+    window.pwaMenu = false;
+
+    window.jwplayerScript = '';
+    window.appInsightsInstrumentationKey = 'fe6374fc-0048-4462-89f7-c110069a91dd';
+
+    window.apiSecretKey = 'FAC3B594-EECD-4A82-BAF2-0023BDBAFE6C';
+
+    window.showFirstLegReasonWin = false;
+  </script>
+<script type="text/javascript">
+    window.d3OnLoad = function (callback) {
+      if (window.addEventListener) {
+        window.addEventListener('load', function () { callback(jQuery, window); }, false);
+      } else if (window.attachEvent) {
+        window.attachEvent('onload', function () { callback(jQuery, window); });
+      }
+    }
+
+    window.d3TranslationsAdd = function (obj) {
+      obj = obj || {};
+      window.d3Translations = window.d3Translations || {};
+      for (var key in obj) {
+        if (obj.hasOwnProperty(key)) window.d3Translations[key] = obj[key];
+      }
+    }
+  </script>
+<script type="text/javascript">
+    if (window.d3TranslationsAdd) window.d3TranslationsAdd({"monday":"Monday","tuesday":"Tuesday","wednesday":"Wednesday","thursday":"Thursday","friday":"Friday","saturday":"Saturday","sunday":"Sunday","calendar_jan":"January","calendar_feb":"February","calendar_mar":"March","calendar_apr":"April","calendar_may":"May","calendar_jun":"June","calendar_jul":"July","calendar_aug":"August","calendar_sep":"September","calendar_oct":"October","calendar_nov":"November","calendar_dec":"December","monday_abbr":"Mon","tuesday_abbr":"Tue","wednesday_abbr":"Wed","thursday_abbr":"Thu","friday_abbr":"Fri","saturday_abbr":"Sat","sunday_abbr":"Sun","calendar_jan_abbr":"Jan","calendar_feb_abbr":"Feb","calendar_mar_abbr":"Mar","calendar_apr_abbr":"Apr","calendar_may_abbr":"May","calendar_jun_abbr":"Jun","calendar_jul_abbr":"Jul","calendar_aug_abbr":"Aug","calendar_sep_abbr":"Sep","calendar_oct_abbr":"Oct","calendar_nov_abbr":"Nov","calendar_dec_abbr":"Dec","time_days_ago":"{0} days ago","time_day_ago":"one day ago","time_hours_ago":"{0} hours ago","time_hour_ago":"one hour ago","time_less_hour_ago":"less than one hour ago","time_minutes_ago":"{0} minutes ago","time_minute_ago":"one minute ago","time_now":"Just now"});
+  </script>
+<!--fix for Mobile Safari-->
+<script type="text/javascript">
+    document.addEventListener("touchstart", function () { }, false);
+  </script>
+<style>
+    html {
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+  </style>
+<!--[if lt IE 10]>
+      <script>document.getElementsByTagName("html")[0].className = "old-ie";</script>
+    <![endif]-->
+<script async="" defer="" src="/CompiledAssets/UefaCom/js/void.js?_t=e2a2601b0a9f8d0a40454ee727ec9152" type="text/javascript"></script>
+<script async="" defer="" src="https://cdn.jwplayer.com/libraries/MRgM2eB8.js" type="text/javascript"></script>
+<script id="custom-elements-es5-adapter-loader">
+    if (window.customElements) {
+      var src, currTag, script;
+      src = '/CompiledAssets/UefaCom/js/webcomponentsjs/custom-elements-es5-adapter.js';
+      currTag = document.getElementById('custom-elements-es5-adapter-loader');
+      script = document.createElement('script');
+      script.src = src;
+      currTag.parentNode.insertBefore(script, currTag.nextSibling);
+    }
+  </script>
+<!-- OneTrust Cookies Consent Notice start -->
+<script charset="UTF-8" src="https://optanon.blob.core.windows.net/consent/b03c9716-cd41-464d-9bf3-2897db504028.js" type="text/javascript"></script>
+<script type="text/javascript">
+      function OptanonWrapper() {
+        window.dataLayer.push({ event: 'OneTrustGroupsUpdated' });
+      }
+    </script>
+<!-- OneTrust Cookies Consent Notice end -->
+<script type="text/javascript">
+          
+        var pageName = '/memberassociations/uefarankings/country/';
+        
+
+        var pageFormat = 'standard view';
+        if (window.instantviewactive && (/iv=true/i).test(document.location.search) || window.instantviewforced) {
+          pageFormat = 'instant view';
+        }
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+        event: 'Page Meta',
+        pageName: pageName,
+        pageFormat: pageFormat,
+        userAgent: window.navigator.userAgent,
+        "language":"EN","pageLanguage":"EN","pageTitle":"Country coefficients | UEFA Coefficients | UEFA.com","competition":"member associations","environment":"production","hour":"20","minute":"20","date":"2020-09-29","dayOfWeek":"Tuesday","second":"24","timezone":"00:00:00","siteType":"Website","pageType":"hub","pageSubType":"domestic","contentSection1":null,"contentSection2":null,"contentSection3":null
+      });
+    </script>
+<script type="text/javascript">
+      window.d3OnLoad(function () {
+        if (!window.D3 || !window.D3.country) return;
+
+        window.D3.country.get().then(function (country) {
+          if (!country.fifaCountryCode) return;
+          window.dataLayer.push({
+            event: "Page Meta",
+            country: country.fifaCountryCode
+          });
+        });
+      });
+    </script>
+<!-- Google Optimize -->
+<style>
+        .async-hide {
+          opacity: 0 !important;
+        }
+      </style>
+<script>
+        (function(a, s, y, n, c, h, i, d, e) {
+          s.className += ' ' + y;
+          h.start = 1 * new Date;
+          h.end = i = function() { s.className = s.className.replace(RegExp(' ?' + y), '') };
+          (a[n] = a[n] || []).hide = h;
+          setTimeout(function() {
+              i();
+              h.end = null
+            },
+            c);
+          h.timeout = c;
+        })(window, document.documentElement, 'async-hide', 'dataLayer', 4000, { 'GTM-WGBZGNT': true });
+      </script>
+<!-- end Google Optimize -->
+<!-- Google Analytics -->
+<script>
+        (function(i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r;
+          i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) },
+            i[r].l = 1 * new Date();
+          a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-99223133-1', 'auto');
+          ga('require', 'GTM-WGBZGNT');
+      </script>
+<!-- end Google Analytics -->
+<!-- Google Tag Manager -->
+<script>
+        (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+          j.async = true;
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5NXJMPQ');
+      </script>
+<!-- end Google Tag Manager -->
+</head>
+<body class="langE">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5NXJMPQ" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Main wrapper -->
+<div class="container-fluid main-wrap">
+<!-- Header -->
+<header class="row header-wrap">
+<script type="text/javascript">
+  window.uefaBaseUrl = window.uefaBaseUrl || '//www.uefa.com';
+  window.vsmBaseUrl = window.vsmBaseUrl || '';
+  window.uefaApiBaseUrl = window.uefaApiBaseUrl || '/api/v1/';
+</script>
+<nav class="navbar navbar-inverse navbar-lv0 nav-minimized">
+<div class="container-fluid">
+<!-- UEFA.com logo -->
+<a class="navbar-brand hidden-xs js-tracking-link" data-scope="Header" data-tracking='{"action":"Menu - Level 1 - Access UEFA.com logo","label":"navigation","category":"Click"}' href="/">
+<img alt="UEFA.COM" class="pflazyload lazyfade" data-sizes="auto" data-srcset="https://img.uefa.com/imgml/uefacom/elements/main-nav/uefa-logo-black.svg" height="18" title="UEFA.COM" width="102"/>
+</a>
+<!-- Level 0 navigation -->
+<ul class="nav navbar-nav navbar-right">
+<li class="nav-aboutuefa hidden-xs js-tracking-link" data-options='{"apiKey":"ceeee1a5bb209502c6c438abd8f30aef179ce669bb9288f2d1cf2fa276de03f4","apiUrl":"https://match.uefa.com/v2/livescore?competitionId=18,24,39,38,14,27,2018,19,2014,22,23,2017,28,9,1,5,13,3,101,25,2008","selector":"[data-menuid=\"nav_livescores\"]"}' data-plugin="livematches">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Inside UEFA","label":"navigation","category":"Click"}' href="/insideuefa/">
+Inside UEFA                      </a>
+</li>
+<li class="livescore hidden-xs d3-plugin js-tracking-link" data-options='{"apiKey":"ceeee1a5bb209502c6c438abd8f30aef179ce669bb9288f2d1cf2fa276de03f4","apiUrl":"https://match.uefa.com/v2/livescore?competitionId=18,24,39,38,14,27,2018,19,2014,22,23,2017,28,9,1,5,13,3,101,25,2008","selector":"[data-menuid=\"nav_livescores\"]"}' data-plugin="livematches">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Live scores","label":"navigation","category":"Click"}' href="/livescores/">
+Live scores                      </a>
+</li>
+<li class="hidden-xs js-tracking-link" data-options='{"apiKey":"ceeee1a5bb209502c6c438abd8f30aef179ce669bb9288f2d1cf2fa276de03f4","apiUrl":"https://match.uefa.com/v2/livescore?competitionId=18,24,39,38,14,27,2018,19,2014,22,23,2017,28,9,1,5,13,3,101,25,2008","selector":"[data-menuid=\"nav_livescores\"]"}' data-plugin="livematches">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Tickets and hospitality","label":"navigation","category":"Click"}' href="/tickets/">
+Tickets and hospitality                      </a>
+</li>
+<li class="hidden-xs js-tracking-link" data-options='{"apiKey":"ceeee1a5bb209502c6c438abd8f30aef179ce669bb9288f2d1cf2fa276de03f4","apiUrl":"https://match.uefa.com/v2/livescore?competitionId=18,24,39,38,14,27,2018,19,2014,22,23,2017,28,9,1,5,13,3,101,25,2008","selector":"[data-menuid=\"nav_livescores\"]"}' data-plugin="livematches">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Store","label":"navigation","category":"Click"}' href="https://store.uefa.com/">
+Store                      </a>
+</li>
+<!--Login-->
+<li class="dropdown nav-login d3-plugin hidden" data-plugin="loginheader">
+<a class="js-open-login js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Login","label":"navigation","category":"Click"}' href="#" role="button">
+        Login<span aria-hidden="true" class="icon-login"> </span>
+</a>
+<a aria-expanded="false" aria-haspopup="true" class="js-login-name hidden dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+<span class="js-uefa-username"> </span>
+<span aria-hidden="true" class="icon-login"> </span>
+</a>
+<ul class="dropdown-menu logged-in-dropdown">
+<li>
+<div class="dropdown-close-btn container">
+<span class="icon-close"> </span>
+</div>
+<div class="container">
+<ul class="user-options-list">
+<li>
+<a class="js-logged-profile" href="#" title="Profile">Profile</a>
+</li>
+<li>
+<a class="js-logged-logout" href="#" title="Log out">Log out</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="favourite_club">
+</li>
+<!-- All sections dropdown -->
+<li class="dropdown all-sections-btn">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle js-tracking-link" data-toggle="dropdown" data-tracking='{"action":"Menu - Level 1 - Open all sections panel","label":"navigation","category":"Click"}' href="#" role="button">
+<span class="dropdown-toggle-text hidden-xs">All sections</span>
+<span class="dropdown-toggle-hamburger hidden-xs">
+<span class="icon-bar"> </span>
+<span class="icon-bar"> </span>
+<span class="icon-bar"> </span>
+</span>
+<img alt="UEFA.COM" class="visible-xs-inline-block pflazyload lazyfade" data-sizes="auto" data-srcset="https://img.uefa.com/imgml/uefacom/elements/main-nav/uefa-logo-black.svg" height="13" title="UEFA.COM" width="83"/>
+<span class="icon-arrow-thick-down visible-xs-inline-block"> </span>
+</a>
+<ul class="dropdown-menu all-sections-nav" role="menubar">
+<li>
+<div class="dropdown-close-btn container-fluid">
+<span class="icon-close js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Close all sections panel","label":"navigation","category":"Click"}'> </span>
+</div>
+<form class="">
+<div class="navbar-lv1--all-sections pflazyload pflazy-bg">
+<div class="navbar-lv1--all-sections-header container-fluid">
+<a class="navbar-brand js-tracking-link" data-scope="Header" data-tracking='{"action":"Menu - Level 1 - Access UEFA.com logo","label":"navigation","category":"Click"}' href="/">
+<img alt="UEFA.COM" class="pflazyload lazyfade" data-sizes="auto" data-srcset="https://img.uefa.com/imgml/uefacom/elements/main-nav/uefa-logo-black.svg" height="18" title="UEFA.COM" width="102"/>
+</a>
+</div>
+<div class="navbar-lv1--all-sections-body container">
+<div class="uefacom-menu clearfix">
+<div class="navbar-top-competitions-wrap visible-xs-block">
+<ul class="navbar-competition">
+<li class="nav-uefa-homepage visible-xs-block" role="menuitem">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Homepage","label":"navigation","category":"Click"}' href="/">
+                                Home
+                              </a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefachampionsleague" data-tracking='{"action":"Menu - Level 1 - Access UEFA Champions League","label":"navigation","category":"Click"}' href="/uefachampionsleague/">UEFA Champions League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefaeuropaleague" data-tracking='{"action":"Menu - Level 1 - Access UEFA Europa League","label":"navigation","category":"Click"}' href="/uefaeuropaleague/">UEFA Europa League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="womencup_mobile" data-tracking='{"action":"Menu - Level 1 - Access UEFA Women\u0027s Champions Leagueup","label":"navigation","category":"Click"}' href="/womenschampionsleague/">UEFA Women's Champions League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_UEFA_Nations_League" data-tracking='{"action":"Menu - Level 1 - Access UEFA Nations League","label":"navigation","category":"Click"}' href="/uefanationsleague/">UEFA Nations League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="euroqualifiers" data-tracking='{"action":"Menu - Level 1 - Access European Qualifiers","label":"navigation","category":"Click"}' href="/european-qualifiers/">European Qualifiers</a>
+</li>
+</ul>
+</div>
+<div class="navbar-sections-wrap hidden-xs">
+<ul class="navbar-sections">
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="memberassociation" data-tracking='{"action":"Menu - Level 1 - Access Member associations","label":"navigation","category":"Click"}' href="/insideuefa/member-associations/">Member associations</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_womens" data-tracking='{"action":"Menu - Level 1 - Access Women\u0027s football","label":"navigation","category":"Click"}' href="/women/">Women's football</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="domestic_european_competitions_top" data-tracking='{"action":"Menu - Level 1 - Access domestic european competitions","label":"navigation","category":"Click"}' href="/memberassociations/leaguesandcups/">Domestic European competitions</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_livescores" data-tracking='{"action":"Menu - Level 1 - Access Live scores","label":"navigation","category":"Click"}' href="/livescores/">Live scores</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="tv_guide" data-tracking='{"action":"Menu - Level 1 - Access TV Guide","label":"navigation","category":"Click"}' href="/tvguide/">TV Guide</a>
+</li>
+</ul>
+</div>
+<div class="navbar-competitions-wrap">
+<div class="navbar-competitions-title">
+                            Competitions
+                            <a aria-controls="lv1-comp-list" aria-expanded="false" class="navbar-competitions-toggle collapsed visible-xs-block js-tracking-link" data-options='{"className":"active"}' data-plugin="dropdown" data-toggle="collapse" data-tracking='{"action":"Menu - Level 1 - Competitions toggle","label":"navigation","category":"Click"}' href="#lv1-comp-list">
+                              Competitions
+                              <span class="icon-arrow-thick-top"> </span>
+</a>
+</div>
+<div class="navbar-collapse collapse" id="lv1-comp-list">
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+                                Clubs
+                              </li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="ucl" data-tracking='{"action":"Menu - Level 1 - Access UEFA Champions League","label":"navigation","category":"Click"}' href="/uefachampionsleague/">UEFA Champions League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefacup" data-tracking='{"action":"Menu - Level 1 - Access UEFA Europa League","label":"navigation","category":"Click"}' href="/uefaeuropaleague/">UEFA Europa League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="supercup" data-tracking='{"action":"Menu - Level 1 - Access UEFA Super Cup","label":"navigation","category":"Click"}' href="/uefasupercup/">UEFA Super Cup</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uyl" data-tracking='{"action":"Menu - Level 1 - Access UEFA Youth League","label":"navigation","category":"Click"}' href="/uefayouthleague/">UEFA Youth League</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+                                National
+                              </li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="worldcup" data-tracking='{"action":"Menu - Level 1 - Access European Qualifiers","label":"navigation","category":"Click"}' href="/european-qualifiers/">European Qualifiers</a>
+</li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefaeuro2020" data-tracking='{"action":"Menu - Level 1 - Access UEFA EURO 2020","label":"navigation","category":"Click"}' href="/uefaeuro-2020/">UEFA EURO 2020</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefaeuro2024" data-tracking='{"action":"Menu - Level 1 - Access UEFA EURO 2024","label":"navigation","category":"Click"}' href="/euro-2024/">UEFA EURO 2024</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefanationsleague" data-tracking='{"action":"Menu - Level 1 - Access UEFA Nations League","label":"navigation","category":"Click"}' href="/uefanationsleague/">UEFA Nations League</a>
+</li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_under21" data-tracking='{"action":"Menu - Level 1 - Access Under-21","label":"navigation","category":"Click"}' href="/under21/">Under-21</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+                                Youth &amp; Amateur
+                              </li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="under19" data-tracking='{"action":"Menu - Level 1 - Access Under-19","label":"navigation","category":"Click"}' href="/under19/">Under-19</a>
+</li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="under17" data-tracking='{"action":"Menu - Level 1 - Access Under-17","label":"navigation","category":"Click"}' href="/under17/">Under-17</a>
+</li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="region" data-tracking='{"action":"Menu - Level 1 - Access UEFA Regions\u0027 Cup","label":"navigation","category":"Click"}' href="/regionscup/">UEFA Regions' Cup</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+<a class="js-tracking-link" data-menuid="womencomps" data-tracking='{"action":"Menu - Level 1 - Access womencomps","label":"navigation","category":"Click"}' href="/women/">Women</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="woco" data-tracking='{"action":"Menu - Level 1 - Access UEFA Women\u0027s EURO","label":"navigation","category":"Click"}' href="/womenseuro/">UEFA Women's EURO</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="womencup" data-tracking='{"action":"Menu - Level 1 - Access UEFA Women\u0027s Champions League","label":"navigation","category":"Click"}' href="/womenschampionsleague/">UEFA Women's Champions League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="wunder19" data-tracking='{"action":"Menu - Level 1 - Access Women\u0027s Under-19","label":"navigation","category":"Click"}' href="/womensunder19/">Women's Under-19</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="wunder17" data-tracking='{"action":"Menu - Level 1 - Access Women\u0027s Under-17","label":"navigation","category":"Click"}' href="/womensunder17/">Women's Under-17</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+                                Futsal
+                              </li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="futchamp" data-tracking='{"action":"Menu - Level 1 - Access Futsal EURO","label":"navigation","category":"Click"}' href="/futsaleuro/">Futsal EURO</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="futwc" data-tracking='{"action":"Menu - Level 1 - Access FIFA Futsal World Cup","label":"navigation","category":"Click"}' href="/futsalworldcup/">FIFA Futsal World Cup</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="uefafutsalchampionsleague" data-tracking='{"action":"Menu - Level 1 - Access Futsal Champions League","label":"navigation","category":"Click"}' href="/uefafutsalchampionsleague/">Futsal Champions League</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="wfeuro" data-tracking='{"action":"Menu - Level 1 - Access UEFA Women\u0027s Futsal EURO","label":"navigation","category":"Click"}' href="/womensfutsaleuro/">UEFA Women's Futsal EURO</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="funder19" data-tracking='{"action":"Menu - Level 1 - Access Under-19 Futsal EURO","label":"navigation","category":"Click"}' href="/futsalunder19/">Under-19 Futsal EURO</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="corporate-menu-mobile">
+<div class="uefaorg-menu clearfix">
+<div class="navbar-competitions-wrap">
+<div class="navbar-competitions-title">
+<a class="js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Inside UEFA","label":"navigation","category":"Click"}' href="/insideuefa/">
+                                Inside UEFA
+                                
+                              </a>
+</div>
+<div class="navbar-collapse collapse" id="lv2-comp-list">
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="about_uefa_item" data-tracking='{"action":"Menu - Level 1 - Access About Uefa","label":"navigation","category":"Click"}' href="/insideuefa/about-uefa/">About UEFA</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="mediaservices" data-tracking='{"action":"Menu - Level 1 - Access Media","label":"navigation","category":"Click"}' href="/insideuefa/mediaservices/">Media</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="ma_item" data-tracking='{"action":"Menu - Level 1 - Access Library","label":"navigation","category":"Click"}' href="/insideuefa/documentlibrary/">Library</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="football_development_item" data-tracking='{"action":"Menu - Level 1 - Access Development","label":"navigation","category":"Click"}' href="/insideuefa/football-development/">Development</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="careers_item" data-tracking='{"action":"Menu - Level 1 - Access Careers","label":"navigation","category":"Click"}' href="/insideuefa/careers/">Careers</a>
+</li>
+<li data-lang="onlylang- nolang-d,i,f,s,p,r,j" role="menuitem">
+<a class="js-tracking-link" data-menuid="Disciplinary_item" data-tracking='{"action":"Menu - Level 1 - Access Disciplinary","label":"navigation","category":"Click"}' href="/insideuefa/disciplinary/">Disciplinary</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="Social_Responsibility" data-tracking='{"action":"Menu - Level 1 - Access Social Responsibility","label":"navigation","category":"Click"}' href="/insideuefa/social-responsibility/">Social responsibility</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="protectingthegame_item" data-tracking='{"action":"Menu - Level 1 - Access Protecting the game","label":"navigation","category":"Click"}' href="/insideuefa/protecting-the-game/">Protecting the game</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="stakeholders" data-tracking='{"action":"Menu - Level 1 - Access Stakeholders","label":"navigation","category":"Click"}' href="/insideuefa/stakeholders/">Stakeholders</a>
+</li>
+</ul>
+<ul class="navbar-competition">
+<li class="navbar-competition-title">
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="awards-menu" data-tracking='{"action":"Menu - Level 1 - Access Awards","label":"navigation","category":"Click"}' href="/insideuefa/awards/">Awards</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="footer_news" data-tracking='{"action":"Menu - Level 1 - Access News","label":"navigation","category":"Click"}' href="/insideuefa/news/">News</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navbar-sections-wrap visible-xs-block">
+<ul class="navbar-sections">
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="memberassociation" data-tracking='{"action":"Menu - Level 1 - Access Member associations","label":"navigation","category":"Click"}' href="/insideuefa/member-associations/">Member associations</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_womens" data-tracking='{"action":"Menu - Level 1 - Access Women\u0027s football","label":"navigation","category":"Click"}' href="/women/">Women's football</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="domestic_european_competitions_top" data-tracking='{"action":"Menu - Level 1 - Access domestic european competitions","label":"navigation","category":"Click"}' href="/memberassociations/leaguesandcups/">Domestic European competitions</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="nav_livescores" data-tracking='{"action":"Menu - Level 1 - Access Live scores","label":"navigation","category":"Click"}' href="/livescores/">Live scores</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="tv_guide" data-tracking='{"action":"Menu - Level 1 - Access TV Guide","label":"navigation","category":"Click"}' href="/tvguide/">TV Guide</a>
+</li>
+</ul>
+</div>
+<div class="navbar-footer container">
+<div class="navbar-footer-inner">
+<ul class="nav-lv0">
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="ticketshospitality_hp" data-tracking='{"action":"Menu - Level 1 - Access Tickets and hospitality","label":"navigation","category":"Click"}' href="/tickets/">Tickets and hospitality</a>
+</li>
+<li data-lang="onlylang- nolang-" role="menuitem">
+<a class="js-tracking-link" data-menuid="store_hp" data-tracking='{"action":"Menu - Level 1 - Access Store","label":"navigation","category":"Click"}' href="https://store.uefa.com/">Store</a>
+</li>
+<li data-lang="onlylang- nolang-ja" role="menuitem">
+<a class="js-tracking-link" data-menuid="newsletters" data-tracking='{"action":"Menu - Level 1 - Access Newsletters","label":"navigation","category":"Click"}' href="/newsletters/">Newsletters</a>
+</li>
+</ul>
+<ul class="social-tool">
+<li class="nav-tw">
+<a class="icon-twitter js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access twitter","label":"navigation","category":"Click"}' href="https://twitter.com/@UEFAcom">
+<span class="sr-only">Twitter</span>
+</a>
+</li>
+<li class="nav-fb">
+<a class="icon-facebook js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access facebook","label":"navigation","category":"Click"}' href="https://www.facebook.com/uefacom">
+<span class="sr-only">Facebook</span>
+</a>
+</li>
+<li class="nav-g">
+<a class="icon-google js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Google +","label":"navigation","category":"Click"}' href="https://plus.google.com/+UEFAcom">
+<span class="sr-only">Google +</span>
+</a>
+</li>
+<li class="nav-in">
+<a class="icon-instagram js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Instagram","label":"navigation","category":"Click"}' href="https://instagram.com/uefacom/">
+<span class="sr-only">Instagram</span>
+</a>
+</li>
+<li class="nav-lk">
+<a class="icon-linkedin js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access Linkedin","label":"navigation","category":"Click"}' href="https://www.linkedin.com/company/uefa">
+<span class="sr-only">Linkedin</span>
+</a>
+</li>
+<li class="nav-nm">
+<a class="icon-newsmarket js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access newsmarket","label":"navigation","category":"Click"}' href="https://uefa.newsmarket.com/">
+<span class="sr-only">The NewsMarket</span>
+</a>
+</li>
+<li class="nav-yt">
+<a class="icon-youTube js-tracking-link" data-tracking='{"action":"Menu - Level 1 - Access youTube","label":"navigation","category":"Click"}' href="http://www.youtube.com/UEFA">
+<span class="sr-only">YouTube</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<script>
+document.cookie = "OptanonConsent=; Path=/; domain=www.uefa.com; expires=Thu, 01 Jan 1970 00:00:01 GMT;";
+</script>
+</header>
+<!-- Content wrapper -->
+<div class="body row">
+<div class="content-wrap">
+<!-- Navigation -->
+<div class="navigation">
+<nav class="navbar-iw-lv0" data-offset="60">
+<div class="competition-logo">
+<a class="logolink pflazyload pflazy-bg js-tracking-link" data-tracking='{"action":"Menu - Instant view - Access member associations logo","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/" title="UEFA club coefficients">UEFA club coefficients</a>
+</div>
+<div class="competition-aside">
+<!-- Countdown/wordmark -->
+<div class="competition-info">
+</div>
+<!-- Sponsors -->
+<div class="instant-view-promo-container navbar-sponsors">
+</div>
+</div>
+<!-- Close button -->
+<a class="pg-btn close-modal js-instant-view-close js-tracking-link" data-tracking='{"action":"Menu - Instant view - Close","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/">
+<span class="icon-close"></span>
+</a>
+</nav>
+<nav class="navbar-lv2 d3-plugin" data-options='{"disableStickyHeader":false,"enableWFMainMenu":false}' data-plugin="navigation">
+<!-- Logo -->
+<div class="competition-logo">
+<a class="logolink pflazyload pflazy-bg js-tracking-link" data-tracking='{"action":"Menu - Level 2 - Access member associations logo","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/" title="UEFA club coefficients">UEFA club coefficients</a>
+</div>
+<div class="competition-aside">
+<!-- Countdown/wordmark -->
+<div class="competition-info">
+</div>
+<!-- Sponsors -->
+</div>
+<!-- Navigation -->
+<div class="navbar-lv2-wrap js-nav-wrap">
+<div class="container-fluid">
+<div class="competition-logo-affix">
+<a class="logolink pflazyload pflazy-bg js-tracking-link" data-tracking='{"action":"Sticky Menu - Level 2 - Access member associations logo","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/" title="UEFA club coefficients">UEFA club coefficients</a>
+</div>
+<a class="navbar-lv2-toggle hidden-md hidden-lg js-toggle" href="#">
+<span class="toggle-text">Menu</span>
+<span class="toggle-hamburger">
+<span class="icon-bar"> </span>
+<span class="icon-bar"> </span>
+<span class="icon-bar"> </span>
+</span>
+<span class="toggle-close icon-close"> </span>
+</a>
+<ul class="navbar-lv2-nav js-nav">
+<li class="navbar-lv2-item navbar-lv2-breadcrumb hidden-md hidden-lg" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Home","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/">
+                Home
+                <span class="icon-arrow-thin-right"> </span>
+</a>
+</li>
+<li class="navbar-lv2-item first-link active" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Association club coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/country/" target="">Association club coefficients</a>
+</li>
+<li class="navbar-lv2-item" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Team coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/club/" target="">Club coefficients</a>
+</li>
+<li class="navbar-lv2-item" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Futsal Country coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/futsal/" target="">Men's Futsal National Team Coefficients</a>
+</li>
+<li class="navbar-lv2-item" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Women\u0027s Association team coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/womenscountry/" target="">Women's association club coefficients</a>
+</li>
+<li class="navbar-lv2-item" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access Women\u0027s team coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/womensclub/" target="">Women's club coefficients</a>
+</li>
+<li class="navbar-lv2-item last-link" role="presentation">
+<a class="navbar-lv2-item-link" data-tracking='{"action":"Menu - Level 2 - Access News","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/news/" target="">News</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav class="navbar-lv3">
+<div class="navbar-lv3-wrap js-nav-wrap">
+<div class="container-fluid">
+<ul class="navbar-lv3-nav js-section-nav" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li class="navbar-lv3-item active with-active-children" data-custom-props="{}" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" role="presentation">
+<a class="navbar-lv3-item-link" data-tracking='{"action":"Menu - Level 3 - Access Home","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/" itemprop="item">
+<span itemprop="name">
+          Home
+        </span>
+<meta content="1" itemprop="position"/>
+<span class="icon-arrow-thin-right"> </span>
+</a>
+</li>
+<li class="navbar-lv3-item active last" data-custom-props="{}" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" role="presentation">
+<a class="navbar-lv3-item-link" data-tracking='{"action":"Menu - Level 3 - Access Association team coefficients","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/country/" itemprop="item">
+<span itemprop="name">
+          Association club coefficients
+        </span>
+<meta content="1" itemprop="position"/>
+<span class="icon-arrow-thin-right"> </span>
+</a>
+</li>
+<li class="navbar-lv3-item" data-custom-props="{}" role="presentation">
+<a class="navbar-lv3-item-link" data-tracking='{"action":"Menu - Level 3 - Access Nations seasons","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/country/seasons/">
+<span>
+          Season
+        </span>
+</a>
+</li>
+<li class="navbar-lv3-item" data-custom-props="{}" role="presentation">
+<a class="navbar-lv3-item-link" data-tracking='{"action":"Menu - Level 3 - Access How to read the ranking","label":"navigation","category":"Click"}' href="/memberassociations/uefarankings/country/about/">
+<span>
+          How to read the ranking
+        </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+<!-- Main content -->
+<div class="content">
+<section class="section standings-big">
+<div class="container-fluid">
+<header class="section--header hidden">
+<h2 class="section--title">
+      notitle
+      </h2>
+</header>
+<div class="section--content clearfix">
+<div class="row">
+<div class="grid-box col-xs-12 col-sm-12 col-md-12 col-lg-10 col-lg-offset-1">
+<div class="box-content clearfix">
+<div class="standings-header d3-plugin" data-plugin="popover">
+<h2 class="standings-title">
+      Country coefficients
+    </h2>
+<div class="share-buttons d3-plugin" data-options='{"url":"","text":"","via":"","hashtags":"","selector":"","twUseDescr":false,"fbAppId":null,"useNavigatorShare":true}' data-plugin="social">
+<ul class="js-social-buttons">
+<li>
+<a class="icon-facebook js-share-facebook" href="#" title="Facebook">
+</a>
+</li>
+<li>
+<a class="icon-twitter js-share-twitter" href="#" title="Twitter">
+</a>
+</li>
+</ul>
+<a class="icon-share js-share-android hidden" href="#" title="Share">
+</a>
+</div>
+</div>
+<div class="standings-navigation tabs-dropdown-wrap">
+<a class="tabs-dropdown-prev" data-target="#"></a>
+<a class="tabs-dropdown-next" data-target="#"></a>
+<span class="tabs-dropdown-firstOpText">Season</span>
+<!-- Nav tabs -->
+<div class="owl-carousel-wrap hp-mosaic-wrap clearfix d3-plugin" data-options='{"competitionUrl":"memberassociations/uefarankings","baseUrl":"/memberassociations/uefarankings/country/libraries/"}' data-plugin="rankingcalendar">
+<div class="nav nav-tabs-border nav-justified owl-carousel d3-plugin" data-options='{"items":6,"responsiveRefreshRate":100,"minwidth":960}' data-plugin="responsivecarousel" id="tab-navigation" role="tablist">
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2003" role="tab">
+          2002/03
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2004" role="tab">
+          2003/04
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2005" role="tab">
+          2004/05
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2006" role="tab">
+          2005/06
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2007" role="tab">
+          2006/07
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2008" role="tab">
+          2007/08
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2009" role="tab">
+          2008/09
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2010" role="tab">
+          2009/10
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2011" role="tab">
+          2010/11
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2012" role="tab">
+          2011/12
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2013" role="tab">
+          2012/13
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2014" role="tab">
+          2013/14
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2015" role="tab">
+          2014/15
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2016" role="tab">
+          2015/16
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2017" role="tab">
+          2016/17
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2018" role="tab">
+          2017/18
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2019" role="tab">
+          2018/19
+        </a>
+</div>
+<div class="ranking-calendar-tab nav-item item active" role="presentation">
+<a aria-controls="calendar-container" data-target="#" data-toggle="tab" data-year="2020" role="tab">
+          2019/20
+        </a>
+</div>
+</div>
+</div>
+</div>
+<!-- Tab panes -->
+<div class="tab-content" id="calendar-container">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- Footer -->
+<footer class="footer-wrap pflazyload pflazy-bg">
+<div class="footer-wrap-neutral">
+<section class="section footer-nav-neutral">
+<div class="container-fluid">
+<div class="row footer-menus">
+<div class="col-xs-12 col-sm-12 col-md-1 col-lg-1">
+<div class="comp-info">
+<a class="logolink pflazyload pflazy-bg js-tracking-link" data-tracking='{"action":"Footer - Access  logo","label":"navigation","category":"Click"}' href="/" title="UEFA.com">UEFA.com</a>
+</div>
+</div>
+<div class="col-sm-12 col-md-11 col-lg-11 comp-items">
+<div class="row">
+<h3 class="navbar-macro-sec-title">Competitions</h3>
+<div class="col-sm-12">
+<div class="footer-uefaorg-menu footer-menu other-comp-link">
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access TV Guide","label":"navigation","category":"Click"}' href="/tvguide/">TV Guide</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Live scores","label":"navigation","category":"Click"}' href="/livescores/">Live scores</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Tickets and hospitality","label":"navigation","category":"Click"}' href="/tickets/">Tickets and hospitality</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Store","label":"navigation","category":"Click"}' href="https://store.uefa.com/">Store</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">Clubs</h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Champions League","label":"navigation","category":"Click"}' href="/uefachampionsleague/">UEFA Champions League</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Europa League","label":"navigation","category":"Click"}' href="/uefaeuropaleague/">UEFA Europa League</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Super Cup","label":"navigation","category":"Click"}' href="/uefasupercup/">UEFA Super Cup</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Youth League","label":"navigation","category":"Click"}' href="/uefayouthleague/">UEFA Youth League</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">National</h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access European Qualifiers","label":"navigation","category":"Click"}' href="/european-qualifiers/">European Qualifiers</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA EURO 2020","label":"navigation","category":"Click"}' href="/uefaeuro-2020/">UEFA EURO 2020</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA EURO 2024","label":"navigation","category":"Click"}' href="/euro-2024/">UEFA EURO 2024</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA_Nations_League","label":"navigation","category":"Click"}' href="/uefanationsleague/">UEFA Nations League</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Under-21","label":"navigation","category":"Click"}' href="/under21/">Under-21</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<a href="https://www.uefa.com/women/" title="Women">
+<h3 class="navbar-competitions-title">Women</h3>
+</a>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Women\u0027s EURO","label":"navigation","category":"Click"}' href="/womenseuro/">UEFA Women's EURO</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Women\u0027s Champions League","label":"navigation","category":"Click"}' href="/womenschampionsleague/">UEFA Women's Champions League</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Women\u0027s Under-19","label":"navigation","category":"Click"}' href="/womensunder19/">Women's Under-19</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Women\u0027s Under-17","label":"navigation","category":"Click"}' href="/womensunder17/">Women's Under-17</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">Youth &amp; Amateur</h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Under-19","label":"navigation","category":"Click"}' href="/under19/">Under-19</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Under-17","label":"navigation","category":"Click"}' href="/under17/">Under-17</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Regions\u0027 Cup","label":"navigation","category":"Click"}' href="/regionscup/">UEFA Regions' Cup</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">Futsal</h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Futsal EURO","label":"navigation","category":"Click"}' href="/futsaleuro/">Futsal EURO</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access FIFA Futsal World Cup","label":"navigation","category":"Click"}' href="/futsalworldcup/">FIFA Futsal World Cup</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Futsal Champions League","label":"navigation","category":"Click"}' href="/uefafutsalchampionsleague/">Futsal Champions League</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Women\u0027s Futsal EURO","label":"navigation","category":"Click"}' href="/womensfutsaleuro/">UEFA Women's Futsal EURO</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Under-19 Futsal EURO","label":"navigation","category":"Click"}' href="/futsalunder19/">Under-19 Futsal EURO</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section footer-nav-neutral corporate-items">
+<div class="container-fluid">
+<div class="row footer-menus">
+<div class="col-xs-12 col-sm-12 col-md-11 col-md-offset-1">
+<div class="row">
+<h3 class="navbar-macro-sec-title">Inside UEFA</h3>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title"></h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access About Uefa","label":"navigation","category":"Click"}' href="/insideuefa/about-uefa/">About UEFA</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Media","label":"navigation","category":"Click"}' href="/insideuefa/mediaservices/">Media</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Member Association","label":"navigation","category":"Click"}' href="/insideuefa/member-associations/">Member associations</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title"></h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Football Development","label":"navigation","category":"Click"}' href="/insideuefa/football-development/">Development</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Careers","label":"navigation","category":"Click"}' href="/insideuefa/careers/">Careers</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Disciplinary","label":"navigation","category":"Click"}' href="/insideuefa/disciplinary/">Disciplinary</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title"></h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Social Responsibility","label":"navigation","category":"Click"}' href="/insideuefa/social-responsibility/">Social responsibility</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Protecting the game","label":"navigation","category":"Click"}' href="/insideuefa/protecting-the-game/">Protecting the game</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Stakeholders","label":"navigation","category":"Click"}' href="/insideuefa/stakeholders/">Stakeholders</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title"></h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Awards","label":"navigation","category":"Click"}' href="/insideuefa/awards/">Awards</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access News","label":"navigation","category":"Click"}' href="/insideuefa/news/">News</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-ft-5">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title"></h3>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Video","label":"navigation","category":"Click"}' href="/insideuefa/video/">Video</a>
+</li>
+</ul>
+<ul class="force2col">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Library","label":"navigation","category":"Click"}' href="/insideuefa/documentlibrary/">Library</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section footer-nav-neutral">
+<div class="container-fluid">
+<div class="row footer-menus-other">
+<div class="col-xs-12 col-sm-11 col-md-11 col-md-offset-1">
+<div class="row">
+<div class="col-xs-12 col-sm-3">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">Also visit</h3>
+<ul class="">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Foundation","label":"navigation","category":"Click"}' href="http://www.uefafoundation.org/">UEFA Foundation</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access UEFA Accademy","label":"navigation","category":"Click"}' href="https://uefaacademy.com/">UEFA Academy</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Store","label":"navigation","category":"Click"}' href="https://store.uefa.com/">Store</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Domestic European competitions","label":"navigation","category":"Click"}' href="/memberassociations/leaguesandcups/">Domestic European competitions</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">Channels</h3>
+<ul class="">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access News centre","label":"navigation","category":"Click"}' href="/insideuefa/news/">News Centre</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Video","label":"navigation","category":"Click"}' href="/insideuefa/video/">Video</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3">
+<div class="footer-uefaorg-menu footer-menu">
+<h3 class="navbar-competitions-title">My UEFA.com</h3>
+<ul class="">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Newsletters","label":"navigation","category":"Click"}' href="/newsletters/">Newsletters</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-3">
+<div class="footer-uefaorg-menu footer-menu">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section footer-nav-neutral lang-items">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 footer-lang-switcher">
+<h3 class="navbar-competitions-title">Change language</h3>
+<ul class="d3-plugin" data-plugin="langselection">
+<li>
+<a class="langSelection js-tracking-link" data-langid="en" data-tracking='{"action":"Footer - Change language - EN","label":"navigation","category":"Click"}' href="//www.uefa.com/" title="English">English</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="fr" data-tracking='{"action":"Footer - Change language - FR","label":"navigation","category":"Click"}' href="//fr.uefa.com/" title="Français">Français</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="de" data-tracking='{"action":"Footer - Change language - DE","label":"navigation","category":"Click"}' href="//de.uefa.com/" title="Deutsch">Deutsch</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="ru" data-tracking='{"action":"Footer - Change language - RU","label":"navigation","category":"Click"}' href="//ru.uefa.com/" title="Русский">Русский</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="es" data-tracking='{"action":"Footer - Change language - ES","label":"navigation","category":"Click"}' href="//es.uefa.com/" title="Español">Español</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="it" data-tracking='{"action":"Footer - Change language - IT","label":"navigation","category":"Click"}' href="//it.uefa.com/" title="Italiano">Italiano</a>
+</li>
+<li>
+<a class="langSelection js-tracking-link" data-langid="pt" data-tracking='{"action":"Footer - Change language - PT","label":"navigation","category":"Click"}' href="//pt.uefa.com/" title="Português">Português</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="section footer-nav-neutral services-items">
+<div class="container-fluid">
+<h2 class="hidden">Services links and disclaimer</h2>
+<div class="row footer-menus">
+<div class="col-xs-12">
+<div class="footer-menu footer-bottom-menu clearfix">
+<ul class="">
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Accessible version","label":"navigation","category":"Click"}' href="http://ac.uefa.com/en/uefa/news/">Accessible version</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Privacy","label":"navigation","category":"Click"}' href="/privacypolicy.html">Privacy</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Terms and conditions","label":"navigation","category":"Click"}' href="/termsconditions/">Terms and conditions</a>
+</li>
+<li>
+<a class="js-tracking-link" data-tracking='{"action":"Footer - Access Cookie policy","label":"navigation","category":"Click"}' href="/cookiepolicy/">Cookie policy</a>
+</li>
+<li>
+<a class="js-tracking-link optanon-show-settings" data-tracking='{"action":"Footer - Access Cookie Settings","label":"navigation","category":"Click"}'>Cookie Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section social no-top-margin footer-nav-neutral">
+<div class="container-fluid">
+<div class="row">
+<h2 class="hidden">Social and apps links</h2>
+<div class="col-xs-12">
+<div class="social-wrap">
+<ul class="social-tool">
+<li class="social-tool-lbl">Follow us on</li>
+<li>
+<a class="icon-twitter js-tracking-link" data-tracking='{"action":"Footer - Access twitter","label":"navigation","category":"Click"}' href="https://twitter.com/uefa?lang=en-gb" title="UEFA.org on Twitter">
+<span class="sr-only">UEFA.org on Twitter</span>
+</a>
+</li>
+<li>
+<a class="icon-facebook js-tracking-link" data-tracking='{"action":"Footer - Access facebook","label":"navigation","category":"Click"}' href="https://www.facebook.com/uefa/?fref=ts" title="UEFA.org on Facebook">
+<span class="sr-only">UEFA.org on Facebook</span>
+</a>
+</li>
+<li>
+<a class="icon-instagram js-tracking-link" data-tracking='{"action":"Footer - Access instagram","label":"navigation","category":"Click"}' href="https://www.instagram.com/uefa_official/?hl=en" title="UEFA.org on Instagram">
+<span class="sr-only">UEFA.org on Instagram</span>
+</a>
+</li>
+<li>
+<a class="icon-linkedin js-tracking-link" data-tracking='{"action":"Footer - Access linkedin","label":"navigation","category":"Click"}' href="https://www.linkedin.com/company/uefa" title="UEFA.org on LinkedIn">
+<span class="sr-only">UEFA.org on LinkedIn</span>
+</a>
+</li>
+<li>
+<a class="icon-newsmarket js-tracking-link" data-tracking='{"action":"Footer - Access Uefa on Newsmarket","label":"navigation","category":"Click"}' href="https://uefa.newsmarket.com/" title="UEFA on The NewsMarket">
+<span class="sr-only">UEFA on The NewsMarket</span>
+</a>
+</li>
+<li>
+<a class="icon-youTube js-tracking-link" data-tracking='{"action":"Footer - Access Uefa on Youtube","label":"navigation","category":"Click"}' href="https://www.youtube.com/user/UEFA" title="">
+<span class="sr-only"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section footer-nav-neutral disclaimer-item">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12">
+<!-- DISCLAIMER -->
+<div class="footer-disclaimer">
+<p>© 1998-2020 UEFA. All rights reserved</p>
+<p class="hidden-xs">The UEFA word, the UEFA logo and all marks related to UEFA competitions, are protected by trademarks and/or copyright of UEFA. No use for commercial purposes may be made of such trademarks. Use of UEFA.com signifies your agreement to the Terms and Conditions and Privacy Policy.  </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<span class="cookie-policy-layer-vocabs hide" data-dismiss="I accept all cookies" data-learnmore="Learn more" data-link="//en.uefa.com/cookiepolicy/" data-message='UEFA and carefully selected third parties use Cookies to personalise and improve your browsing experience on our website. We have updated our policies to align with recent changes to Data Protection Law. For continued use of cookies we ask you to take the time to review our amended Cookie Information Policy and if you agree with it click on the “I accept all cookies” button below. If you do not agree to this or if you want to come back on your decision later, please change your cookie settings and opt out from receiving targeted advertisements from UEFA and its partners by &lt;a href="http://www.uefa.com/cookiepolicy/index.html"&gt;clicking here&lt;/a&gt;.' data-theme="light-top"></span>
+<div class="gototop hidden d3-plugin" data-plugin="gototop" title="Top">
+<div class="text">
+<span>Top</span>
+</div>
+</div>
+<script async="" defer="" src="/CompiledAssets/UefaCom/js/base.js?_t=fefd9aa9b1114733cd088a03a51f9675" type="text/javascript"></script><script async="" defer="" src="https://idpassets.uefa.com/idp.js" type="text/javascript"></script>
+<!-- Plugins -->
+<!-- Plugins -->
+<!-- Apps -->
+<!-- Apps -->
+</body>
+</html>
