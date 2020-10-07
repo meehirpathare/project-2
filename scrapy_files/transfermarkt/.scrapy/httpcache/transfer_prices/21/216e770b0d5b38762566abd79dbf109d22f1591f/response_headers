@@ -1,0 +1,10 @@
+Server: nginx
+Date: Wed, 07 Oct 2020 15:03:57 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Host: web05
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-User: 0
+Content-Encoding: gzip
