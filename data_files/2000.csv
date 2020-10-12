@@ -1,0 +1,388 @@
+,year,player_name,position,age,transfermarkt_val,team_left,league_left,joined_team,joined_league,fee,url
+0,2000,Luís Figo,Right Winger,47,-,FC Barcelona,LaLiga,Real Madrid,LaLiga,£54.00m,https://www.transfermarkt.co.uk/luis-figo/profil/spieler/3446
+1,2000,Hernán Crespo,Centre-Forward,45,-,AC Parma,Serie A,Lazio,Serie A,£51.13m,https://www.transfermarkt.co.uk/hernan-crespo/profil/spieler/3410
+2,2000,Marc Overmars,Left Winger,47,-,Arsenal,Premier League,FC Barcelona,LaLiga,£36.00m,https://www.transfermarkt.co.uk/marc-overmars/profil/spieler/3513
+3,2000,Gabriel Batistuta,Centre-Forward,51,-,Fiorentina,Serie A,AS Roma,Serie A,£32.54m,https://www.transfermarkt.co.uk/gabriel-batistuta/profil/spieler/5959
+4,2000,Nicolas Anelka,Centre-Forward,41,-,Real Madrid,LaLiga,Paris SG,Ligue 1,£31.05m,https://www.transfermarkt.co.uk/nicolas-anelka/profil/spieler/3226
+5,2000,Rio Ferdinand,Centre-Back,41,-,West Ham,Premier League,Leeds,Premier League,£23.40m,https://www.transfermarkt.co.uk/rio-ferdinand/profil/spieler/3235
+6,2000,Savo Milosevic,Centre-Forward,47,-,Real Zaragoza,LaLiga,AC Parma,Serie A,£22.50m,https://www.transfermarkt.co.uk/savo-milosevic/profil/spieler/7896
+7,2000,Flávio Conceição,Central Midfield,46,-,Dep. La Coruña,LaLiga,Real Madrid,LaLiga,£22.50m,https://www.transfermarkt.co.uk/flavio-conceicao/profil/spieler/7279
+8,2000,David Trézéguet,Centre-Forward,42,-,Monaco,Ligue 1,Juventus,Serie A,£20.92m,https://www.transfermarkt.co.uk/david-trezeguet/profil/spieler/4146
+9,2000,Claudio López,Second Striker,46,-,Valencia,LaLiga,Lazio,Serie A,£20.70m,https://www.transfermarkt.co.uk/claudio-lopez/profil/spieler/3418
+10,2000,Jimmy Floyd Hasselbaink,Centre-Forward,48,-,Atlético Madrid,2ª División,Chelsea,Premier League,£20.25m,https://www.transfermarkt.co.uk/jimmy-floyd-hasselbaink/profil/spieler/3175
+11,2000,Gerard López,Central Midfield,41,-,Valencia,LaLiga,FC Barcelona,LaLiga,£19.44m,https://www.transfermarkt.co.uk/gerard-lopez/profil/spieler/7599
+12,2000,Shabani Nonda,Centre-Forward,43,-,Stade Rennais,Ligue 1,Monaco,Ligue 1,£18.00m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+13,2000,Robbie Keane,Centre-Forward,40,-,Coventry,Premier League,Inter,Serie A,£17.55m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+14,2000,Jonathan Zebina,Centre-Back,42,-,Cagliari Calcio,Serie B,AS Roma,Serie A,£16.56m,https://www.transfermarkt.co.uk/serie-b/transfers/wettbewerb/IT2/saison_id/2000
+15,2000,Émerson,Defensive Midfield,44,-,Bay. Leverkusen,Bundesliga,AS Roma,Serie A,£16.20m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+16,2000,Sergiy Rebrov,Second Striker,46,-,Dynamo Kyiv,Vyshcha Liga,Spurs,Premier League,£16.20m,https://www.transfermarkt.co.uk/tottenham-hotspur/startseite/verein/148/saison_id/2000
+17,2000,Angelo Peruzzi,Goalkeeper,50,-,Inter,Serie A,Lazio,Serie A,£16.11m,https://www.transfermarkt.co.uk/lazio-rom/startseite/verein/398/saison_id/2000
+18,2000,Diego Tristán,Centre-Forward,44,-,RCD Mallorca,LaLiga,Dep. La Coruña,LaLiga,£15.98m,https://www.transfermarkt.co.uk/deportivo-la-coruna/startseite/verein/897/saison_id/2000
+19,2000,Fernando Redondo,Defensive Midfield,51,-,Real Madrid,LaLiga,Milan,Serie A,£15.75m,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5/saison_id/2000
+20,2000,Sylvain Wiltord,Second Striker,46,-,G. Bordeaux,Ligue 1,Arsenal,Premier League,£15.75m,https://www.transfermarkt.co.uk/fc-arsenal/startseite/verein/11/saison_id/2000
+21,2000,Jardel,Centre-Forward,47,-,FC Porto,Liga NOS,Galatasaray,Süper Lig,£15.35m,https://www.transfermarkt.co.uk/jardel/profil/spieler/3625
+22,2000,Sérgio Conceição,Right Winger,45,-,Lazio,Serie A,AC Parma,Serie A,£15.30m,https://www.transfermarkt.co.uk/sergio-conceicao/profil/spieler/7912
+23,2000,Nuno Gomes,Centre-Forward,44,-,Benfica,Liga NOS,Fiorentina,Serie A,£15.30m,https://www.transfermarkt.co.uk/nuno-gomes/profil/spieler/3626
+24,2000,Alfonso,Centre-Forward,48,-,Real Betis,2ª División,FC Barcelona,LaLiga,£14.85m,https://www.transfermarkt.co.uk/alfonso/profil/spieler/7933
+25,2000,Francisco Farinós,Defensive Midfield,42,-,Valencia,LaLiga,Inter,Serie A,£14.63m,https://www.transfermarkt.co.uk/francisco-farinos/profil/spieler/5785
+26,2000,Kakhaber Kaladze,Centre-Back,42,-,Dynamo Kyiv,Vyshcha Liga,Milan,Serie A,£14.40m,https://www.transfermarkt.co.uk/kakhaber-kaladze/profil/spieler/3430
+27,2000,Francis Jeffers,Centre-Forward,39,-,Everton,Premier League,Arsenal,Premier League,£13.77m,https://www.transfermarkt.co.uk/francis-jeffers/profil/spieler/3186
+28,2000,Emmanuel Petit,Defensive Midfield,50,-,Arsenal,Premier League,FC Barcelona,LaLiga,£13.50m,https://www.transfermarkt.co.uk/emmanuel-petit/profil/spieler/3166
+29,2000,Tomas Rosicky,Attacking Midfield,40,-,Sparta Praha,Fortuna Liga,Bor. Dortmund,Bundesliga,£13.05m,https://www.transfermarkt.co.uk/tomas-rosicky/profil/spieler/132
+30,2000,Catanha,Centre-Forward,48,-,Málaga CF,LaLiga,Celta de Vigo,LaLiga,£12.98m,https://www.transfermarkt.co.uk/catanha/profil/spieler/7559
+31,2000,Claude Makélélé,Defensive Midfield,47,-,Celta de Vigo,LaLiga,Real Madrid,LaLiga,£12.60m,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940/saison_id/2000
+32,2000,Aldo Duscher,Defensive Midfield,41,-,Sporting CP,Liga NOS,Dep. La Coruña,LaLiga,£11.70m,https://www.transfermarkt.co.uk/sporting-lissabon/startseite/verein/336/saison_id/2000
+33,2000,Ugo Ehiogu,Centre-Back,†44,-,Aston Villa,Premier League,Middlesbrough,Premier League,£10.98m,https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405/saison_id/2000
+34,2000,Jesper Grönkjaer,Left Winger,43,-,Ajax,KPN Eredivisie,Chelsea,Premier League,£10.67m,https://www.transfermarkt.co.uk/ajax-amsterdam/startseite/verein/610/saison_id/2000
+35,2000,Fabien Barthez,Goalkeeper,49,-,Monaco,Ligue 1,Man Utd,Premier League,£10.53m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2000
+36,2000,Stéphane Dalmat,Central Midfield,41,-,Marseille,Ligue 1,Paris SG,Ligue 1,£9.68m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+37,2000,Laurén,Right-Back,43,-,RCD Mallorca,LaLiga,Arsenal,Premier League,£9.63m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+38,2000,Stéphane Porato,Goalkeeper,47,-,Marseille,Ligue 1,Monaco,Ligue 1,£9.45m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+39,2000,Olivier Dacourt,Defensive Midfield,46,-,Lens,Ligue 1,Leeds,Premier League,£9.45m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+40,2000,Pedro Munitis,Second Striker,45,-,Racing,LaLiga,Real Madrid,LaLiga,£9.45m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+41,2000,Carl Cort,Centre-Forward,42,-,Wimbledon FC,First Division,Newcastle,Premier League,£9.45m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+42,2000,Robert Pirès,Left Midfield,46,-,Marseille,Ligue 1,Arsenal,Premier League,£8.82m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+43,2000,Émerson,Defensive Midfield,48,-,CD Tenerife,2ª División,Dep. La Coruña,LaLiga,£8.64m,https://www.transfermarkt.co.uk/emerson/profil/spieler/8754
+44,2000,Craig Bellamy,Left Winger,41,-,Norwich,First Division,Coventry,Premier League,£8.33m,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123/saison_id/2000
+45,2000,Pauleta,Centre-Forward,47,-,Dep. La Coruña,LaLiga,G. Bordeaux,Ligue 1,£8.19m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+46,2000,Christian Ziege,Left Midfield,48,-,Middlesbrough,Premier League,Liverpool,Premier League,£8.10m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+47,2000,Nick Barmby,Left Midfield,46,-,Everton,Premier League,Liverpool,Premier League,£8.10m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+48,2000,Alpay Özalan,Centre-Back,47,-,Fenerbahce,Süper Lig,Aston Villa,Premier League,£8.10m,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2000
+49,2000,Marc-Vivien Foé,Central Midfield,†28,-,West Ham,Premier League,Olympique Lyon,Ligue 1,£8.10m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+50,2000,Christian Karembeu,Defensive Midfield,49,-,Real Madrid,LaLiga,Middlesbrough,Premier League,£7.88m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+51,2000,John Carew,Centre-Forward,41,-,Rosenborg,Tippeligaen,Valencia,LaLiga,£7.65m,https://www.transfermarkt.co.uk/mario-stanic/profil/spieler/3164
+52,2000,Mario Stanic,Right Winger,48,-,AC Parma,Serie A,Chelsea,Premier League,£7.56m,https://www.transfermarkt.co.uk/fabian-carini/profil/spieler/13444
+53,2000,Julio Cruz,Centre-Forward,45,-,Feyenoord,KPN Eredivisie,Bologna,Serie A,£7.38m,https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506/saison_id/2000
+54,2000,Patrick Müller,Centre-Back,43,-,Juventus,Serie A,Olympique Lyon,Ligue 1,£7.20m,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683/saison_id/2000
+55,2000,Zlatko Zahovic,Attacking Midfield,49,-,Olympiacos,A' Ethniki,Valencia,LaLiga,£7.20m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2000
+56,2000,Sabri Lamouchi,Central Midfield,48,-,Monaco,Ligue 1,AC Parma,Serie A,£7.07m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2000
+57,2000,Willy Sagnol,Right-Back,43,-,Monaco,Ligue 1,Bayern Munich ,Bundesliga,£6.93m,https://www.transfermarkt.co.uk/fc-girondins-bordeaux/startseite/verein/40/saison_id/2000
+58,2000,Ben Thatcher,Left-Back,44,-,Wimbledon FC,First Division,Spurs,Premier League,£6.79m,https://www.transfermarkt.co.uk/milton-keynes-dons/startseite/verein/991/saison_id/2000
+59,2000,Sunday Oliseh,Defensive Midfield,46,-,Juventus,Serie A,Bor. Dortmund,Bundesliga,£6.75m,https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506/saison_id/2000
+60,2000,Bruno Cirillo,Centre-Back,43,-,Reggina,Serie A,Inter,Serie A,£6.75m,https://www.transfermarkt.co.uk/reggina-calcio/startseite/verein/1386/saison_id/2000
+61,2000,Dino Baggio,Defensive Midfield,49,-,AC Parma,Serie A,Lazio,Serie A,£6.75m,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2000
+62,2000,Eidur Gudjohnsen,Centre-Forward,42,-,Bolton,First Division,Chelsea,Premier League,£6.75m,https://www.transfermarkt.co.uk/bolton-wanderers/startseite/verein/355/saison_id/2000
+63,2000,David Sesa,Second Striker,47,-,Lecce,Serie A,SSC Napoli,Serie A,£6.53m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+64,2000,Dominic Matteo,Left-Back,46,-,Liverpool,Premier League,Leeds,Premier League,£6.41m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+65,2000,Mauro Camoranesi,Right Midfield,44,-,CD Cruz Azul,Primera Verano,Hellas Verona,Serie A,£6.30m,https://www.transfermarkt.co.uk/hellas-verona/startseite/verein/276/saison_id/2000
+66,2000,Jovan Stankovic,Left Midfield,49,-,RCD Mallorca,LaLiga,Marseille,Ligue 1,£6.17m,https://www.transfermarkt.co.uk/olympique-marseille/startseite/verein/244/saison_id/2000
+67,2000,Pierre van Hooijdonk,Centre-Forward,50,-,Vitesse,KPN Eredivisie,Benfica,Liga NOS,£6.12m,https://www.transfermarkt.co.uk/benfica-lissabon/startseite/verein/294/saison_id/2000
+68,2000,Hermann Hreidarsson,Centre-Back,46,-,Wimbledon FC,First Division,Ipswich,Premier League,£6.08m,https://www.transfermarkt.co.uk/ipswich-town/startseite/verein/677/saison_id/2000
+69,2000,Émerson Thome,Centre-Back,48,-,Chelsea,Premier League,Sunderland,Premier League,£6.03m,https://www.transfermarkt.co.uk/afc-sunderland/startseite/verein/289/saison_id/2000
+70,2000,Philippe Delaye,Central Midfield,45,-,Montpellier,Ligue 2,Stade Rennais,Ligue 1,£5.85m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+71,2000,José Luís Vidigal,Defensive Midfield,47,-,Sporting CP,Liga NOS,SSC Napoli,Serie A,£5.85m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+72,2000,Joan Capdevila,Left-Back,42,-,Atlético Madrid,2ª División,Dep. La Coruña,LaLiga,£5.76m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+73,2000,Alex Nyarko,Centre-Back,46,-,Lens,Ligue 1,Everton,Premier League,£5.67m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+74,2000,Hakan Sükür,Centre-Forward,49,-,Galatasaray,Süper Lig,Inter,Serie A,£5.67m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+75,2000,Bob Peeters,Centre-Forward,46,-,Roda JC,KPN Eredivisie,Vitesse,KPN Eredivisie,£5.67m,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2000
+76,2000,César Sánchez,Goalkeeper,49,-,Real Valladolid,LaLiga,Real Madrid,LaLiga,£5.63m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+77,2000,Patrick M'Boma,Centre-Forward,49,-,Cagliari Calcio,Serie B,AC Parma,Serie A,£5.49m,https://www.transfermarkt.co.uk/cagliari-calcio/startseite/verein/1390/saison_id/2000
+78,2000,Milan Rapaic,Left Midfield,47,-,Perugia,Serie A,Fenerbahce,Süper Lig,£5.40m,https://www.transfermarkt.co.uk/ac-perugia-calcio/startseite/verein/839/saison_id/2000
+79,2000,Claus Jensen,Attacking Midfield,43,-,Bolton,First Division,Charlton,Premier League,£5.40m,https://www.transfermarkt.co.uk/bolton-wanderers/startseite/verein/355/saison_id/2000
+80,2000,Frédéric Déhu,Centre-Back,47,-,FC Barcelona,LaLiga,Paris SG,Ligue 1,£5.40m,https://www.transfermarkt.co.uk/fc-barcelona/startseite/verein/131/saison_id/2000
+81,2000,Esteban Fuertes,Centre-Forward,47,-,Derby,Premier League,Lens,Ligue 1,£5.40m,https://www.transfermarkt.co.uk/derby-county/startseite/verein/22/saison_id/2000
+82,2000,Alain Goma,Centre-Back,48,-,Newcastle,Premier League,Fulham,First Division,£5.40m,https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762/saison_id/2000
+83,2000,Zé Elias,Central Midfield,44,-,Bologna,Serie A,Olympiacos,A' Ethniki,£5.22m,https://www.transfermarkt.co.uk/fc-bologna/startseite/verein/1025/saison_id/2000
+84,2000,Frédéric Kanouté,Centre-Forward,43,-,Olympique Lyon,Ligue 1,West Ham,Premier League,£5.06m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+85,2000,Paulo Wanchope,Centre-Forward,44,-,West Ham,Premier League,Man City,Premier League,£5.04m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+86,2000,Bülent Akin,Defensive Midfield,42,-,Denizlispor,Süper Lig,Galatasaray,Süper Lig,£4.95m,https://www.transfermarkt.co.uk/galatasaray-istanbul/startseite/verein/141/saison_id/2000
+87,2000,Duncan Ferguson,Centre-Forward,48,-,Newcastle,Premier League,Everton,Premier League,£4.86m,https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29/saison_id/2000
+88,2000,Giorgi Demetradze,Centre-Forward,44,-,Dynamo Kyiv,Vyshcha Liga,Real Sociedad,LaLiga,£4.86m,https://www.transfermarkt.co.uk/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2000
+89,2000,Didier Domi,Left-Back,42,-,Newcastle,Premier League,Paris SG,Ligue 1,£4.80m,https://www.transfermarkt.co.uk/fc-paris-saint-germain/startseite/verein/583/saison_id/2000
+90,2000,Giorgi Kinkladze,Attacking Midfield,47,-,Ajax,KPN Eredivisie,Derby,Premier League,£4.50m,https://www.transfermarkt.co.uk/haim-revivo/profil/spieler/2917
+91,2000,Haim Revivo,Attacking Midfield,48,-,Celta de Vigo,LaLiga,Fenerbahce,Süper Lig,£4.50m,https://www.transfermarkt.co.uk/vratislav-gresko/profil/spieler/71
+92,2000,Vratislav Gresko,Left-Back,43,-,Bay. Leverkusen,Bundesliga,Inter,Serie A,£4.50m,https://www.transfermarkt.co.uk/serkan-aykut/profil/spieler/7142
+93,2000,Serkan Aykut,Centre-Forward,45,-,Samsunspor,Süper Lig,Galatasaray,Süper Lig,£4.50m,https://www.transfermarkt.co.uk/fernandao/profil/spieler/5332
+94,2000,Viorel Moldovan,Centre-Forward,48,-,Fenerbahce,Süper Lig,FC Nantes,Ligue 1,£4.50m,https://www.transfermarkt.co.uk/viorel-moldovan/profil/spieler/5519
+95,2000,Roberto Ayala,Centre-Back,47,-,Milan,Serie A,Valencia,LaLiga,£4.50m,https://www.transfermarkt.co.uk/roberto-ayala/profil/spieler/7565
+96,2000,Vicente,Left Winger,39,-,Levante,2ª División,Valencia,LaLiga,£4.32m,https://www.transfermarkt.co.uk/vicente/profil/spieler/7582
+97,2000,Aleksandr Panov,Centre-Forward,45,-,Zenit S-Pb,Premier Liga,Saint-Étienne,Ligue 1,£4.23m,https://www.transfermarkt.co.uk/zenit-st-petersburg/startseite/verein/964/saison_id/2000
+98,2000,Alessandro Pistone,Left-Back,45,-,Newcastle,Premier League,Everton,Premier League,£4.05m,https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762/saison_id/2000
+99,2000,Bernard Diomède,Left Winger,46,-,AJ Auxerre,Ligue 1,Liverpool,Premier League,£4.05m,https://www.transfermarkt.co.uk/aj-auxerre/startseite/verein/290/saison_id/2000
+100,2000,Kennet Andersson,Centre-Forward,53,-,Bologna,Serie A,Fenerbahce,Süper Lig,£4.05m,https://www.transfermarkt.co.uk/fc-bologna/startseite/verein/1025/saison_id/2000
+101,2000,Richard Dunne,Centre-Back,41,-,Everton,Premier League,Man City,Premier League,£4.05m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+102,2000,Joseph-Désiré Job,Centre-Forward,42,-,Lens,Ligue 1,Middlesbrough,Premier League,£4.05m,https://www.transfermarkt.co.uk/fc-middlesbrough/startseite/verein/641/saison_id/2000
+103,2000,David Johnson,Left Winger,44,-,Ipswich,Premier League,Nottm Forest,First Division,£4.05m,https://www.transfermarkt.co.uk/nottingham-forest/startseite/verein/703/saison_id/2000
+104,2000,David Thompson,Right Midfield,43,-,Liverpool,Premier League,Coventry,Premier League,£4.05m,https://www.transfermarkt.co.uk/coventry-city/startseite/verein/990/saison_id/2000
+105,2000,Gary Rowett,Right-Back,46,-,Birmingham,First Division,Leicester,Premier League,£4.05m,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003/saison_id/2000
+106,2000,Sergio Ballesteros,Centre-Back,45,-,Rayo Vallecano,LaLiga,Villarreal,LaLiga,£3.78m,https://www.transfermarkt.co.uk/ac-florenz/startseite/verein/430/saison_id/2000
+107,2000,Jörg Heinrich,Left-Back,50,-,Fiorentina,Serie A,Bor. Dortmund,Bundesliga,£3.69m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2000
+108,2000,José Francisco Molina,Goalkeeper,50,-,Atlético Madrid,2ª División,Dep. La Coruña,LaLiga,£3.69m,https://www.transfermarkt.co.uk/nacional-montevideo/startseite/verein/866/saison_id/2000
+109,2000,Pascal Nouma,Centre-Forward,48,-,Lens,Ligue 1,Besiktas,Süper Lig,£3.60m,https://www.transfermarkt.co.uk/pascal-nouma/profil/spieler/5333
+110,2000,Richard Dutruel,Goalkeeper,47,-,Celta de Vigo,LaLiga,FC Barcelona,LaLiga,£3.60m,https://www.transfermarkt.co.uk/richard-dutruel/profil/spieler/6723
+111,2000,Craig Hignett,Right Winger,50,-,Barnsley FC,First Division,Blackburn,First Division,£3.60m,https://www.transfermarkt.co.uk/craig-hignett/profil/spieler/3787
+112,2000,Adrian Mutu,Centre-Forward,41,-,Inter,Serie A,Hellas Verona,Serie A,£3.60m,https://www.transfermarkt.co.uk/adrian-mutu/profil/spieler/5879
+113,2000,Darren Huckerby,Right Winger,44,-,Leeds,Premier League,Man City,Premier League,£3.60m,https://www.transfermarkt.co.uk/darren-huckerby/profil/spieler/3136
+114,2000,Fernando Meira,Centre-Back,42,-,Vit. Guimarães,Liga NOS,Benfica,Liga NOS,£3.60m,https://www.transfermarkt.co.uk/fernando-meira/profil/spieler/1432
+115,2000,Charles Amoah,Centre-Forward,45,-,FC St. Gallen,Nationalliga A,Sturm Graz,Bundesliga,£3.54m,https://www.transfermarkt.co.uk/charles-amoah/profil/spieler/3068
+116,2000,Niclas Alexandersson,Right Midfield,48,-,Sheff Wed,First Division,Everton,Premier League,£3.42m,https://www.transfermarkt.co.uk/niclas-alexandersson/profil/spieler/3265
+117,2000,Steve Watson,Right Midfield,46,-,Aston Villa,Premier League,Everton,Premier League,£3.38m,https://www.transfermarkt.co.uk/steve-watson/profil/spieler/3309
+118,2000,Alf-Inge Haaland,Defensive Midfield,47,-,Leeds,Premier League,Man City,Premier League,£3.38m,https://www.transfermarkt.co.uk/alf-inge-haaland/profil/spieler/107179
+119,2000,Don Hutchison,Attacking Midfield,49,-,Everton,Premier League,Sunderland,Premier League,£3.38m,https://www.transfermarkt.co.uk/don-hutchison/profil/spieler/3880
+120,2000,Lee Carsley,Defensive Midfield,46,-,Blackburn,First Division,Coventry,Premier League,£3.38m,https://www.transfermarkt.co.uk/blackburn-rovers/startseite/verein/164/saison_id/2000
+121,2000,David Hopkin,Right Midfield,50,-,Leeds,Premier League,Bradford,Premier League,£3.38m,https://www.transfermarkt.co.uk/leeds-united/startseite/verein/399/saison_id/2000
+122,2000,Antoine Sibierski,Attacking Midfield,46,-,FC Nantes,Ligue 1,Lens,Ligue 1,£3.24m,https://www.transfermarkt.co.uk/fc-nantes/startseite/verein/995/saison_id/2000
+123,2000,Thomas Gravesen,Defensive Midfield,44,-,Hamburger SV,Bundesliga,Everton,Premier League,£3.15m,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2000
+124,2000,Stephen Hughes,Defensive Midfield,44,-,Arsenal,Premier League,Everton,Premier League,£3.15m,https://www.transfermarkt.co.uk/fc-arsenal/startseite/verein/11/saison_id/2000
+125,2000,Marc Wilmots,Attacking Midfield,51,-,FC Schalke 04,Bundesliga,G. Bordeaux,Ligue 1,£3.15m,https://www.transfermarkt.co.uk/fc-schalke-04/startseite/verein/33/saison_id/2000
+126,2000,Santiago Solari,Left Midfield,44,-,Atlético Madrid,2ª División,Real Madrid,LaLiga,£3.15m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2000
+127,2000,Didier Deschamps,Defensive Midfield,51,-,Chelsea,Premier League,Valencia,LaLiga,£3.15m,https://www.transfermarkt.co.uk/fc-chelsea/startseite/verein/631/saison_id/2000
+128,2000,Vasilios Tsiartas,Attacking Midfield,47,-,Sevilla FC,2ª División,AEK Athens,A' Ethniki,£3.15m,https://www.transfermarkt.co.uk/fc-sevilla/startseite/verein/368/saison_id/2000
+129,2000,Alen Boksic,Centre-Forward,50,-,Lazio,Serie A,Middlesbrough,Premier League,£3.11m,https://www.transfermarkt.co.uk/lazio-rom/startseite/verein/398/saison_id/2000
+130,2000,Geoff Horsfield,Centre-Forward,46,-,Fulham,First Division,Birmingham,First Division,£3.04m,https://www.transfermarkt.co.uk/fc-fulham/startseite/verein/931/saison_id/2000
+131,2000,Titi Camara,Centre-Forward,47,-,Liverpool,Premier League,West Ham,Premier League,£2.97m,https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31/saison_id/2000
+132,2000,Vratislav Lokvenc,Centre-Forward,47,-,Sparta Praha,Fortuna Liga,1.FC K'lautern,Bundesliga,£2.84m,https://www.transfermarkt.co.uk/ac-sparta-prag/startseite/verein/197/saison_id/2000
+133,2000,Marcus Bent,Centre-Forward,42,-,Sheff Utd,First Division,Blackburn,First Division,£2.84m,https://www.transfermarkt.co.uk/marcus-bent/profil/spieler/9958
+134,2000,Louis Saha,Centre-Forward,42,-,FC Metz,Ligue 1,Fulham,First Division,£2.84m,https://www.transfermarkt.co.uk/louis-saha/profil/spieler/4015
+135,2000,Danny Higginbotham,Centre-Back,41,-,Man Utd,Premier League,Derby,Premier League,£2.70m,https://www.transfermarkt.co.uk/danny-higginbotham/profil/spieler/3686
+136,2000,Bjørn Otto Bragstad,Centre-Back,49,-,Rosenborg,Tippeligaen,Derby,Premier League,£2.70m,https://www.transfermarkt.co.uk/bjorn-otto-bragstad/profil/spieler/3834
+137,2000,Aleksey Smertin,Defensive Midfield,45,-,Loko Moscow,Premier Liga,G. Bordeaux,Ligue 1,£2.70m,https://www.transfermarkt.co.uk/aleksey-smertin/profil/spieler/5379
+138,2000,Ümit Bozkurt,Sweeper,44,-,Denizlispor,Süper Lig,Besiktas,Süper Lig,£2.70m,https://www.transfermarkt.co.uk/tekden-denizlispor/startseite/verein/833/saison_id/2000
+139,2000,Christian Panucci,Right-Back,47,-,Inter,Serie A,Monaco,Ligue 1,Loan fee:,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+140,2000,Shaun Bartlett,Centre-Forward,47,-,FC Zürich,Nationalliga A,Charlton,Premier League,£2.70m,https://www.transfermarkt.co.uk/raiffeisen-super-league/transfers/wettbewerb/C1/saison_id/2000
+141,2000,Oktay Derelioglu,Centre-Forward,44,-,Siirt Jetpa,Süper Lig,UD Las Palmas,LaLiga,£2.70m,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2000
+142,2000,Noel Whelan,Centre-Forward,45,-,Coventry,Premier League,Middlesbrough,Premier League,£2.70m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+143,2000,Dmitri Alenichev,Central Midfield,47,-,AS Roma,Serie A,FC Porto,Liga NOS,£2.70m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+144,2000,Andrew O'Brien,Centre-Back,41,-,Bradford,Premier League,Newcastle,Premier League,£2.70m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+145,2000,Changui,Centre-Forward,43,-,SD Compostela,2ª División,Dep. La Coruña,LaLiga,£2.70m,https://www.transfermarkt.co.uk/segunda-division/transfers/wettbewerb/ES2/saison_id/2000
+146,2000,Andrejs Stolcers,Attacking Midfield,46,-,Shakhtar D.,Vyshcha Liga,Fulham,First Division,£2.70m,https://www.transfermarkt.co.uk/premier-liga/transfers/wettbewerb/UKR1/saison_id/2000
+147,2000,Milan Fukal,Centre-Back,45,-,Sparta Praha,Fortuna Liga,Hamburger SV,Bundesliga,£2.61m,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2000
+148,2000,Christian Dailly,Centre-Back,46,-,Blackburn,First Division,West Ham,Premier League,£2.54m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+149,2000,Marcel Ketelaer,Left Midfield,42,-,Bor. M'gladbach,2. Bundesliga,Hamburger SV,Bundesliga,£2.52m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+150,2000,Pierre Deblock,Right Midfield,47,-,CS Sedan,Ligue 1,AJ Auxerre,Ligue 1,£2.52m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+151,2000,John Collins,Left Midfield,52,-,Everton,Premier League,Fulham,First Division,£2.48m,https://www.transfermarkt.co.uk/john-collins/profil/spieler/3663
+152,2000,Manuel Canabal,Centre-Forward,45,-,Real Madrid,LaLiga,Málaga CF,LaLiga,£2.43m,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+153,2000,Gabriel Schürrer,Centre-Back,49,-,Dep. La Coruña,LaLiga,UD Las Palmas,LaLiga,£2.43m,https://www.transfermarkt.co.uk/gabriel-schurrer/profil/spieler/7466
+154,2000,Bernard Mendy,Right-Back,39,-,SM Caen,Ligue 2,Paris SG,Ligue 1,£2.43m,https://www.transfermarkt.co.uk/bernard-mendy/profil/spieler/3707
+155,2000,Tomás Galásek,Defensive Midfield,47,-,Willem II,KPN Eredivisie,Ajax,KPN Eredivisie,£2.43m,https://www.transfermarkt.co.uk/tomas-galasek/profil/spieler/4319
+156,2000,Danijel Ljuboja,Centre-Forward,42,-,FC Sochaux,Ligue 2,R. Strasbourg,Ligue 1,£2.43m,https://www.transfermarkt.co.uk/danijel-ljuboja/profil/spieler/5630
+157,2000,Yoshikatsu Kawaguchi,Goalkeeper,45,-,Yokohama F. M.,J1 - 2nd Stage,Portsmouth,First Division,£2.43m,https://www.transfermarkt.co.uk/yokohama-f-marinos/startseite/verein/3828/saison_id/2000
+158,2000,Henning Berg,Right-Back,51,-,Man Utd,Premier League,Blackburn,First Division,£2.36m,https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985/saison_id/2000
+159,2000,Petri Pasanen,Centre-Back,40,-,FC Lahti,Veikkausliiga,Ajax,KPN Eredivisie,£2.34m,https://www.transfermarkt.co.uk/fc-lahti/startseite/verein/2925/saison_id/2000
+160,2000,Fazli Ulusal,Centre-Forward,46,-,Antalyaspor,Süper Lig,Besiktas,Süper Lig,£2.25m,https://www.transfermarkt.co.uk/besiktas-istanbul/startseite/verein/114/saison_id/2000
+161,2000,Jean-François Gillet,Goalkeeper,41,-,Calcio Monza,Serie B,Bari,Serie A,£2.25m,https://www.transfermarkt.co.uk/as-bari/startseite/verein/332/saison_id/2000
+162,2000,Feliciano Magro,Attacking Midfield,41,-,Grasshoppers,Nationalliga A,Udinese,Serie A,£2.25m,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410/saison_id/2000
+163,2000,Tim Cornelisse,Right-Back,42,-,RKC Waalwijk,KPN Eredivisie,Vitesse,KPN Eredivisie,£2.25m,https://www.transfermarkt.co.uk/vitesse-arnheim/startseite/verein/499/saison_id/2000
+164,2000,Callum Davidson,Left-Back,44,-,Blackburn,First Division,Leicester,Premier League,£2.25m,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003/saison_id/2000
+165,2000,Ole Martin Arst,Centre-Forward,46,-,KAA Gent,Jupiler Pro League,Standard Liège,Jupiler Pro League,£2.25m,https://www.transfermarkt.co.uk/standard-luttich/startseite/verein/3057/saison_id/2000
+166,2000,Abdelilah Saber,Right-Back,46,-,Sporting CP,Liga NOS,SSC Napoli,Serie A,£2.25m,https://www.transfermarkt.co.uk/ssc-neapel/startseite/verein/6195/saison_id/2000
+167,2000,Per Frandsen,Right Midfield,50,-,Blackburn,First Division,Bolton,First Division,£2.16m,https://www.transfermarkt.co.uk/cedric-roussel/profil/spieler/10431
+168,2000,Cédric Roussel,Centre-Forward,42,-,Coventry,Premier League,Wolves,First Division,£2.16m,https://www.transfermarkt.co.uk/luciano/profil/spieler/6233
+169,2000,Ciriaco Sforza,Central Midfield,50,-,1.FC K'lautern,Bundesliga,Bayern Munich ,Bundesliga,£2.07m,https://www.transfermarkt.co.uk/ciriaco-sforza/profil/spieler/219
+170,2000,Alan Mahon,Left Midfield,42,-,Sporting CP,Liga NOS,Blackburn,First Division,£2.07m,https://www.transfermarkt.co.uk/alan-mahon/profil/spieler/3483
+171,2000,Edgaras Jankauskas,Centre-Forward,45,-,Club Brugge,Jupiler Pro League,Real Sociedad,LaLiga,£2.07m,https://www.transfermarkt.co.uk/fc-brugge/startseite/verein/2282/saison_id/2000
+172,2000,Erman Güracar,Centre-Back,46,-,Samsunspor,Süper Lig,Besiktas,Süper Lig,£2.03m,https://www.transfermarkt.co.uk/samsunspor/startseite/verein/152/saison_id/2000
+173,2000,John Curtis,Right-Back,42,-,Man Utd,Premier League,Blackburn,First Division,£2.03m,https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985/saison_id/2000
+174,2000,Karel Poborsky,Right Midfield,48,-,Benfica,Liga NOS,Lazio,Serie A,£2.03m,https://www.transfermarkt.co.uk/lazio-rom/startseite/verein/398/saison_id/2000
+175,2000,David Hopkin,Right Midfield,50,-,Bradford,Premier League,Crystal Palace,First Division,£2.03m,https://www.transfermarkt.co.uk/crystal-palace/startseite/verein/873/saison_id/2000
+176,2000,Paul Robinson,Centre-Forward,41,-,Newcastle,Premier League,Wimbledon FC,First Division,£2.03m,https://www.transfermarkt.co.uk/milton-keynes-dons/startseite/verein/991/saison_id/2000
+177,2000,Pascal Ojigwe,Defensive Midfield,43,-,1. FC Köln,Bundesliga,Bay. Leverkusen,Bundesliga,£1.89m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+178,2000,Frank Verlaat,Centre-Back,52,-,Ajax,KPN Eredivisie,Werder Bremen,Bundesliga,£1.89m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+179,2000,Chris Makin,Left-Back,47,-,Sunderland,Premier League,Ipswich,Premier League,£1.89m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+180,2000,Ashley Ward,Centre-Forward,49,-,Blackburn,First Division,Bradford,Premier League,£1.89m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+181,2000,Francesc Arnau,Goalkeeper,45,-,FC Barcelona,LaLiga,Málaga CF,LaLiga,£1.89m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+182,2000,Hervé Tum,Centre-Forward,41,-,FC Sion,Nationalliga A,FC Basel,Nationalliga A,£1.80m,https://www.transfermarkt.co.uk/raiffeisen-super-league/transfers/wettbewerb/C1/saison_id/2000
+183,2000,Elvir Bolic,Centre-Forward,48,-,Fenerbahce,Süper Lig,Rayo Vallecano,LaLiga,£1.80m,https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985/saison_id/2000
+184,2000,David Healy,Centre-Forward,41,-,Man Utd,Premier League,Preston,First Division,£1.80m,https://www.transfermarkt.co.uk/tottenham-hotspur/startseite/verein/148/saison_id/2000
+185,2000,Espen Baardsen,Goalkeeper,42,-,Spurs,Premier League,Watford,First Division,£1.80m,https://www.transfermarkt.co.uk/kaa-gent/startseite/verein/157/saison_id/2000
+186,2000,Ivica Dragutinovic,Centre-Back,44,-,KAA Gent,Jupiler Pro League,Standard Liège,Jupiler Pro League,£1.80m,https://www.transfermarkt.co.uk/al-shabab-riad/startseite/verein/9840/saison_id/2000
+187,2000,Slavisa Jokanovic,Defensive Midfield,52,-,Dep. La Coruña,LaLiga,Chelsea,Premier League,£1.71m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+188,2000,José Amavisca,Left Midfield,49,-,Racing,LaLiga,Dep. La Coruña,LaLiga,£1.71m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2000
+189,2000,Tommy Berntsen,Centre-Back,46,-,Lillestrøm SK,Tippeligaen,E. Frankfurt,Bundesliga,£1.69m,https://www.transfermarkt.co.uk/tippeligaen/transfers/wettbewerb/NO1/saison_id/2000
+190,2000,Emmanuel Olisadebe,Centre-Forward,41,-,Pol. Warsaw,I Liga,Panathinaikos,A' Ethniki,£1.67m,https://www.transfermarkt.co.uk/ekstraklasa/transfers/wettbewerb/PL1/saison_id/2000
+191,2000,Sergej Barbarez,Second Striker,49,-,Bor. Dortmund,Bundesliga,Hamburger SV,Bundesliga,£1.62m,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2000
+192,2000,Paulo Sousa,Central Midfield,50,-,Inter,Serie A,Panathinaikos,A' Ethniki,£1.62m,https://www.transfermarkt.co.uk/panathinaikos-athen/startseite/verein/265/saison_id/2000
+193,2000,Tom van der Leegte,Defensive Midfield,43,-,RKC Waalwijk,KPN Eredivisie,Twente FC,KPN Eredivisie,Loan fee:,https://www.transfermarkt.co.uk/fc-twente-enschede/startseite/verein/317/saison_id/2000
+194,2000,Radek Bejbl,Defensive Midfield,48,-,Atlético Madrid,2ª División,Lens,Ligue 1,£1.62m,https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826/saison_id/2000
+195,2000,Yago Yao,Centre-Back,41,-,Sporting Gijón,2ª División,Celta de Vigo,LaLiga,£1.62m,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940/saison_id/2000
+196,2000,Darren Holloway,Right-Back,43,-,Sunderland,Premier League,Wimbledon FC,First Division,£1.62m,https://www.transfermarkt.co.uk/milton-keynes-dons/startseite/verein/991/saison_id/2000
+197,2000,Robin Nelisse,Centre-Forward,42,-,Feyenoord,KPN Eredivisie,AZ Alkmaar,KPN Eredivisie,£1.62m,https://www.transfermarkt.co.uk/az-alkmaar/startseite/verein/1090/saison_id/2000
+198,2000,Jochen Janssen,Centre-Forward,44,-,Club Brugge,Jupiler Pro League,Austria Vienna,Bundesliga,£1.58m,https://www.transfermarkt.co.uk/fk-austria-wien/startseite/verein/14/saison_id/2000
+199,2000,Dean Windass,Centre-Forward,51,-,Bradford,Premier League,Middlesbrough,Premier League,£1.41m,https://www.transfermarkt.co.uk/mark-fish/profil/spieler/3087
+200,2000,Mark Fish,Centre-Back,46,-,Bolton,First Division,Charlton,Premier League,£1.40m,https://www.transfermarkt.co.uk/marcus-gayle/profil/spieler/3135
+201,2000,Petr Gabriel,Centre-Back,47,-,Sparta Praha,Fortuna Liga,1.FC K'lautern,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/royal-fc-antwerpen/startseite/verein/1096/saison_id/2000
+202,2000,Darko Pivaljevic,Centre-Forward,45,-,Royal Antwerp,Jupiler Pro League,1. FC Köln,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/ac-sparta-prag/startseite/verein/197/saison_id/2000
+203,2000,Miroslav Baranek,Attacking Midfield,46,-,Sparta Praha,Fortuna Liga,1. FC Köln,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/fc-skonto-riga/startseite/verein/1043/saison_id/2000
+204,2000,Tomas Danilevicius,Centre-Forward,42,-,Lausanne-Sport,Nationalliga A,Arsenal,Premier League,£1.35m,https://www.transfermarkt.co.uk/tomas-danilevicius/profil/spieler/4049
+205,2000,Salva Ballesta,Centre-Forward,45,-,Racing,LaLiga,Atlético Madrid,2ª División,£1.35m,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+206,2000,Pascal Zuberbühler,Goalkeeper,49,-,FC Basel,Nationalliga A,Bay. Leverkusen,Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/fc-basel-1893/startseite/verein/26/saison_id/2000
+207,2000,Daniel Sjölund,Defensive Midfield,37,-,West Ham,Premier League,Liverpool,Premier League,£1.35m,https://www.transfermarkt.co.uk/west-ham-united/startseite/verein/379/saison_id/2000
+208,2000,Yves Vanderhaeghe,Defensive Midfield,50,-,Exc. Mouscron,Jupiler Pro League,RSC Anderlecht,Jupiler Pro League,£1.35m,https://www.transfermarkt.co.uk/excelsior-mouscron/startseite/verein/1433/saison_id/2000
+209,2000,Ibrahim Üzülmez,Left-Back,46,-,Gaziantepspor,Süper Lig,Besiktas,Süper Lig,£1.35m,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2000
+210,2000,Mario Haas,Centre-Forward,46,-,R. Strasbourg,Ligue 1,Sturm Graz,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+211,2000,Juan Esnáider,Centre-Forward,47,-,Juventus,Serie A,Real Zaragoza,LaLiga,£1.35m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+212,2000,Laurent Charvet,Right-Back,47,-,Newcastle,Premier League,Man City,Premier League,£1.35m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+213,2000,Curtis Woodhouse,Attacking Midfield,40,-,Sheff Utd,First Division,Birmingham,First Division,£1.35m,https://www.transfermarkt.co.uk/birmingham-city/startseite/verein/337/saison_id/2000
+214,2000,Paul Butler,Centre-Back,47,-,Sunderland,Premier League,Wolves,First Division,£1.35m,https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543/saison_id/2000
+215,2000,Demetrius Ferreira,Right-Back,46,-,AS Nancy,Ligue 2,SC Bastia,Ligue 1,£1.35m,https://www.transfermarkt.co.uk/sc-bastia/startseite/verein/595/saison_id/2000
+216,2000,Zisis Vryzas,Centre-Forward,46,-,PAOK Salonika,A' Ethniki,Perugia,Serie A,£1.35m,https://www.transfermarkt.co.uk/ac-perugia-calcio/startseite/verein/839/saison_id/2000
+217,2000,Luca Saudati,Centre-Forward,41,-,Milan,Serie A,Perugia,Serie A,£1.35m,https://www.transfermarkt.co.uk/ac-perugia-calcio/startseite/verein/839/saison_id/2000
+218,2000,Jan Kromkamp,Right-Back,40,-,Go Ahead Eagles,Eerste Divisie,AZ Alkmaar,KPN Eredivisie,£1.35m,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2000
+219,2000,Ian Thomas-Moore,Centre-Forward,41,-,Stockport,First Division,Burnley,First Division,£1.35m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+220,2000,Pawel Kryszalowicz,Centre-Forward,46,-,Amica Wronki,I Liga,E. Frankfurt,Bundesliga,£1.26m,https://www.transfermarkt.co.uk/aruna-dindane/profil/spieler/9597
+221,2000,Matías Almeyda,Defensive Midfield,46,-,Lazio,Serie A,AC Parma,Serie A,£1.26m,https://www.transfermarkt.co.uk/matias-almeyda/profil/spieler/5792
+222,2000,Temur Ketsbaia,Right Winger,52,-,Newcastle,Premier League,Wolves,First Division,£1.26m,https://www.transfermarkt.co.uk/temur-ketsbaia/profil/spieler/28978
+223,2000,Lee Mills,Centre-Forward,50,-,Bradford,Premier League,Portsmouth,First Division,£1.26m,https://www.transfermarkt.co.uk/lee-mills/profil/spieler/211264
+224,2000,Stefano Lombardi,Centre-Back,44,-,SSC Napoli,Serie A,Lazio,Serie A,£1.13m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+225,2000,Mehdi Méniri,Centre-Back,43,-,AS Nancy,Ligue 2,Troyes,Ligue 1,£1.10m,https://www.transfermarkt.co.uk/bryne-fk/startseite/verein/1057/saison_id/2000
+226,2000,Ragnvald Soma,Centre-Back,40,-,Bryne FK,Tippeligaen,West Ham,Premier League,£1.10m,https://www.transfermarkt.co.uk/arminia-bielefeld/startseite/verein/10/saison_id/2000
+227,2000,Silvio Meißner,Defensive Midfield,47,-,Arm. Bielefeld,2. Bundesliga,VfB Stuttgart,Bundesliga,£1.08m,https://www.transfermarkt.co.uk/racing-strassburg/startseite/verein/667/saison_id/2000
+228,2000,Olivier Echouafni,Defensive Midfield,48,-,R. Strasbourg,Ligue 1,Stade Rennais,Ligue 1,£1.08m,https://www.transfermarkt.co.uk/herning-fremad/startseite/verein/3578/saison_id/2000
+229,2000,Ruud Hesp,Goalkeeper,54,-,FC Barcelona,LaLiga,Fortuna Sittard,KPN Eredivisie,£1.08m,https://www.transfermarkt.co.uk/k-league-classic/transfers/wettbewerb/RSK1/saison_id/2000
+230,2000,Yong-soo Choi,Centre-Forward,47,-,Anyang LG Cheeta,K League 1,JEF Utd. Chiba,J1 - 2nd Stage,£1.08m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+231,2000,Kevin Cooper,Left Midfield,45,-,Stockport,First Division,Wimbledon FC,First Division,£1.08m,https://www.transfermarkt.co.uk/bundesliga/transfers/wettbewerb/A1/saison_id/2000
+232,2000,Patrik Jezek,Left Midfield,43,-,Austria Vienna,Bundesliga,FC Tirol,Bundesliga,£1.08m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+233,2000,Wayne Quinn,Centre-Back,43,-,Sheff Utd,First Division,Newcastle,Premier League,£1.04m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+234,2000,Michael Appleton,Midfielder,44,-,Preston,First Division,West Brom,First Division,£1.04m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+235,2000,Tomasz Klos,Centre-Back,47,-,AJ Auxerre,Ligue 1,1.FC K'lautern,Bundesliga,£990Th.,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2000
+236,2000,Idan Tal,Defensive Midfield,45,-,M. Petah Tikva,Ligat ha'Al,Everton,Premier League,£945Th.,https://www.transfermarkt.co.uk/ligat-ha-al/transfers/wettbewerb/ISR1/saison_id/2000
+237,2000,Richard Cresswell,Centre-Forward,43,-,Sheff Wed,First Division,Leicester,Premier League,£945Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+238,2000,Kubilay Türkyilmaz,Centre-Forward,53,-,Brescia,Serie A,FC Lugano,Nationalliga A,£929Th.,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+239,2000,Markus Kreuz,Left Midfield,43,-,Hannover 96,2. Bundesliga,1. FC Köln,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2000
+240,2000,Raphael Wicky,Defensive Midfield,43,-,Werder Bremen,Bundesliga,Atlético Madrid,2ª División,£900Th.,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+241,2000,Gary McAllister,Central Midfield,55,-,Coventry,Premier League,Liverpool,Premier League,£900Th.,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+242,2000,Sören Colding,Right-Back,48,-,Bröndby IF,Faxe Kondi Liga,VfL Bochum,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/superligaen/transfers/wettbewerb/DK1/saison_id/2000
+243,2000,Fabian Ernst,Defensive Midfield,41,-,Hamburger SV,Bundesliga,Werder Bremen,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+244,2000,Baruch Dego,Left Midfield,39,-,FC Ashdod,Ligat ha'Al,M. Tel Aviv,Ligat ha'Al,£900Th.,https://www.transfermarkt.co.uk/ligat-ha-al/transfers/wettbewerb/ISR1/saison_id/2000
+245,2000,Giannis Anastasiou,Centre-Forward,47,-,RSC Anderlecht,Jupiler Pro League,Roda JC,KPN Eredivisie,£900Th.,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2000
+246,2000,Stefaan Tanghe,Attacking Midfield,48,-,Exc. Mouscron,Jupiler Pro League,FC Utrecht,KPN Eredivisie,£900Th.,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2000
+247,2000,Massimo Oddo,Right-Back,44,-,Milan,Serie A,Hellas Verona,Serie A,£900Th.,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+248,2000,Rune Lange,Centre-Forward,43,-,Tromsø IL,Tippeligaen,Trabzonspor,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/tippeligaen/transfers/wettbewerb/NO1/saison_id/2000
+249,2000,Fatih Tekke,Centre-Forward,43,-,Trabzonspor,Süper Lig,Gaziantepspor,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2000
+250,2000,Ahmed Hassan,Attacking Midfield,45,-,Kocaelispor,Süper Lig,Denizlispor,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2000
+251,2000,Stefano Lombardi,Centre-Back,44,-,Inter,Serie A,Perugia,Serie A,£900Th.,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2000
+252,2000,Antonio Esposito,Midfielder,47,-,Grasshoppers,Nationalliga A,Cagliari Calcio,Serie B,£900Th.,https://www.transfermarkt.co.uk/cagliari-calcio/startseite/verein/1390/saison_id/2000
+253,2000,Bjarne Goldbaek,Central Midfield,52,-,Chelsea,Premier League,Fulham,First Division,£878Th.,https://www.transfermarkt.co.uk/staale-solbakken/profil/spieler/103653
+254,2000,Bruno N'Gotty,Centre-Back,49,-,AC Venezia 1907,Serie B,Marseille,Ligue 1,£855Th.,https://www.transfermarkt.co.uk/bruno-ngotty/profil/spieler/3964
+255,2000,Dimitrios Grammozis,Defensive Midfield,42,-,Hamburger SV,Bundesliga,1.FC K'lautern,Bundesliga,£810Th.,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2000
+256,2000,Tal Banin,Defensive Midfield,49,-,Brescia,Serie A,M. Tel Aviv,Ligat ha'Al,£810Th.,https://www.transfermarkt.co.uk/brescia-calcio/startseite/verein/19/saison_id/2000
+257,2000,Mathias Svensson,Centre-Forward,46,-,Crystal Palace,First Division,Charlton,Premier League,£810Th.,https://www.transfermarkt.co.uk/crystal-palace/startseite/verein/873/saison_id/2000
+258,2000,Tony Dinning,Midfielder,45,-,Stockport,First Division,Wolves,First Division,£810Th.,https://www.transfermarkt.co.uk/stockport-county/startseite/verein/1098/saison_id/2000
+259,2000,Pär Zetterberg,Attacking Midfield,49,-,RSC Anderlecht,Jupiler Pro League,Olympiacos,A' Ethniki,£810Th.,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683/saison_id/2000
+260,2000,Miran Pavlin,Attacking Midfield,49,-,SC Freiburg,Bundesliga,FC Porto,Liga NOS,£810Th.,https://www.transfermarkt.co.uk/fc-porto/startseite/verein/720/saison_id/2000
+261,2000,Nigel Quashie,Central Midfield,42,-,Nottm Forest,First Division,Portsmouth,First Division,£810Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+262,2000,Maksym Levitsky,Goalkeeper,47,-,Chernomorets N.,Premier Liga,Saint-Étienne,Ligue 1,£765Th.,https://www.transfermarkt.co.uk/tippeligaen/transfers/wettbewerb/NO1/saison_id/2000
+263,2000,Jan Derek Sörensen,Right Winger,48,-,Rosenborg,Tippeligaen,Bor. Dortmund,Bundesliga,£720Th.,https://www.transfermarkt.co.uk/veikkausliiga/transfers/wettbewerb/FI1/saison_id/2000
+264,2000,Janne Saarinen,Left Midfield,43,-,HJK Helsinki,Veikkausliiga,Rosenborg,Tippeligaen,£720Th.,https://www.transfermarkt.co.uk/premier-liga/transfers/wettbewerb/RU1/saison_id/2000
+265,2000,Jerry-Christian Tchuisse,Right-Back,45,-,Chernomorets N.,Premier Liga,Spartak Moscow,Premier Liga,£720Th.,https://www.transfermarkt.co.uk/manchester-city/startseite/verein/281/saison_id/2000
+266,2000,Sergey Ignashevich,Centre-Back,41,-,KS Samara,Premier Liga,Loko Moscow,Premier Liga,£720Th.,https://www.transfermarkt.co.uk/fc-villarreal/startseite/verein/1050/saison_id/2000
+267,2000,Sergey Kormiltsev,Central Midfield,46,-,Dynamo Kyiv,Vyshcha Liga,Torpedo Moscow,Premier Liga,£720Th.,https://www.transfermarkt.co.uk/catania-calcio/startseite/verein/1627/saison_id/2000
+268,2000,Jehad Muntasser,Right Midfield,42,-,Viterbese,Serie C1 - B,Catania,Serie C1 - B,£720Th.,https://www.transfermarkt.co.uk/club-atletico-san-lorenzo-de-almagro/startseite/verein/1775/saison_id/2000
+269,2000,David Zdrilic,Centre-Forward,46,-,SSV Ulm 1846,2. Bundesliga,Unterhaching,Bundesliga,£693Th.,https://www.transfermarkt.co.uk/david-zdrilic/profil/spieler/462
+270,2000,Ali Günes,Central Midfield,41,-,SC Freiburg,Bundesliga,Fenerbahce,Süper Lig,£690Th.,https://www.transfermarkt.co.uk/ali-gunes/profil/spieler/404
+271,2000,Gert Claessens,Left Midfield,48,-,Real Oviedo,LaLiga,Vitesse,KPN Eredivisie,£689Th.,https://www.transfermarkt.co.uk/gert-claessens/profil/spieler/4423
+272,2000,Jens Keller,Centre-Back,49,-,VfB Stuttgart,Bundesliga,1. FC Köln,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/jens-keller/profil/spieler/28
+273,2000,Andreas Neuendorf,Central Midfield,45,-,Hertha BSC,Bundesliga,Bay. Leverkusen,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/andreas-neuendorf/profil/spieler/347
+274,2000,Taribo West,Left-Back,46,-,Milan,Serie A,Derby,Premier League,Loan fee:,https://www.transfermarkt.co.uk/taribo-west/profil/spieler/1403
+275,2000,Brian O'Neil,Centre-Back,48,-,VfL Wolfsburg,Bundesliga,Derby,Premier League,£675Th.,https://www.transfermarkt.co.uk/brian-oneil/profil/spieler/669
+276,2000,Grégory Vignal,Left-Back,39,-,Montpellier,Ligue 2,Liverpool,Premier League,£675Th.,https://www.transfermarkt.co.uk/gregory-vignal/profil/spieler/4755
+277,2000,Tomasz Hajto,Centre-Back,47,-,MSV Duisburg,2. Bundesliga,FC Schalke 04,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/tomasz-hajto/profil/spieler/368
+278,2000,Jörg Böhme,Left Midfield,46,-,Arm. Bielefeld,2. Bundesliga,FC Schalke 04,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/jorg-bohme/profil/spieler/259
+279,2000,Stefano Lombardi,Centre-Back,44,-,Lazio,Serie A,Inter,Serie A,£675Th.,https://www.transfermarkt.co.uk/stefano-lombardi/profil/spieler/15462
+280,2000,Torben Hoffmann,Centre-Back,45,-,Bay. Leverkusen,Bundesliga,1860 Munich,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/bayer-04-leverkusen/startseite/verein/15/saison_id/2000
+281,2000,Dmitri Bulykin,Centre-Forward,40,-,Loko Moscow,Premier Liga,Dynamo Moscow,Premier Liga,£675Th.,https://www.transfermarkt.co.uk/lokomotiv-moskau/startseite/verein/932/saison_id/2000
+282,2000,Sven Vandenbroeck,Defensive Midfield,41,-,KV Mechelen,Jupiler Pro League,Roda JC,KPN Eredivisie,£675Th.,https://www.transfermarkt.co.uk/kv-mechelen/startseite/verein/354/saison_id/2000
+283,2000,Iain Anderson,Right Winger,43,-,Toulouse,Ligue 1,Preston,First Division,£675Th.,https://www.transfermarkt.co.uk/preston-north-end/startseite/verein/466/saison_id/2000
+284,2000,Mehdi Nafti,Defensive Midfield,41,-,Toulouse,Ligue 1,Racing,LaLiga,£675Th.,https://www.transfermarkt.co.uk/racing-santander/startseite/verein/630/saison_id/2000
+285,2000,Alun Armstrong,Centre-Forward,45,-,Middlesbrough,Premier League,Ipswich,Premier League,£675Th.,https://www.transfermarkt.co.uk/ipswich-town/startseite/verein/677/saison_id/2000
+286,2000,Grigoris Georgatos,Left-Back,47,-,Inter,Serie A,Olympiacos,A' Ethniki,Loan fee:,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683/saison_id/2000
+287,2000,Dougie Freedman,Centre-Forward,46,-,Nottm Forest,First Division,Crystal Palace,First Division,£675Th.,https://www.transfermarkt.co.uk/dougie-freedman/profil/spieler/13787
+288,2000,Phil Gilchrist,Centre-Back,47,-,Leicester,Premier League,West Brom,First Division,£675Th.,https://www.transfermarkt.co.uk/phil-gilchrist/profil/spieler/3656
+289,2000,David Nielsen,Centre-Forward,43,-,FC Copenhagen,Faxe Kondi Liga,Wimbledon FC,First Division,£675Th.,https://www.transfermarkt.co.uk/david-nielsen/profil/spieler/22829
+290,2000,Neil Cox,Centre-Back,49,-,Bolton,First Division,Watford,First Division,£675Th.,https://www.transfermarkt.co.uk/neil-cox/profil/spieler/13784
+291,2000,Youl Mawéné,Centre-Back,41,-,Lens,Ligue 1,Derby,Premier League,£630Th.,https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826/saison_id/2000
+292,2000,Cristian Brocchi,Central Midfield,44,-,Hellas Verona,Serie A,Inter,Serie A,£630Th.,https://www.transfermarkt.co.uk/hellas-verona/startseite/verein/276/saison_id/2000
+293,2000,Vragel da Silva,Right-Back,46,-,Bröndby IF,Faxe Kondi Liga,SSV Ulm 1846,2. Bundesliga,£630Th.,https://www.transfermarkt.co.uk/brondby-if/startseite/verein/206/saison_id/2000
+294,2000,Zizi Roberts,Centre-Forward,41,-,Ionikos Nikeas,A' Ethniki,Panionios,A' Ethniki,£630Th.,https://www.transfermarkt.co.uk/ionikos-nikea/startseite/verein/553/saison_id/2000
+295,2000,Sébastien Schemmel,Right-Back,45,-,FC Metz,Ligue 1,West Ham,Premier League,£630Th.,https://www.transfermarkt.co.uk/west-ham-united/startseite/verein/379/saison_id/2000
+296,2000,Russell Hoult,Goalkeeper,47,-,Portsmouth,First Division,West Brom,First Division,£630Th.,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123/saison_id/2000
+297,2000,Lee Marshall,Central Midfield,41,-,Norwich,First Division,Leicester,Premier League,£630Th.,https://www.transfermarkt.co.uk/enugu-rangers-ifc/startseite/verein/2930/saison_id/2000
+298,2000,Elpídio Silva,Centre-Forward,45,-,Braga,Liga NOS,Boavista,Liga NOS,£630Th.,https://www.transfermarkt.co.uk/bradford-city/startseite/verein/1027/saison_id/2000
+299,2000,Robert Molenaar,Centre-Back,51,-,Leeds,Premier League,Bradford,Premier League,£612Th.,https://www.transfermarkt.co.uk/west-bromwich-albion/startseite/verein/984/saison_id/2000
+300,2000,Mads Bro Hansen,Central Midfield,44,-,Sönderjylland,Faxe Kondi Liga,Aalborg BK,Faxe Kondi Liga,£603Th.,https://www.transfermarkt.co.uk/vfl-bochum/startseite/verein/80/saison_id/2000
+301,2000,Martin Meichelbeck,Centre-Back,43,-,Greuther Fürth,2. Bundesliga,VfL Bochum,Bundesliga,£585Th.,https://www.transfermarkt.co.uk/nk-marsonia-slavonski-brod/startseite/verein/2409/saison_id/2000
+302,2000,Patrice Evra,Left-Back,39,-,Calcio Monza,Serie B,OGC Nice,Ligue 2,£540Th.,https://www.transfermarkt.co.uk/serie-b/transfers/wettbewerb/IT2/saison_id/2000
+303,2000,Marcos Márquez,Centre-Forward,43,-,Atl. Madrid B,2ª B - Grupo I,Córdoba CF,2ª División,£540Th.,https://www.transfermarkt.co.uk/santa-cruz-futebol-clube-pe-/startseite/verein/1785/saison_id/2000
+304,2000,Grégory Paisley,Left-Back,43,-,Paris SG,Ligue 1,Stade Rennais,Ligue 1,£527Th.,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2000
+305,2000,Ilija Aracic,Centre-Forward,49,-,Hertha BSC,Bundesliga,Arm. Bielefeld,2. Bundesliga,£522Th.,https://www.transfermarkt.co.uk/fc-gillingham/startseite/verein/2814/saison_id/2000
+306,2000,Isaiah Rankin,Centre-Forward,42,-,Bradford,Premier League,Barnsley FC,First Division,£495Th.,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+307,2000,Allan Jepsen,Left Midfield,43,-,Heerenveen,KPN Eredivisie,Aalborg BK,Faxe Kondi Liga,£486Th.,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2000
+308,2000,Dean Sturridge,Centre-Forward,47,-,Derby,Premier League,Leicester,Premier League,£477Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+309,2000,Paolo Vernazza,Central Midfield,40,-,Arsenal,Premier League,Watford,First Division,£473Th.,https://www.transfermarkt.co.uk/mark-ovendale/profil/spieler/321523
+310,2000,Luca Saudati,Centre-Forward,41,-,FC Empoli,Serie B,Milan,Serie A,£450Th.,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2000
+311,2000,Peter Van Houdt,Centre-Forward,43,-,Roda JC,KPN Eredivisie,Bor. M'gladbach,2. Bundesliga,£450Th.,https://www.transfermarkt.co.uk/serie-b/transfers/wettbewerb/IT2/saison_id/2000
+312,2000,Achim Weber,Centre-Forward,51,-,VfL Bochum,Bundesliga,RW Oberhausen,2. Bundesliga,£450Th.,https://www.transfermarkt.co.uk/achim-weber/profil/spieler/724
+313,2000,Vladimir But,Attacking Midfield,43,-,Bor. Dortmund,Bundesliga,SC Freiburg,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/vladimir-but/profil/spieler/106
+314,2000,Simon Jentzsch,Goalkeeper,44,-,Karlsruher SC,Regionalliga Süd,1860 Munich,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/simon-jentzsch/profil/spieler/557
+315,2000,Zoran Mamic,Centre-Back,49,-,Bay. Leverkusen,Bundesliga,VfL Bochum,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/zoran-mamic/profil/spieler/78
+316,2000,Ertugrul Saglam,Centre-Forward,50,-,Besiktas,Süper Lig,Samsunspor,Süper Lig,£450Th.,https://www.transfermarkt.co.uk/ertugrul-saglam/profil/spieler/17125
+317,2000,Anthony Basso,Goalkeeper,41,-,AJ Auxerre,Ligue 1,Udinese,Serie A,£450Th.,https://www.transfermarkt.co.uk/aj-auxerre/startseite/verein/290/saison_id/2000
+318,2000,Pape Malick Diop,Centre-Back,45,-,R. Strasbourg,Ligue 1,Xamax,Auf-/Abstiegsrunde NLA/NLB,£450Th.,https://www.transfermarkt.co.uk/racing-strassburg/startseite/verein/667/saison_id/2000
+319,2000,Maksim Buznikin,Centre-Forward,43,-,Spartak Moscow,Premier Liga,Loko Moscow,Premier Liga,£450Th.,https://www.transfermarkt.co.uk/lokomotiv-moskau/startseite/verein/932/saison_id/2000
+320,2000,Martin Knudsen,Right Midfield,42,-,Viking FK,Tippeligaen,Brann,Tippeligaen,£450Th.,https://www.transfermarkt.co.uk/fazli-ulusoy/profil/spieler/7015
+321,2000,Marel Jóhann Baldvinsson,Centre-Forward,39,-,Breidablik,Símadeild,Stabæk Fotball,Tippeligaen,£450Th.,https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506/saison_id/2000
+322,2000,Giuseppe Sculli,Left Winger,39,-,Juventus,Serie A,FC Crotone,Serie B,Loan fee:,https://www.transfermarkt.co.uk/1-fc-kaiserslautern/startseite/verein/2/saison_id/2000
+323,2000,Frédéric Roux,Goalkeeper,47,-,AS Nancy,Ligue 2,G. Bordeaux,Ligue 1,£414Th.,https://www.transfermarkt.co.uk/yunnan-hongta/startseite/verein/3188/saison_id/2000
+324,2000,Ting Zhou,Left-Back,41,-,DL Shide,Jia A,YN Hongta,Jia A,£414Th.,https://www.transfermarkt.co.uk/maccabi-tel-aviv/startseite/verein/119/saison_id/2000
+325,2000,Ferenc Horváth,Centre-Forward,47,-,Energie Cottbus,Bundesliga,M. Tel Aviv,Ligat ha'Al,£405Th.,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2000
+326,2000,Mo Allach,Right-Back,47,-,Feyenoord,KPN Eredivisie,FC Groningen,KPN Eredivisie,£405Th.,https://www.transfermarkt.co.uk/feyenoord-rotterdam/startseite/verein/234/saison_id/2000
+327,2000,Ellery Cairo,Right Winger,42,-,Feyenoord,KPN Eredivisie,Twente FC,KPN Eredivisie,£405Th.,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2000
+328,2000,Edwin Zoetebier,Goalkeeper,50,-,Feyenoord,KPN Eredivisie,Vitesse,KPN Eredivisie,£405Th.,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2000
+329,2000,Jordão,Defensive Midfield,49,-,Braga,Liga NOS,West Brom,First Division,£405Th.,https://www.transfermarkt.co.uk/west-bromwich-albion/startseite/verein/984/saison_id/2000
+330,2000,Shefki Kuqi,Centre-Forward,43,-,FC Jokerit,Veikkausliiga,Stockport,First Division,£405Th.,https://www.transfermarkt.co.uk/stockport-county/startseite/verein/1098/saison_id/2000
+331,2000,Mido,Centre-Forward,37,-,Zamalek,Premier League,KAA Gent,Jupiler Pro League,£378Th.,https://www.transfermarkt.co.uk/kaa-gent/startseite/verein/157/saison_id/2000
+332,2000,Peter Van der Heyden,Left-Back,44,-,Eendracht Aalst,Jupiler Pro League,Club Brugge,Jupiler Pro League,£378Th.,https://www.transfermarkt.co.uk/fc-brugge/startseite/verein/2282/saison_id/2000
+333,2000,Wayne Allison,Centre-Forward,51,-,Huddersfield,First Division,Tranmere Rovers,First Division,£374Th.,https://www.transfermarkt.co.uk/tranmere-rovers/startseite/verein/1074/saison_id/2000
+334,2000,Sergio Sánchez,Goalkeeper,43,-,Sporting Gijón,2ª División,Atlético Madrid,2ª División,£360Th.,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2000
+335,2000,Carsten Wehlmann,Goalkeeper,48,-,FC St. Pauli,2. Bundesliga,Hamburger SV,Bundesliga,£360Th.,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2000
+336,2000,Besnik Hasi,Defensive Midfield,48,-,KRC Genk,Jupiler Pro League,RSC Anderlecht,Jupiler Pro League,£360Th.,https://www.transfermarkt.co.uk/miodrag-vukotic/profil/spieler/819
+337,2000,Stig Inge Björnebye,Left-Back,50,-,Liverpool,Premier League,Blackburn,First Division,£360Th.,https://www.transfermarkt.co.uk/fc-valencia/startseite/verein/1049/saison_id/2000
+338,2000,Jacek Chanko,Defender,46,-,Werder Bremen,Bundesliga,Pogon Szczecin,I Liga,£360Th.,https://www.transfermarkt.co.uk/kv-mechelen/startseite/verein/354/saison_id/2000
+339,2000,Dong-won Seo,Defensive Midfield,45,-,Daejeon Citizen,K League 1,Suwon Bluewings,K League 1,£351Th.,https://www.transfermarkt.co.uk/k-league-classic/transfers/wettbewerb/RSK1/saison_id/2000
+340,2000,Blaise Nkufo,Centre-Forward,45,-,FC Luzern,Auf-/Abstiegsrunde NLA/NLB,1.FSV Mainz 05,2. Bundesliga,£342Th.,https://www.transfermarkt.co.uk/auf-abstiegsrunde-nationalliga-a-b/transfers/wettbewerb/CHAA/saison_id/2000
+341,2000,Helgi Kolvidsson,Centre-Back,49,-,1.FSV Mainz 05,2. Bundesliga,SSV Ulm 1846,2. Bundesliga,£342Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2000
+342,2000,Dagfinn Enerly,Right Midfield,47,-,Moss FK,Tippeligaen,Rosenborg,Tippeligaen,£338Th.,https://www.transfermarkt.co.uk/rosenborg-trondheim/startseite/verein/195/saison_id/2000
+343,2000,Joey Gudjónsson,Central Midfield,40,-,KRC Genk,Jupiler Pro League,RKC Waalwijk,KPN Eredivisie,£338Th.,https://www.transfermarkt.co.uk/rkc-waalwijk/startseite/verein/235/saison_id/2000
+344,2000,Tom Peeters,Left Winger,42,-,KV Mechelen,Jupiler Pro League,Sunderland,Premier League,£338Th.,https://www.transfermarkt.co.uk/afc-sunderland/startseite/verein/289/saison_id/2000
+345,2000,Colin Hendry,Centre-Back,54,-,Coventry,Premier League,Bolton,First Division,£338Th.,https://www.transfermarkt.co.uk/bolton-wanderers/startseite/verein/355/saison_id/2000
+346,2000,Walid Badir,Defensive Midfield,46,-,Wimbledon FC,First Division,Maccabi Haifa,Ligat ha'Al,£338Th.,https://www.transfermarkt.co.uk/ligat-ha-al/transfers/wettbewerb/ISR1/saison_id/2000
+347,2000,Sergey Gurenko,Right-Back,48,-,AS Roma,Serie A,Real Zaragoza,LaLiga,Loan fee:,https://www.transfermarkt.co.uk/hnk-hajduk-split/startseite/verein/447/saison_id/2000
+348,2000,Samuel Koejoe,Centre-Forward,46,-,Wüstenrot Sbg,Bundesliga,QPR,First Division,£315Th.,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2000
+349,2000,Mikkel Beck,Centre-Forward,47,-,Derby,Premier League,LOSC Lille,Ligue 1,£315Th.,https://www.transfermarkt.co.uk/markus-osthoff/profil/spieler/793
+350,2000,Markus Osthoff,Left Winger,51,-,MSV Duisburg,2. Bundesliga,Bor. M'gladbach,2. Bundesliga,£297Th.,https://www.transfermarkt.co.uk/jose-dominguez/profil/spieler/704
+351,2000,Derek Boateng,Defensive Midfield,37,-,PS Kalamata,A' Ethniki,Panathinaikos,A' Ethniki,£288Th.,https://www.transfermarkt.co.uk/ps-kalamata/startseite/verein/9/saison_id/2000
+352,2000,Janne Salli,Defender,42,-,FC Haka,Veikkausliiga,Barnsley FC,First Division,£286Th.,https://www.transfermarkt.co.uk/fc-haka/startseite/verein/1225/saison_id/2000
+353,2000,Najwan Ghrayib,Left-Back,46,-,Aston Villa,Premier League,Hapoel Haifa,Ligat ha'Al,£284Th.,https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405/saison_id/2000
+354,2000,Carl Tiler,Centre-Back,50,-,Charlton,Premier League,Portsmouth,First Division,£281Th.,https://www.transfermarkt.co.uk/charlton-athletic/startseite/verein/358/saison_id/2000
+355,2000,Sixto Peralta,Central Midfield,41,-,Inter,Serie A,Torino,Serie B,Loan fee:,https://www.transfermarkt.co.uk/edmond-gunjac/profil/spieler/50272
+356,2000,Edmond Gunjac,Right Winger,47,-,ND Gorica,Prva Liga,FC Koper,Prva Liga,£270Th.,https://www.transfermarkt.co.uk/wayne-thomas/profil/spieler/13612
+357,2000,Christos Patsatzoglou,Defensive Midfield,41,-,Skoda Xanthi,A' Ethniki,Olympiacos,A' Ethniki,£270Th.,https://www.transfermarkt.co.uk/nk-maribor/startseite/verein/790/saison_id/2000
+358,2000,Amir Karic,Left-Back,46,-,NK Maribor,Prva Liga,Crystal Palace,First Division,£270Th.,https://www.transfermarkt.co.uk/vv-st-truiden/startseite/verein/475/saison_id/2000
+359,2000,Mladen Rudonja,Left Winger,49,-,Sint-Truiden,Jupiler Pro League,Portsmouth,First Division,£270Th.,https://www.transfermarkt.co.uk/cagliari-calcio/startseite/verein/1390/saison_id/2000
+360,2000,Luis Oliveira,Centre-Forward,51,-,Cagliari Calcio,Serie B,Bologna,Serie A,£270Th.,https://www.transfermarkt.co.uk/blackburn-rovers/startseite/verein/164/saison_id/2000
+361,2000,Steve Harkness,Left-Back,49,-,Blackburn,First Division,Sheff Wed,First Division,£270Th.,https://www.transfermarkt.co.uk/zeleznik-belgrad/startseite/verein/636/saison_id/2000
+362,2000,Andy Booth,Centre-Forward,46,-,Sheff Wed,First Division,Huddersfield,First Division,£270Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2000
+363,2000,Adie Moses,Centre-Back,45,-,Barnsley FC,First Division,Huddersfield,First Division,£270Th.,https://www.transfermarkt.co.uk/dunfermline-athletic-fc/startseite/verein/1270/saison_id/2000
+364,2000,Mario Frick,Centre-Forward,46,-,FC Zürich,Nationalliga A,Arezzo,Serie C1 - A,£270Th.,https://www.transfermarkt.co.uk/fc-zurich/startseite/verein/260/saison_id/2000
+365,2000,Urmas Rooba,Left-Back,42,-,FC Flora,Meistriliiga,FC Midtjylland,Faxe Kondi Liga,£248Th.,https://www.transfermarkt.co.uk/fc-midtjylland/startseite/verein/865/saison_id/2000
+366,2000,Dmitri Ogorodnik,Centre-Forward,42,-,Dnepr-Transmash,Vysheyshaya Liga,Zenit S-Pb,Premier Liga,£243Th.,https://www.transfermarkt.co.uk/zenit-st-petersburg/startseite/verein/964/saison_id/2000
+367,2000,Sören Seidel,Central Midfield,47,-,Werder Bremen,Bundesliga,MSV Duisburg,2. Bundesliga,£230Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2000
+368,2000,Craig Harrison,Defender,42,-,Middlesbrough,Premier League,Crystal Palace,First Division,£225Th.,https://www.transfermarkt.co.uk/fortuna-dusseldorf/startseite/verein/38/saison_id/2000
+369,2000,Daniel Cartus,Defensive Midfield,42,-,F. Düsseldorf,Regionalliga Nord,Saarbrücken,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/tennis-borussia-berlin/startseite/verein/101/saison_id/2000
+370,2000,Emmanuel Krontiris,Centre-Forward,37,-,TeBe Berlin,Regionalliga Nord,Bor. Dortmund,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/eintracht-braunschweig/startseite/verein/23/saison_id/2000
+371,2000,Serge Branco,Right-Back,39,-,E. Braunschweig,Regionalliga Nord,E. Frankfurt,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/fc-kopenhagen-u19/startseite/verein/16104/saison_id/2000
+372,2000,Riccardo Fissore,Centre-Back,40,-,Torino,Serie B,Inter,Serie A,£225Th.,https://www.transfermarkt.co.uk/rot-weiss-ahlen/startseite/verein/50/saison_id/2000
+373,2000,Marcus Feinbier,Centre-Forward,50,-,1.FC Nuremberg,2. Bundesliga,LR Ahlen,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/msv-duisburg/startseite/verein/52/saison_id/2000
+374,2000,Goran Milovanovic,Centre-Forward,47,-,Hannover 96,2. Bundesliga,MSV Duisburg,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/spvgg-unterhaching/startseite/verein/66/saison_id/2000
+375,2000,Dzoni Novak,Left Midfield,51,-,CS Sedan,Ligue 1,Unterhaching,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/vfb-stuttgart/startseite/verein/79/saison_id/2000
+376,2000,Jochen Seitz,Left Winger,43,-,Unterhaching,Bundesliga,VfB Stuttgart,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/fc-barnsley/startseite/verein/349/saison_id/2000
+377,2000,Mitch Ward,Midfielder,49,-,Everton,Premier League,Barnsley FC,First Division,£225Th.,https://www.transfermarkt.co.uk/hnk-hajduk-split/startseite/verein/447/saison_id/2000
+378,2000,Oleg Sischin,Right Midfield,45,-,CSKA Moscow,Premier Liga,Saturn REN-TV,Premier Liga,£225Th.,https://www.transfermarkt.co.uk/oleg-sischin/profil/spieler/44282
+379,2000,Daniel Teixeira,Centre-Forward,52,-,KFC Uerdingen,Regionalliga Nord,Union Berlin,Regionalliga Nord,Loan fee:,https://www.transfermarkt.co.uk/daniel-teixeira/profil/spieler/1492
+380,2000,Carlo Cudicini,Goalkeeper,47,-,Castel di Sangr,Serie C1 - B,Chelsea,Premier League,£216Th.,https://www.transfermarkt.co.uk/asd-castel-di-sangro/startseite/verein/3512/saison_id/2000
+381,2000,Dirk Flock,Right Midfield,48,-,Werder Bremen,Bundesliga,Arm. Bielefeld,2. Bundesliga,£207Th.,https://www.transfermarkt.co.uk/sv-werder-bremen/startseite/verein/86/saison_id/2000
+382,2000,Detlev Dammeier,Defensive Midfield,51,-,VfL Wolfsburg,Bundesliga,Arm. Bielefeld,2. Bundesliga,£207Th.,https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82/saison_id/2000
+383,2000,Adnan Kevric,Attacking Midfield,50,-,Stuttg. Kickers,2. Bundesliga,SSV Ulm 1846,2. Bundesliga,£207Th.,https://www.transfermarkt.co.uk/stuttgarter-kickers/startseite/verein/71/saison_id/2000
+384,2000,Bastian Reinhardt,Centre-Back,44,-,Hannover 96,2. Bundesliga,Arm. Bielefeld,2. Bundesliga,£203Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2000
+385,2000,Dr. Philipp Laux,Goalkeeper,47,-,SSV Ulm 1846,2. Bundesliga,Bor. Dortmund,Bundesliga,£203Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2000
+386,2000,Sjaak Polak,Left-Back,44,-,Excelsior,Eerste Divisie,Twente FC,KPN Eredivisie,£203Th.,https://www.transfermarkt.co.uk/jupiler-league/transfers/wettbewerb/NL2/saison_id/2000

@@ -1,0 +1,432 @@
+,year,player_name,position,age,transfermarkt_val,team_left,league_left,joined_team,joined_league,fee,url
+0,2001,Zinédine Zidane,Attacking Midfield,48,-,Juventus,Serie A,Real Madrid,LaLiga,£69.75m,https://www.transfermarkt.co.uk/zinedine-zidane/profil/spieler/3111
+1,2001,Gianluigi Buffon,Goalkeeper,42,-,AC Parma,Serie A,Juventus,Serie A,£47.60m,https://www.transfermarkt.co.uk/gianluigi-buffon/profil/spieler/5023
+2,2001,Gaizka Mendieta,Right Midfield,46,-,Valencia,LaLiga,Lazio,Serie A,£43.20m,https://www.transfermarkt.co.uk/gaizka-mendieta/profil/spieler/7603
+3,2001,Juan Sebastián Verón,Central Midfield,45,-,Lazio,Serie A,Man Utd,Premier League,£38.34m,https://www.transfermarkt.co.uk/juan-sebastian-veron/profil/spieler/3143
+4,2001,Rui Costa,Attacking Midfield,48,-,Fiorentina,Serie A,Milan,Serie A,£37.18m,https://www.transfermarkt.co.uk/rui-costa/profil/spieler/3624
+5,2001,Lilian Thuram,Centre-Back,48,-,AC Parma,Serie A,Juventus,Serie A,£32.54m,https://www.transfermarkt.co.uk/lilian-thuram/profil/spieler/3521
+6,2001,Filippo Inzaghi,Centre-Forward,47,-,Juventus,Serie A,Milan,Serie A,£32.54m,https://www.transfermarkt.co.uk/filippo-inzaghi/profil/spieler/5821
+7,2001,Antonio Cassano,Second Striker,38,-,Bari,Serie B,AS Roma,Serie A,£27.90m,https://www.transfermarkt.co.uk/as-bari/startseite/verein/332/saison_id/2001
+8,2001,Ruud van Nistelrooy,Centre-Forward,44,-,PSV Eindhoven,KPN Eredivisie,Man Utd,Premier League,£25.65m,https://www.transfermarkt.co.uk/psv-eindhoven/startseite/verein/383/saison_id/2001
+9,2001,Hidetoshi Nakata,Attacking Midfield,43,-,AS Roma,Serie A,AC Parma,Serie A,£25.56m,https://www.transfermarkt.co.uk/as-rom/startseite/verein/12/saison_id/2001
+10,2001,Francesco Toldo,Goalkeeper,48,-,Fiorentina,Serie A,Inter,Serie A,£23.85m,https://www.transfermarkt.co.uk/ac-florenz/startseite/verein/430/saison_id/2001
+11,2001,Jaap Stam,Centre-Back,48,-,Man Utd,Premier League,Lazio,Serie A,£23.18m,https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985/saison_id/2001
+12,2001,Márcio Amoroso,Centre-Forward,46,-,AC Parma,Serie A,Bor. Dortmund,Bundesliga,£22.95m,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2001
+13,2001,Stefano Fiore,Attacking Midfield,45,-,Udinese,Serie A,Lazio,Serie A,£22.50m,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410/saison_id/2001
+14,2001,Marcelo Salas,Centre-Forward,45,-,Lazio,Serie A,Juventus,Serie A,£22.50m,https://www.transfermarkt.co.uk/lazio-rom/startseite/verein/398/saison_id/2001
+15,2001,Robbie Keane,Centre-Forward,40,-,Inter,Serie A,Leeds,Premier League,£16.20m,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+16,2001,Sérgio Conceição,Right Winger,45,-,AC Parma,Serie A,Inter,Serie A,£16.20m,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2001
+17,2001,Sergio,Central Midfield,43,-,Espanyol,LaLiga,Dep. La Coruña,LaLiga,£16.11m,https://www.transfermarkt.co.uk/espanyol-barcelona/startseite/verein/714/saison_id/2001
+18,2001,Steve Marlet,Centre-Forward,46,-,Olympique Lyon,Ligue 1,Fulham,Premier League,£15.84m,https://www.transfermarkt.co.uk/olympique-lyon/startseite/verein/1041/saison_id/2001
+19,2001,Andrea Pirlo,Defensive Midfield,41,-,Inter,Serie A,Milan,Serie A,£15.34m,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+20,2001,Philippe Christanval,Centre-Back,42,-,Monaco,Ligue 1,FC Barcelona,LaLiga,£15.30m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2001
+21,2001,Robbie Fowler,Centre-Forward,45,-,Liverpool,Premier League,Leeds,Premier League,£15.12m,https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31/saison_id/2001
+22,2001,Frank Lampard,Central Midfield,42,-,West Ham,Premier League,Chelsea,Premier League,£14.40m,https://www.transfermarkt.co.uk/west-ham-united/startseite/verein/379/saison_id/2001
+23,2001,Frank Lampard,Central Midfield,42,-,West Ham,Premier League,Chelsea,Premier League,£14.40m,https://www.transfermarkt.co.uk/frank-lampard/profil/spieler/3163
+24,2001,Cristian Zenoni,Right-Back,43,-,Milan,Serie A,Juventus,Serie A,£13.95m,https://www.transfermarkt.co.uk/cristian-zenoni/profil/spieler/6794
+25,2001,Darko Kovacevic,Centre-Forward,46,-,Lazio,Serie A,Real Sociedad,LaLiga,£13.94m,https://www.transfermarkt.co.uk/darko-kovacevic/profil/spieler/7479
+26,2001,Massimo Donati,Defensive Midfield,39,-,Atalanta,Serie A,Milan,Serie A,£13.50m,https://www.transfermarkt.co.uk/massimo-donati/profil/spieler/5870
+27,2001,Evanilson,Right-Back,45,-,Bor. Dortmund,Bundesliga,AC Parma,Serie A,£13.50m,https://www.transfermarkt.co.uk/evanilson/profil/spieler/110
+28,2001,Jonathan Bachini,Right Midfield,45,-,Juventus,Serie A,AC Parma,Serie A,£13.50m,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+29,2001,Michalis Konstantinou,Centre-Forward,42,-,Iraklis,A' Ethniki,Panathinaikos,A' Ethniki,£13.50m,https://www.transfermarkt.co.uk/michalis-konstantinou/profil/spieler/9839
+30,2001,Darko Kovacevic,Centre-Forward,46,-,Juventus,Serie A,Lazio,Serie A,£13.50m,https://www.transfermarkt.co.uk/darko-kovacevic/profil/spieler/7479
+31,2001,Laurent Robert,Left Winger,45,-,Paris SG,Ligue 1,Newcastle,Premier League,£12.89m,https://www.transfermarkt.co.uk/laurent-robert/profil/spieler/3316
+32,2001,Ivan Pelizzoli,Goalkeeper,39,-,Atalanta,Serie A,AS Roma,Serie A,£12.60m,https://www.transfermarkt.co.uk/ivan-pelizzoli/profil/spieler/5936
+33,2001,Mohamed Kallon,Centre-Forward,41,-,Vicenza,Serie B,Inter,Serie A,£11.70m,https://www.transfermarkt.co.uk/vicenza-calcio/startseite/verein/2655/saison_id/2001
+34,2001,Fabio Liverani,Defensive Midfield,44,-,Perugia,Serie A,Lazio,Serie A,£11.70m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+35,2001,Simão,Left Winger,40,-,FC Barcelona,LaLiga,Benfica,Liga NOS,£11.62m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+36,2001,Boudewijn Zenden,Left Winger,44,-,FC Barcelona,LaLiga,Chelsea,Premier League,£11.61m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+37,2001,Andy Cole,Centre-Forward,48,-,Man Utd,Premier League,Blackburn,Premier League,£10.98m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+38,2001,Dean Richards,Centre-Back,†36,-,Southampton,Premier League,Spurs,Premier League,£10.94m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+39,2001,Éric Carrière,Attacking Midfield,47,-,FC Nantes,Ligue 1,Olympique Lyon,Ligue 1,£10.80m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+40,2001,Bernt Haas,Right-Back,42,-,Grasshoppers,Nationalliga A,Sunderland,Premier League,£10.62m,https://www.transfermarkt.co.uk/raiffeisen-super-league/transfers/wettbewerb/C1/saison_id/2001
+41,2001,Daniel Van Buyten,Centre-Back,42,-,Standard Liège,Jupiler Pro League,Marseille,Ligue 1,£10.35m,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2001
+42,2001,Seth Johnson,Central Midfield,41,-,Derby,Premier League,Leeds,Premier League,£10.35m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+43,2001,Emmanuel Petit,Defensive Midfield,50,-,FC Barcelona,LaLiga,Chelsea,Premier League,£10.35m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+44,2001,Corrado Grabbi,Centre-Forward,45,-,Ternana,Serie B,Blackburn,Premier League,£10.23m,https://www.transfermarkt.co.uk/serie-b/transfers/wettbewerb/IT2/saison_id/2001
+45,2001,Cristiano Zanetti,Defensive Midfield,43,-,AS Roma,Serie A,Inter,Serie A,£9.90m,https://www.transfermarkt.co.uk/as-rom/startseite/verein/12/saison_id/2001
+46,2001,Juan Carlos Valerón,Attacking Midfield,45,-,Atlético Madrid,2ª División,Dep. La Coruña,LaLiga,£9.90m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2001
+47,2001,Mario Turdó,Centre-Forward,41,-,Celta de Vigo,LaLiga,Stade Rennais,Ligue 1,£9.74m,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940/saison_id/2001
+48,2001,Salva Ballesta,Centre-Forward,45,-,Atlético Madrid,2ª División,Valencia,LaLiga,£9.72m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2001
+49,2001,Jan Koller,Centre-Forward,47,-,RSC Anderlecht,Jupiler Pro League,Bor. Dortmund,Bundesliga,£9.45m,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58/saison_id/2001
+50,2001,Marco Materazzi,Centre-Back,47,-,Perugia,Serie A,Inter,Serie A,£9.45m,https://www.transfermarkt.co.uk/ac-perugia-calcio/startseite/verein/839/saison_id/2001
+51,2001,Edwin van der Sar,Goalkeeper,49,-,Juventus,Serie A,Fulham,Premier League,£9.27m,https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506/saison_id/2001
+52,2001,Luca Saudati,Centre-Forward,41,-,Milan,Serie A,Atalanta,Serie A,£9.00m,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5/saison_id/2001
+53,2001,Manuele Blasi,Central Midfield,40,-,AS Roma,Serie A,Perugia,Serie A,£8.83m,https://www.transfermarkt.co.uk/as-rom/startseite/verein/12/saison_id/2001
+54,2001,Martin Djetou,Centre-Back,45,-,Monaco,Ligue 1,AC Parma,Serie A,£8.78m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2001
+55,2001,Gareth Southgate,Centre-Back,50,-,Aston Villa,Premier League,Middlesbrough,Premier League,£8.78m,https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405/saison_id/2001
+56,2001,Hugo Leal,Central Midfield,40,-,Atlético Madrid,2ª División,Paris SG,Ligue 1,£8.55m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2001
+57,2001,William Gallas,Centre-Back,43,-,Marseille,Ligue 1,Chelsea,Premier League,£8.37m,https://www.transfermarkt.co.uk/olympique-marseille/startseite/verein/244/saison_id/2001
+58,2001,Martin Laursen,Centre-Back,43,-,Hellas Verona,Serie A,AC Parma,Serie A,£8.37m,https://www.transfermarkt.co.uk/hellas-verona/startseite/verein/276/saison_id/2001
+59,2001,Richard Wright,Goalkeeper,42,-,Ipswich,Premier League,Arsenal,Premier League,£8.10m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+60,2001,Craig Bellamy,Left Winger,41,-,Coventry,First Division,Newcastle,Premier League,£8.10m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+61,2001,Lucas Bernardi,Central Midfield,43,-,Marseille,Ligue 1,Monaco,Ligue 1,£8.10m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+62,2001,Péguy Luyindula,Centre-Forward,41,-,R. Strasbourg,Ligue 2,Olympique Lyon,Ligue 1,£7.92m,https://www.transfermarkt.co.uk/olympique-lyon/startseite/verein/1041/saison_id/2001
+63,2001,Flavio Roma,Goalkeeper,46,-,Piacenza,Serie A,Monaco,Ligue 1,£7.65m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2001
+64,2001,Jan Vennegoor of Hesselink,Centre-Forward,41,-,Twente FC,KPN Eredivisie,PSV Eindhoven,KPN Eredivisie,£7.56m,https://www.transfermarkt.co.uk/psv-eindhoven/startseite/verein/383/saison_id/2001
+65,2001,Tomas Repka,Centre-Back,46,-,Fiorentina,Serie A,West Ham,Premier League,£7.43m,https://www.transfermarkt.co.uk/tomas-repka/profil/spieler/3647
+66,2001,Chris Kirkland,Goalkeeper,39,-,Coventry,First Division,Liverpool,Premier League,£7.38m,https://www.transfermarkt.co.uk/chris-kirkland/profil/spieler/3219
+67,2001,Patrik Andersson,Centre-Back,49,-,Bayern Munich ,Bundesliga,FC Barcelona,LaLiga,£7.20m,https://www.transfermarkt.co.uk/fc-bayern-munchen/startseite/verein/27/saison_id/2001
+68,2001,Francisco Rufete,Right Winger,43,-,Málaga CF,LaLiga,Valencia,LaLiga,£6.97m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+69,2001,Claudio Pizarro,Centre-Forward,42,-,Werder Bremen,Bundesliga,Bayern Munich ,Bundesliga,£6.79m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2001
+70,2001,Robert Kovac,Centre-Back,46,-,Bay. Leverkusen,Bundesliga,Bayern Munich ,Bundesliga,£6.75m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2001
+71,2001,Fernando Meira,Centre-Back,42,-,Benfica,Liga NOS,VfB Stuttgart,Bundesliga,£6.75m,https://www.transfermarkt.co.uk/primeira-liga/transfers/wettbewerb/PO1/saison_id/2001
+72,2001,Jon Macken,Centre-Forward,43,-,Preston,First Division,Man City,First Division,£6.75m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+73,2001,Jason Euell,Second Striker,43,-,Wimbledon FC,First Division,Charlton,Premier League,£6.75m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+74,2001,Don Hutchison,Attacking Midfield,49,-,Sunderland,Premier League,West Ham,Premier League,£6.75m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+75,2001,Giuliano Giannichedda,Defensive Midfield,46,-,Udinese,Serie A,Lazio,Serie A,£6.75m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+76,2001,Peter Crouch,Centre-Forward,39,-,Portsmouth,First Division,Aston Villa,Premier League,£6.75m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+77,2001,Jermaine Jenas,Central Midfield,37,-,Nottm Forest,First Division,Newcastle,Premier League,£6.75m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+78,2001,Lee Hughes,Centre-Forward,44,-,West Brom,First Division,Coventry,First Division,£6.75m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+79,2001,Frédéric Née,Centre-Forward,45,-,SC Bastia,Ligue 1,Olympique Lyon,Ligue 1,£6.75m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+80,2001,Jerzy Dudek,Goalkeeper,47,-,Feyenoord,KPN Eredivisie,Liverpool,Premier League,£6.66m,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2001
+81,2001,Cosmin Contra,Right-Back,44,-,Alavés,LaLiga,Milan,Serie A,£6.30m,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5/saison_id/2001
+82,2001,Milan Baros,Centre-Forward,38,-,Banik Ostrava,Gambrinus Liga,Liverpool,Premier League,£6.30m,https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31/saison_id/2001
+83,2001,Camel Meriem,Attacking Midfield,40,-,FC Sochaux,Ligue 1,G. Bordeaux,Ligue 1,£6.30m,https://www.transfermarkt.co.uk/fc-girondins-bordeaux/startseite/verein/40/saison_id/2001
+84,2001,Nelson Vivas,Right-Back,50,-,Arsenal,Premier League,Inter,Serie A,£6.30m,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+85,2001,Nelson Vivas,Right-Back,50,-,Arsenal,Premier League,Inter,Serie A,£6.30m,https://www.transfermarkt.co.uk/nelson-vivas/profil/spieler/30936
+86,2001,Olof Mellberg,Centre-Back,43,-,Racing,2ª División,Aston Villa,Premier League,£6.12m,https://www.transfermarkt.co.uk/olof-mellberg/profil/spieler/3098
+87,2001,Tomasz Radzinski,Centre-Forward,46,-,RSC Anderlecht,Jupiler Pro League,Everton,Premier League,£6.08m,https://www.transfermarkt.co.uk/tomasz-radzinski/profil/spieler/3585
+88,2001,Christian Panucci,Right-Back,47,-,Inter,Serie A,Monaco,Ligue 1,£6.04m,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+89,2001,Steed Malbranque,Central Midfield,40,-,Olympique Lyon,Ligue 1,Fulham,Premier League,£5.94m,https://www.transfermarkt.co.uk/olympique-lyon/startseite/verein/1041/saison_id/2001
+90,2001,Christian Ziege,Left Midfield,48,-,Liverpool,Premier League,Spurs,Premier League,£5.85m,https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31/saison_id/2001
+91,2001,Jacques Songo'o,Goalkeeper,56,-,Dep. La Coruña,LaLiga,FC Metz,Ligue 1,£5.85m,https://www.transfermarkt.co.uk/deportivo-la-coruna/startseite/verein/897/saison_id/2001
+92,2001,John Arne Riise,Left-Back,40,-,Monaco,Ligue 1,Liverpool,Premier League,£5.73m,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162/saison_id/2001
+93,2001,Bart Goor,Left Midfield,47,-,RSC Anderlecht,Jupiler Pro League,Hertha BSC,Bundesliga,£5.63m,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58/saison_id/2001
+94,2001,Matteo Sereni,Goalkeeper,45,-,Sampdoria,Serie B,Ipswich,Premier League,£5.63m,https://www.transfermarkt.co.uk/uc-sampdoria/startseite/verein/1038/saison_id/2001
+95,2001,Jardel,Centre-Forward,47,-,Galatasaray,Süper Lig,Sporting CP,Liga NOS,£5.58m,https://www.transfermarkt.co.uk/galatasaray-istanbul/startseite/verein/141/saison_id/2001
+96,2001,Marco Marchionni,Right Midfield,40,-,FC Empoli,Serie B,AC Parma,Serie A,£5.58m,https://www.transfermarkt.co.uk/fc-empoli/startseite/verein/749/saison_id/2001
+97,2001,Zoltan Sebescen,Right-Back,45,-,VfL Wolfsburg,Bundesliga,Bay. Leverkusen,Bundesliga,£5.40m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2001
+98,2001,Lilian Laslandes,Centre-Forward,49,-,G. Bordeaux,Ligue 1,Sunderland,Premier League,£5.40m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+99,2001,Luke Young,Right-Back,41,-,Spurs,Premier League,Charlton,Premier League,£5.40m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+100,2001,Rory Delap,Central Midfield,44,-,Derby,Premier League,Southampton,Premier League,£5.40m,https://www.transfermarkt.co.uk/fc-southampton/startseite/verein/180/saison_id/2001
+101,2001,Lamberto Zauli,Attacking Midfield,49,-,Vicenza,Serie B,Bologna,Serie A,£5.40m,https://www.transfermarkt.co.uk/fc-bologna/startseite/verein/1025/saison_id/2001
+102,2001,Antonio Guayre,Right Winger,40,-,UD Las Palmas,LaLiga,Villarreal,LaLiga,£5.40m,https://www.transfermarkt.co.uk/fc-villarreal/startseite/verein/1050/saison_id/2001
+103,2001,Agustín Delgado,Centre-Forward,45,-,Necaxa,Primera Verano,Southampton,Premier League,£5.18m,https://www.transfermarkt.co.uk/agustin-delgado/profil/spieler/3849
+104,2001,Joey Gudjónsson,Central Midfield,40,-,RKC Waalwijk,KPN Eredivisie,Real Betis,LaLiga,£5.06m,https://www.transfermarkt.co.uk/joey-gudjonsson/profil/spieler/4065
+105,2001,Niko Kovac,Defensive Midfield,48,-,Hamburger SV,Bundesliga,Bayern Munich ,Bundesliga,£4.95m,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2001
+106,2001,Shinji Ono,Central Midfield,41,-,Urawa Reds,J1 - 2nd Stage,Feyenoord,KPN Eredivisie,£4.95m,https://www.transfermarkt.co.uk/urawa-red-diamonds/startseite/verein/828/saison_id/2001
+107,2001,Nicola Amoruso,Centre-Forward,46,-,SSC Napoli,Serie B,Juventus,Serie A,£4.95m,https://www.transfermarkt.co.uk/ssc-neapel/startseite/verein/6195/saison_id/2001
+108,2001,El-Hadji Diouf,Centre-Forward,39,-,Stade Rennais,Ligue 1,Lens,Ligue 1,£4.81m,https://www.transfermarkt.co.uk/fc-stade-rennes/startseite/verein/273/saison_id/2001
+109,2001,Sylvain Legwinski,Left Midfield,47,-,G. Bordeaux,Ligue 1,Fulham,Premier League,£4.73m,https://www.transfermarkt.co.uk/fc-fulham/startseite/verein/931/saison_id/2001
+110,2001,Jon Harley,Left-Back,41,-,Chelsea,Premier League,Fulham,Premier League,£4.73m,https://www.transfermarkt.co.uk/fc-fulham/startseite/verein/931/saison_id/2001
+111,2001,Matteo Ferrari,Centre-Back,40,-,Inter,Serie A,AC Parma,Serie A,£4.65m,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2001
+112,2001,Gaetano D'Agostino,Central Midfield,38,-,AS Roma,Serie A,Bari,Serie B,Loan fee:,https://www.transfermarkt.co.uk/as-bari/startseite/verein/332/saison_id/2001
+113,2001,Victor Agali,Centre-Forward,41,-,Hansa Rostock,Bundesliga,FC Schalke 04,Bundesliga,£4.59m,https://www.transfermarkt.co.uk/fc-schalke-04/startseite/verein/33/saison_id/2001
+114,2001,Sander Westerveld,Goalkeeper,45,-,Liverpool,Premier League,Real Sociedad,LaLiga,£4.50m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+115,2001,Ümit Davala,Right Midfield,47,-,Galatasaray,Süper Lig,Milan,Serie A,£4.50m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+116,2001,Nihat Kahveci,Centre-Forward,40,-,Besiktas,Süper Lig,Real Sociedad,LaLiga,£4.50m,https://www.transfermarkt.co.uk/primera-division/transfers/wettbewerb/ES1/saison_id/2001
+117,2001,Delfim,Defensive Midfield,43,-,Sporting CP,Liga NOS,Marseille,Ligue 1,£4.50m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+118,2001,Mantorras,Centre-Forward,38,-,Alverca,Liga NOS,Benfica,Liga NOS,£4.50m,https://www.transfermarkt.co.uk/primeira-liga/transfers/wettbewerb/PO1/saison_id/2001
+119,2001,Luca Toni,Centre-Forward,43,-,Vicenza,Serie B,Brescia,Serie A,£4.50m,https://www.transfermarkt.co.uk/joao-tomas/profil/spieler/13150
+120,2001,Nihat Kahveci,Centre-Forward,40,-,Besiktas,Süper Lig,Real Sociedad,LaLiga,£4.50m,https://www.transfermarkt.co.uk/nihat-kahveci/profil/spieler/6569
+121,2001,Sander Westerveld,Goalkeeper,45,-,Liverpool,Premier League,Real Sociedad,LaLiga,£4.50m,https://www.transfermarkt.co.uk/sander-westerveld/profil/spieler/3427
+122,2001,David James,Goalkeeper,50,-,Aston Villa,Premier League,West Ham,Premier League,£4.32m,https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405/saison_id/2001
+123,2001,Dario Dainelli,Centre-Back,41,-,FC Empoli,Serie B,Brescia,Serie A,£4.18m,https://www.transfermarkt.co.uk/fc-empoli/startseite/verein/749/saison_id/2001
+124,2001,Jérôme Rothen,Left Midfield,42,-,Troyes,Ligue 1,Monaco,Ligue 1,£4.05m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+125,2001,Patrick M'Boma,Centre-Forward,49,-,AC Parma,Serie A,Sunderland,Premier League,£4.05m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+126,2001,Marcus Bent,Centre-Forward,42,-,Blackburn,Premier League,Ipswich,Premier League,£4.05m,https://www.transfermarkt.co.uk/ipswich-town/startseite/verein/677/saison_id/2001
+127,2001,Matthew Jones,Central Midfield,40,-,Leeds,Premier League,Leicester,Premier League,£4.05m,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003/saison_id/2001
+128,2001,James Scowcroft,Centre-Forward,44,-,Ipswich,Premier League,Leicester,Premier League,£4.05m,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003/saison_id/2001
+129,2001,Jacek Bak,Centre-Back,47,-,Olympique Lyon,Ligue 1,Lens,Ligue 1,£3.87m,https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826/saison_id/2001
+130,2001,Mido,Centre-Forward,37,-,KAA Gent,Jupiler Pro League,Ajax,KPN Eredivisie,£3.78m,https://www.transfermarkt.co.uk/ajax-amsterdam/startseite/verein/610/saison_id/2001
+131,2001,Finidi George,Right Winger,49,-,RCD Mallorca,LaLiga,Ipswich,Premier League,£3.78m,https://www.transfermarkt.co.uk/ipswich-town/startseite/verein/677/saison_id/2001
+132,2001,Pablo Contreras,Centre-Back,42,-,Monaco,Ligue 1,Celta de Vigo,LaLiga,£3.78m,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940/saison_id/2001
+133,2001,François Grenet,Right-Back,45,-,G. Bordeaux,Ligue 1,Derby,Premier League,£3.77m,https://www.transfermarkt.co.uk/derby-county/startseite/verein/22/saison_id/2001
+134,2001,Dong-won Seo,Defensive Midfield,45,-,Suwon Bluewings,K League 1,Jeonbuk Motors,K League 1,£3.70m,https://www.transfermarkt.co.uk/jeonbuk-hyundai-motors/startseite/verein/6502/saison_id/2001
+135,2001,Brahim Hemdani,Defensive Midfield,42,-,R. Strasbourg,Ligue 2,Marseille,Ligue 1,£3.60m,https://www.transfermarkt.co.uk/coventry-city/startseite/verein/990/saison_id/2001
+136,2001,Mustapha Hadji,Attacking Midfield,48,-,Coventry,First Division,Aston Villa,Premier League,£3.60m,https://www.transfermarkt.co.uk/fc-valencia/startseite/verein/1049/saison_id/2001
+137,2001,Alberto Gilardino,Centre-Forward,38,-,Piacenza,Serie A,Hellas Verona,Serie A,£3.49m,https://www.transfermarkt.co.uk/alberto-gilardino/profil/spieler/5878
+138,2001,Toifilou Maoulida,Centre-Forward,41,-,Montpellier,Ligue 1,Stade Rennais,Ligue 1,£3.42m,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+139,2001,John de Jong,Attacking Midfield,43,-,FC Utrecht,KPN Eredivisie,PSV Eindhoven,KPN Eredivisie,£3.42m,https://www.transfermarkt.co.uk/john-de-jong/profil/spieler/4347
+140,2001,Sylvinho,Left-Back,46,-,Arsenal,Premier League,Celta de Vigo,LaLiga,£3.42m,https://www.transfermarkt.co.uk/sylvinho/profil/spieler/3359
+141,2001,Tobias Linderoth,Defensive Midfield,41,-,Stabæk Fotball,Tippeligaen,Everton,Premier League,£3.38m,https://www.transfermarkt.co.uk/stabaek-if/startseite/verein/1274/saison_id/2001
+142,2001,Ilhan Mansiz,Centre-Forward,45,-,Samsunspor,Süper Lig,Besiktas,Süper Lig,£3.38m,https://www.transfermarkt.co.uk/samsunspor/startseite/verein/152/saison_id/2001
+143,2001,Ian Walker,Goalkeeper,48,-,Spurs,Premier League,Leicester,Premier League,£3.38m,https://www.transfermarkt.co.uk/tottenham-hotspur/startseite/verein/148/saison_id/2001
+144,2001,Simone Vergassola,Defensive Midfield,44,-,Sampdoria,Serie B,Torino,Serie A,£3.33m,https://www.transfermarkt.co.uk/uc-sampdoria/startseite/verein/1038/saison_id/2001
+145,2001,Nicola Corrent,Central Midfield,41,-,Salernitana,Serie B,Milan,Serie A,£3.25m,https://www.transfermarkt.co.uk/us-salernitana-1919/startseite/verein/380/saison_id/2001
+146,2001,Massimo Margiotta,Second Striker,43,-,Udinese,Serie A,Vicenza,Serie B,£3.24m,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410/saison_id/2001
+147,2001,Vitali Kutuzov,Centre-Forward,40,-,BATE Borisov,Vysheyshaya Liga,Milan,Serie A,£3.15m,https://www.transfermarkt.co.uk/bate-borisov/startseite/verein/713/saison_id/2001
+148,2001,Paolo Ginestra,Goalkeeper,41,-,Milan,Serie A,Inter,Serie A,£3.15m,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5/saison_id/2001
+149,2001,Yksel Osmanovski,Left Midfield,43,-,Bari,Serie B,Torino,Serie A,£3.15m,https://www.transfermarkt.co.uk/as-bari/startseite/verein/332/saison_id/2001
+150,2001,Gabriel Heinze,Centre-Back,42,-,Real Valladolid,LaLiga,Paris SG,Ligue 1,£3.15m,https://www.transfermarkt.co.uk/real-valladolid/startseite/verein/366/saison_id/2001
+151,2001,Dennis Wise,Defensive Midfield,53,-,Chelsea,Premier League,Leicester,Premier League,£3.15m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+152,2001,Bruno Cirillo,Centre-Back,43,-,Inter,Serie A,Lecce,Serie A,£3.06m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+153,2001,Gustavo Poyet,Attacking Midfield,52,-,Chelsea,Premier League,Spurs,Premier League,£3.06m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+154,2001,Stelios Venetidis,Left-Back,43,-,PAOK Salonika,A' Ethniki,Olympiacos,A' Ethniki,£2.97m,https://www.transfermarkt.co.uk/super-league/transfers/wettbewerb/GR1/saison_id/2001
+155,2001,Abdeslam Ouaddou,Centre-Back,41,-,AS Nancy,Ligue 2,Fulham,Premier League,£2.97m,https://www.transfermarkt.co.uk/ligue-2/transfers/wettbewerb/FR2/saison_id/2001
+156,2001,Jihai Sun,Centre-Back,43,-,DL Shide,Jia A,Man City,First Division,£2.93m,https://www.transfermarkt.co.uk/chinese-super-league/transfers/wettbewerb/CSL/saison_id/2001
+157,2001,Yildiray Bastürk,Attacking Midfield,41,-,VfL Bochum,2. Bundesliga,Bay. Leverkusen,Bundesliga,£2.93m,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2001
+158,2001,Martin Petrov,Left Winger,41,-,Servette FC,1.Liga gr. 1,VfL Wolfsburg,Bundesliga,£2.93m,https://www.transfermarkt.co.uk/1-liga-gruppe-1-bis-11-12-/transfers/wettbewerb/CR1/saison_id/2001
+159,2001,Sebastian Kehl,Defensive Midfield,40,-,SC Freiburg,Bundesliga,Bor. Dortmund,Bundesliga,£2.88m,https://www.transfermarkt.co.uk/sebastian-kehl/profil/spieler/410
+160,2001,Matuzalém,Defensive Midfield,40,-,SSC Napoli,Serie B,Piacenza,Serie A,£2.79m,https://www.transfermarkt.co.uk/matuzalem/profil/spieler/5974
+161,2001,Nils-Eric Johansson,Left-Back,40,-,1.FC Nuremberg,Bundesliga,Blackburn,Premier League,£2.70m,https://www.transfermarkt.co.uk/1-fc-nurnberg/startseite/verein/4/saison_id/2001
+162,2001,Marco Reich,Left Midfield,42,-,1.FC K'lautern,Bundesliga,1. FC Köln,Bundesliga,£2.70m,https://www.transfermarkt.co.uk/1-fc-kaiserslautern/startseite/verein/2/saison_id/2001
+163,2001,Evanilson,Right-Back,45,-,AC Parma,Serie A,Bor. Dortmund,Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+164,2001,Jason McAteer,Right Midfield,49,-,Blackburn,Premier League,Sunderland,Premier League,£2.70m,https://www.transfermarkt.co.uk/afc-sunderland/startseite/verein/289/saison_id/2001
+165,2001,Jonathan Greening,Central Midfield,41,-,Man Utd,Premier League,Middlesbrough,Premier League,£2.70m,https://www.transfermarkt.co.uk/fc-middlesbrough/startseite/verein/641/saison_id/2001
+166,2001,Ahmed Hassan,Attacking Midfield,45,-,Denizlispor,Süper Lig,Genclerbirligi,Süper Lig,£2.70m,https://www.transfermarkt.co.uk/genclerbirligi-ankara/startseite/verein/820/saison_id/2001
+167,2001,Olivier Monterrubio,Left Midfield,44,-,FC Nantes,Ligue 1,Stade Rennais,Ligue 1,£2.70m,https://www.transfermarkt.co.uk/fc-stade-rennes/startseite/verein/273/saison_id/2001
+168,2001,Olivier Sorlin,Defensive Midfield,41,-,Montpellier,Ligue 1,Stade Rennais,Ligue 1,£2.70m,https://www.transfermarkt.co.uk/fc-stade-rennes/startseite/verein/273/saison_id/2001
+169,2001,Christian Karembeu,Defensive Midfield,49,-,Middlesbrough,Premier League,Olympiacos,A' Ethniki,£2.70m,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683/saison_id/2001
+170,2001,Hakan Ünsal,Left-Back,47,-,Galatasaray,Süper Lig,Blackburn,Premier League,£2.70m,https://www.transfermarkt.co.uk/blackburn-rovers/startseite/verein/164/saison_id/2001
+171,2001,Esquerdinha,Left-Back,†46,-,FC Porto,Liga NOS,Real Zaragoza,LaLiga,£2.70m,https://www.transfermarkt.co.uk/real-saragossa/startseite/verein/142/saison_id/2001
+172,2001,Mark Kennedy,Left-Back,44,-,Man City,First Division,Wolves,First Division,£2.70m,https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543/saison_id/2001
+173,2001,Alberto Fontana,Goalkeeper,53,-,SSC Napoli,Serie B,Inter,Serie A,£2.70m,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+174,2001,Rolan Gusev,Right Midfield,43,-,Dynamo Moscow,Premier Liga,CSKA Moscow,Premier Liga,£2.70m,https://www.transfermarkt.co.uk/zska-moskau/startseite/verein/2410/saison_id/2001
+175,2001,Txomin Nagore,Central Midfield,46,-,CD Numancia,2ª División,Atlético Madrid,2ª División,£2.70m,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13/saison_id/2001
+176,2001,Zizi Roberts,Centre-Forward,41,-,Panionios,A' Ethniki,Olympiacos,A' Ethniki,£2.61m,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683/saison_id/2001
+177,2001,Marco Amelia,Goalkeeper,38,-,AS Roma,Serie A,AS Livorno,Serie C1 - A,£2.52m,https://www.transfermarkt.co.uk/as-livorno/startseite/verein/1210/saison_id/2001
+178,2001,Miroslav Karhan,Central Midfield,44,-,Besiktas,Süper Lig,VfL Wolfsburg,Bundesliga,£2.48m,https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82/saison_id/2001
+179,2001,Vladimir Janocko,Attacking Midfield,43,-,Skoda Xanthi,A' Ethniki,Austria Vienna,Bundesliga,£2.25m,https://www.transfermarkt.co.uk/skoda-xanthi/startseite/verein/128/saison_id/2001
+180,2001,Daniel Andersson,Centre-Back,43,-,Bari,Serie B,AC Venezia 1907,Serie A,£2.25m,https://www.transfermarkt.co.uk/as-bari/startseite/verein/332/saison_id/2001
+181,2001,Ümit Karan,Centre-Forward,44,-,Genclerbirligi,Süper Lig,Galatasaray,Süper Lig,£2.25m,https://www.transfermarkt.co.uk/genclerbirligi-ankara/startseite/verein/820/saison_id/2001
+182,2001,Pierre van Hooijdonk,Centre-Forward,50,-,Benfica,Liga NOS,Feyenoord,KPN Eredivisie,£2.25m,https://www.transfermarkt.co.uk/benfica-lissabon/startseite/verein/294/saison_id/2001
+183,2001,Pascal Nouma,Centre-Forward,48,-,Besiktas,Süper Lig,Marseille,Ligue 1,£2.25m,https://www.transfermarkt.co.uk/besiktas-istanbul/startseite/verein/114/saison_id/2001
+184,2001,Luigi Sala,Centre-Back,46,-,Milan,Serie A,Atalanta,Serie A,£2.25m,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5/saison_id/2001
+185,2001,Jurgen Cavens,Centre-Forward,42,-,Lierse SK,Jupiler Pro League,Standard Liège,Jupiler Pro League,£2.25m,https://www.transfermarkt.co.uk/lierse-sk/startseite/verein/204/saison_id/2001
+186,2001,Fatih Akyel,Right-Back,42,-,Galatasaray,Süper Lig,RCD Mallorca,LaLiga,£2.25m,https://www.transfermarkt.co.uk/galatasaray-istanbul/startseite/verein/141/saison_id/2001
+187,2001,Tiago,Central Midfield,39,-,Braga,Liga NOS,Benfica,Liga NOS,£2.25m,https://www.transfermarkt.co.uk/primeira-liga/transfers/wettbewerb/PO1/saison_id/2001
+188,2001,Cristian Bucchi,Centre-Forward,43,-,Perugia,Serie A,Ternana,Serie B,£2.25m,https://www.transfermarkt.co.uk/serie-b/transfers/wettbewerb/IT2/saison_id/2001
+189,2001,Dario Dainelli,Centre-Back,41,-,Lecce,Serie A,FC Empoli,Serie B,£2.09m,https://www.transfermarkt.co.uk/cristian-diaz/profil/spieler/54881
+190,2001,Cristian Díaz,Left-Back,44,-,Udinese,Serie A,RCD Mallorca,LaLiga,£2.09m,https://www.transfermarkt.co.uk/eyal-berkovic/profil/spieler/3231
+191,2001,Mark Wilson,Central Midfield,41,-,Man Utd,Premier League,Middlesbrough,Premier League,£2.07m,https://www.transfermarkt.co.uk/fc-southampton/startseite/verein/180/saison_id/2001
+192,2001,Luís Boa Morte,Left Midfield,43,-,Southampton,Premier League,Fulham,Premier League,£2.07m,https://www.transfermarkt.co.uk/psv-eindhoven/startseite/verein/383/saison_id/2001
+193,2001,Joonas Kolkka,Right Winger,46,-,PSV Eindhoven,KPN Eredivisie,Panathinaikos,A' Ethniki,£2.07m,https://www.transfermarkt.co.uk/benfica-lissabon/startseite/verein/294/saison_id/2001
+194,2001,Bruno Basto,Left-Back,42,-,Benfica,Liga NOS,G. Bordeaux,Ligue 1,£2.05m,https://www.transfermarkt.co.uk/ssv-reutlingen/startseite/verein/68/saison_id/2001
+195,2001,Denis Lapaczinski,Defensive Midfield,39,-,SSV Reutlingen,2. Bundesliga,Hertha BSC,Bundesliga,£2.03m,https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82/saison_id/2001
+196,2001,Thomas Hengen,Sweeper,46,-,VfL Wolfsburg,Bundesliga,1.FC K'lautern,Bundesliga,£2.03m,https://www.transfermarkt.co.uk/arminia-bielefeld/startseite/verein/10/saison_id/2001
+197,2001,Mark Draper,Attacking Midfield,49,-,Aston Villa,Premier League,Southampton,Premier League,£2.03m,https://www.transfermarkt.co.uk/mark-draper/profil/spieler/3681
+198,2001,Lucién Mettomo,Centre-Back,43,-,Saint-Étienne,Ligue 2,Man City,First Division,£2.03m,https://www.transfermarkt.co.uk/lucien-mettomo/profil/spieler/3808
+199,2001,Christian Negouai,Defensive Midfield,42,-,RSC Charleroi,Jupiler Pro League,Man City,First Division,£2.03m,https://www.transfermarkt.co.uk/christian-negouai/profil/spieler/3811
+200,2001,Nathan Blake,Centre-Forward,48,-,Blackburn,Premier League,Wolves,First Division,£2.03m,https://www.transfermarkt.co.uk/blackburn-rovers/startseite/verein/164/saison_id/2001
+201,2001,Edwin Zoetebier,Goalkeeper,50,-,Vitesse,KPN Eredivisie,Feyenoord,KPN Eredivisie,£2.03m,https://www.transfermarkt.co.uk/vitesse-arnheim/startseite/verein/499/saison_id/2001
+202,2001,Danny Dichio,Centre-Forward,45,-,Sunderland,Premier League,West Brom,First Division,£2.01m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+203,2001,Joachim Björklund,Centre-Back,49,-,AC Venezia 1907,Serie A,Sunderland,Premier League,£2.00m,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+204,2001,Pieter Collen,Centre-Back,40,-,NEC Nijmegen,KPN Eredivisie,Feyenoord,KPN Eredivisie,£1.98m,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2001
+205,2001,Marc Wilmots,Attacking Midfield,51,-,G. Bordeaux,Ligue 1,FC Schalke 04,Bundesliga,£1.80m,https://www.transfermarkt.co.uk/fc-schalke-04/startseite/verein/33/saison_id/2001
+206,2001,Claudio Taffarel,Goalkeeper,54,-,Galatasaray,Süper Lig,AC Parma,Serie A,£1.80m,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2001
+207,2001,Mbo Mpenza,Centre-Forward,43,-,Galatasaray,Süper Lig,Exc. Mouscron,Jupiler Pro League,£1.80m,https://www.transfermarkt.co.uk/excelsior-mouscron/startseite/verein/1433/saison_id/2001
+208,2001,Nenad Jestrovic,Centre-Forward,44,-,Exc. Mouscron,Jupiler Pro League,RSC Anderlecht,Jupiler Pro League,£1.80m,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58/saison_id/2001
+209,2001,Yann Lachuer,Attacking Midfield,48,-,SC Bastia,Ligue 1,AJ Auxerre,Ligue 1,£1.80m,https://www.transfermarkt.co.uk/aj-auxerre/startseite/verein/290/saison_id/2001
+210,2001,Winston Parks,Centre-Forward,38,-,AD Limonense,Primera Div. Apertura,Udinese,Serie A,£1.80m,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410/saison_id/2001
+211,2001,Ulrich Le Pen,Left Midfield,46,-,FC Lorient,Ligue 1,Ipswich,Premier League,£1.76m,https://www.transfermarkt.co.uk/alex-rae/profil/spieler/4239
+212,2001,Alex Rae,Central Midfield,51,-,Sunderland,Premier League,Wolves,First Division,£1.62m,https://www.transfermarkt.co.uk/frank-leboeuf/profil/spieler/5314
+213,2001,Frank Leboeuf,Centre-Back,52,-,Chelsea,Premier League,Marseille,Ligue 1,£1.62m,https://www.transfermarkt.co.uk/ramon-van-haaren/profil/spieler/4370
+214,2001,Ramon van Haaren,Left-Back,48,-,Roda JC,KPN Eredivisie,Feyenoord,KPN Eredivisie,£1.62m,https://www.transfermarkt.co.uk/john-aloisi/profil/spieler/7741
+215,2001,Adékambi Olufadé,Right Winger,40,-,KSC Lokeren,Jupiler Pro League,LOSC Lille,Ligue 1,£1.62m,https://www.transfermarkt.co.uk/adekambi-olufade/profil/spieler/5655
+216,2001,Papa Bouba Diop,Defensive Midfield,42,-,Grasshoppers,Nationalliga A,Lens,Ligue 1,£1.62m,https://www.transfermarkt.co.uk/papa-bouba-diop/profil/spieler/5485
+217,2001,Thomas Gaardsöe,Centre-Back,41,-,Aalborg BK,SAS Ligaen,Ipswich,Premier League,£1.62m,https://www.transfermarkt.co.uk/aalborg-bk/startseite/verein/1053/saison_id/2001
+218,2001,Michael Zepek,Centre-Back,39,-,Karlsruher SC,2. Bundesliga,Bay. Leverkusen,Bundesliga,£1.58m,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2001
+219,2001,Marc Hendrikx,Left Midfield,46,-,KRC Genk,Jupiler Pro League,RSC Anderlecht,Jupiler Pro League,£1.58m,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58/saison_id/2001
+220,2001,Filip Daems,Left-Back,41,-,Lierse SK,Jupiler Pro League,Genclerbirligi,Süper Lig,£1.58m,https://www.transfermarkt.co.uk/genclerbirligi-ankara/startseite/verein/820/saison_id/2001
+221,2001,Fabrice Fernandes,Left Winger,40,-,Stade Rennais,Ligue 1,Southampton,Premier League,£1.49m,https://www.transfermarkt.co.uk/batista/profil/spieler/6877
+222,2001,Batista,Defensive Midfield,45,-,Gaziantepspor,Süper Lig,Galatasaray,Süper Lig,£1.44m,https://www.transfermarkt.co.uk/hakan-bayraktar/profil/spieler/7088
+223,2001,Hakan Bayraktar,Defensive Midfield,44,-,Gaziantepspor,Süper Lig,Fenerbahce,Süper Lig,£1.44m,https://www.transfermarkt.co.uk/ali-elkhattabi/profil/spieler/4554
+224,2001,Ali Elkhattabi,Centre-Forward,43,-,Sparta R.,KPN Eredivisie,AZ Alkmaar,KPN Eredivisie,£1.44m,https://www.transfermarkt.co.uk/christian-gimenez/profil/spieler/2898
+225,2001,Christian Giménez,Centre-Forward,45,-,FC Lugano,Nationalliga A,FC Basel,Nationalliga A,£1.40m,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+226,2001,Christian Panucci,Right-Back,47,-,Monaco,Ligue 1,AS Roma,Serie A,Loan fee:,https://www.transfermarkt.co.uk/bogdan-patrascu/profil/spieler/21799
+227,2001,Djuric Winklaar,Left Midfield,38,-,Heerenveen U19,U19 Eredivisie,Lecce,Serie A,£1.39m,https://www.transfermarkt.co.uk/argentinos-juniors/startseite/verein/1030/saison_id/2001
+228,2001,Johan Walem,Left Midfield,48,-,Udinese,Serie A,Standard Liège,Jupiler Pro League,£1.39m,https://www.transfermarkt.co.uk/1-bundesliga/transfers/wettbewerb/L1/saison_id/2001
+229,2001,Krisztián Lisztes,Attacking Midfield,44,-,VfB Stuttgart,Bundesliga,Werder Bremen,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2001
+230,2001,Hanno Balitsch,Defensive Midfield,39,-,Waldh. Mannheim,2. Bundesliga,1. FC Köln,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/tippeligaen/transfers/wettbewerb/NO1/saison_id/2001
+231,2001,Trond Ludvigsen,Right Winger,38,-,Bodø/Glimt,Tippeligaen,Hertha BSC,Bundesliga,£1.35m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+232,2001,Simone Perrotta,Attacking Midfield,43,-,Bari,Serie B,Chievo Verona,Serie A,£1.35m,https://www.transfermarkt.co.uk/simone-perrotta/profil/spieler/5922
+233,2001,Paul Dickov,Centre-Forward,47,-,Man City,First Division,Leicester,Premier League,£1.35m,https://www.transfermarkt.co.uk/manchester-city/startseite/verein/281/saison_id/2001
+234,2001,Moumouni Dagano,Centre-Forward,39,-,Germ. Beerschot,Jupiler Pro League,KRC Genk,Jupiler Pro League,£1.35m,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2001
+235,2001,Shefki Kuqi,Centre-Forward,43,-,Stockport,First Division,Sheff Wed,First Division,£1.35m,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+236,2001,Robbie Blake,Second Striker,44,-,Bradford,First Division,Burnley,First Division,£1.35m,https://www.transfermarkt.co.uk/fc-burnley/startseite/verein/1132/saison_id/2001
+237,2001,Kevin Cooper,Left Midfield,45,-,Wimbledon FC,First Division,Wolves,First Division,£1.35m,https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543/saison_id/2001
+238,2001,Mario Frick,Centre-Forward,46,-,Arezzo,Serie C1 - A,Hellas Verona,Serie A,£1.35m,https://www.transfermarkt.co.uk/us-ancona/startseite/verein/1388/saison_id/2001
+239,2001,Eddy Baggio,Centre-Forward,46,-,Ancona,Serie B,Catania,Serie C1 - B,£1.35m,https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826/saison_id/2001
+240,2001,Lamine Sakho,Left Winger,43,-,Lens,Ligue 1,Marseille,Ligue 1,£1.35m,https://www.transfermarkt.co.uk/brondby-if/startseite/verein/206/saison_id/2001
+241,2001,Peter Graulund,Centre-Forward,44,-,Bröndby IF,SAS Ligaen,VfL Bochum,2. Bundesliga,£1.31m,https://www.transfermarkt.co.uk/as-rom/startseite/verein/12/saison_id/2001
+242,2001,Cristiano Lupatelli,Goalkeeper,42,-,AS Roma,Serie A,Chievo Verona,Serie A,£1.31m,https://www.transfermarkt.co.uk/fc-middlesbrough/startseite/verein/641/saison_id/2001
+243,2001,Radoslaw Kaluzny,Defensive Midfield,46,-,Wisla Kraków,I Liga,Energie Cottbus,Bundesliga,£1.26m,https://www.transfermarkt.co.uk/glasgow-rangers/startseite/verein/124/saison_id/2001
+244,2001,Vladimir Labant,Left-Back,46,-,Sparta Praha,Gambrinus Liga,West Ham,Premier League,£1.26m,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+245,2001,Nicolas Anelka,Centre-Forward,41,-,Paris SG,Ligue 1,Liverpool,Premier League,Loan fee:,https://www.transfermarkt.co.uk/hibernian-fc/startseite/verein/903/saison_id/2001
+246,2001,Ugur Inceman,Central Midfield,39,-,Alem. Aachen,2. Bundesliga,FC St. Pauli,Bundesliga,£1.24m,https://www.transfermarkt.co.uk/rkc-waalwijk/startseite/verein/235/saison_id/2001
+247,2001,Jochen Janssen,Centre-Forward,44,-,Austria Vienna,Bundesliga,RKC Waalwijk,KPN Eredivisie,£1.22m,https://www.transfermarkt.co.uk/fk-austria-wien/startseite/verein/14/saison_id/2001
+248,2001,Jochen Janssen,Centre-Forward,44,-,Austria Vienna,Bundesliga,RKC Waalwijk,KPN Eredivisie,£1.22m,https://www.transfermarkt.co.uk/jochen-janssen/profil/spieler/4509
+249,2001,Daniel Felgenhauer,Right Midfield,44,-,Greuther Fürth,2. Bundesliga,Bor. M'gladbach,Bundesliga,£1.13m,https://www.transfermarkt.co.uk/spvgg-greuther-furth/startseite/verein/65/saison_id/2001
+250,2001,Robson Ponté,Attacking Midfield,43,-,Bay. Leverkusen,Bundesliga,VfL Wolfsburg,Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/bayer-04-leverkusen/startseite/verein/15/saison_id/2001
+251,2001,Gonzague Vandooren,Left-Back,41,-,Lierse SK,Jupiler Pro League,Standard Liège,Jupiler Pro League,£1.13m,https://www.transfermarkt.co.uk/lierse-sk/startseite/verein/204/saison_id/2001
+252,2001,Aleksander Knavs,Centre-Back,44,-,FC Tirol,Bundesliga,1.FC K'lautern,Bundesliga,£1.08m,https://www.transfermarkt.co.uk/fc-wacker-innsbruck/startseite/verein/2444/saison_id/2001
+253,2001,Abel Xavier,Right-Back,47,-,Everton,Premier League,Liverpool,Premier League,£1.08m,https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29/saison_id/2001
+254,2001,Fatih Akyel,Right-Back,42,-,RCD Mallorca,LaLiga,Fenerbahce,Süper Lig,£1.08m,https://www.transfermarkt.co.uk/rcd-mallorca/startseite/verein/237/saison_id/2001
+255,2001,Martin Albrechtsen,Centre-Back,40,-,Akademisk BK,SAS Ligaen,FC Copenhagen,SAS Ligaen,£1.08m,https://www.transfermarkt.co.uk/akademisk-boldklub/startseite/verein/362/saison_id/2001
+256,2001,Dean Sturridge,Centre-Forward,47,-,Leicester,Premier League,Wolves,First Division,£1.01m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+257,2001,Svetoslav Todorov,Centre-Forward,42,-,West Ham,Premier League,Portsmouth,First Division,£1.01m,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+258,2001,Stepan Vachousek,Left Midfield,41,-,FK Teplice,Gambrinus Liga,Slavia Prague,Gambrinus Liga,£990Th.,https://www.transfermarkt.co.uk/sk-slavia-prag/startseite/verein/62/saison_id/2001
+259,2001,Dariusz Wosz,Attacking Midfield,51,-,Hertha BSC,Bundesliga,VfL Bochum,2. Bundesliga,£990Th.,https://www.transfermarkt.co.uk/vfl-bochum/startseite/verein/80/saison_id/2001
+260,2001,Darren Moore,Centre-Back,46,-,Portsmouth,First Division,West Brom,First Division,£990Th.,https://www.transfermarkt.co.uk/fc-barnsley/startseite/verein/349/saison_id/2001
+261,2001,Neil Shipperley,Centre-Forward,45,-,Barnsley FC,First Division,Wimbledon FC,First Division,£945Th.,https://www.transfermarkt.co.uk/galatasaray-istanbul/startseite/verein/141/saison_id/2001
+262,2001,Gheorghe Popescu,Centre-Back,52,-,Galatasaray,Süper Lig,Lecce,Serie A,£929Th.,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46/saison_id/2001
+263,2001,Riccardo Fissore,Centre-Back,40,-,Inter,Serie A,Torino,Serie A,£927Th.,https://www.transfermarkt.co.uk/huddersfield-town/startseite/verein/1110/saison_id/2001
+264,2001,Emanuel Pogatetz,Centre-Back,37,-,FC Kärnten,Bundesliga,Bay. Leverkusen,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/emanuel-pogatetz/profil/spieler/1094
+265,2001,Ivo Ulich,Central Midfield,46,-,Slavia Prague,Gambrinus Liga,Bor. M'gladbach,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/ivo-ulich/profil/spieler/1118
+266,2001,Zoubaier Baya,Attacking Midfield,49,-,SC Freiburg,Bundesliga,Besiktas,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/zoubaier-baya/profil/spieler/394
+267,2001,Rigobert Song,Centre-Back,44,-,West Ham,Premier League,1. FC Köln,Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/rigobert-song/profil/spieler/1419
+268,2001,Delano Hill,Centre-Back,45,-,Willem II,KPN Eredivisie,Hansa Rostock,Bundesliga,£900Th.,https://www.transfermarkt.co.uk/delano-hill/profil/spieler/839
+269,2001,Souleymane Youla,Centre-Forward,38,-,RSC Anderlecht,Jupiler Pro League,Genclerbirligi,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/souleymane-youla/profil/spieler/1081
+270,2001,Niclas Jensen,Left-Back,46,-,FC Copenhagen,SAS Ligaen,Man City,First Division,£900Th.,https://www.transfermarkt.co.uk/niclas-jensen/profil/spieler/3809
+271,2001,Tümer Metin,Attacking Midfield,45,-,Samsunspor,Süper Lig,Besiktas,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/tumer-metin/profil/spieler/6879
+272,2001,Ronaldo,Sweeper,46,-,Benfica,Liga NOS,Besiktas,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/ronaldo/profil/spieler/6887
+273,2001,Narvik Sirkhaev,Attacking Midfield,46,-,Anzhi,Premier Liga,Loko Moscow,Premier Liga,£900Th.,https://www.transfermarkt.co.uk/narvik-sirkhaev/profil/spieler/9662
+274,2001,Roman Vasilyuk,Centre-Forward,41,-,Slavia,Vysheyshaya Liga,Spartak Moscow,Premier Liga,£900Th.,https://www.transfermarkt.co.uk/roman-vasilyuk/profil/spieler/15084
+275,2001,Tamer Tuna,Right Midfield,44,-,Trabzonspor,Süper Lig,Besiktas,Süper Lig,£900Th.,https://www.transfermarkt.co.uk/tamer-tuna/profil/spieler/16071
+276,2001,Shaun Newton,Right Midfield,45,-,Charlton,Premier League,Wolves,First Division,£900Th.,https://www.transfermarkt.co.uk/shaun-newton/profil/spieler/9171
+277,2001,Mikhail Ashvetia,Centre-Forward,42,-,Torpedo Kutaisi,Erovnuli Liga (bis 2016/17),FC Copenhagen,SAS Ligaen,£900Th.,https://www.transfermarkt.co.uk/umaglesi-liga/transfers/wettbewerb/GEO1/saison_id/2001
+278,2001,Francesco Coco,Left-Back,43,-,Milan,Serie A,FC Barcelona,LaLiga,Loan fee:,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+279,2001,Aloisio Chulapa,Centre-Forward,45,-,Saint-Étienne,Ligue 2,Paris SG,Ligue 1,£900Th.,https://www.transfermarkt.co.uk/fc-paris-saint-germain/startseite/verein/583/saison_id/2001
+280,2001,Patricio Graff,Left-Back,44,-,Sporting Gijón,2ª División,Rayo Vallecano,LaLiga,£900Th.,https://www.transfermarkt.co.uk/st-johnstone-fc/startseite/verein/2578/saison_id/2001
+281,2001,Thomas Röll,Centre-Back,43,-,Silkeborg IF,SAS Ligaen,FC Copenhagen,SAS Ligaen,£855Th.,https://www.transfermarkt.co.uk/silkeborg-if/startseite/verein/1177/saison_id/2001
+282,2001,Hong Qi,Attacking Midfield,44,-,SH Shenhua,Jia A,SH COSCO Huili,Jia A,£855Th.,https://www.transfermarkt.co.uk/shanghai-greenland/startseite/verein/3183/saison_id/2001
+283,2001,Stefan Malz,Left-Back,48,-,Arsenal,Premier League,1.FC K'lautern,Bundesliga,£810Th.,https://www.transfermarkt.co.uk/fc-arsenal/startseite/verein/11/saison_id/2001
+284,2001,Stathis Tavlaridis,Centre-Back,40,-,Iraklis,A' Ethniki,Arsenal,Premier League,£810Th.,https://www.transfermarkt.co.uk/iraklis-thessaloniki/startseite/verein/47/saison_id/2001
+285,2001,Henrik Pedersen,Centre-Forward,45,-,Silkeborg IF,SAS Ligaen,Bolton,Premier League,£810Th.,https://www.transfermarkt.co.uk/superligaen/transfers/wettbewerb/DK1/saison_id/2001
+286,2001,Thomas Rytter,Right-Back,46,-,FC Copenhagen,SAS Ligaen,VfL Wolfsburg,Bundesliga,£765Th.,https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82/saison_id/2001
+287,2001,Alain Masudi,Attacking Midfield,42,-,Lausanne-Sport,Nationalliga A,Sturm Graz,Bundesliga,£756Th.,https://www.transfermarkt.co.uk/bundesliga/transfers/wettbewerb/A1/saison_id/2001
+288,2001,Carsten Fredgaard,Left-Back,44,-,Sunderland,Premier League,FC Copenhagen,SAS Ligaen,£743Th.,https://www.transfermarkt.co.uk/lukas-zelenka/profil/spieler/9673
+289,2001,Lukas Zelenka,Attacking Midfield,41,-,KVC Westerlo,Jupiler Pro League,Sparta Praha,Gambrinus Liga,£720Th.,https://www.transfermarkt.co.uk/alen-orman/profil/spieler/12700
+290,2001,Matteo Guardalben,Goalkeeper,46,-,AC Parma,Serie A,Piacenza,Serie A,£702Th.,https://www.transfermarkt.co.uk/fc-parma/startseite/verein/130/saison_id/2001
+291,2001,Andrea Staffolani,Centre-Forward,37,-,Ancona,Serie B,AC Parma,Serie A,£697Th.,https://www.transfermarkt.co.uk/us-salernitana-1919/startseite/verein/380/saison_id/2001
+292,2001,Antonio Arcadio,Right Winger,47,-,Siena,Serie B,Salernitana,Serie B,£697Th.,https://www.transfermarkt.co.uk/tsv-1860-munchen/startseite/verein/72/saison_id/2001
+293,2001,Michael Wiesinger,Right Midfield,47,-,Bayern Munich ,Bundesliga,1860 Munich,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/1-fc-nurnberg/startseite/verein/4/saison_id/2001
+294,2001,Kai Michalke,Left Winger,44,-,Hertha BSC,Bundesliga,1.FC Nuremberg,Bundesliga,£675Th.,https://www.transfermarkt.co.uk/sv-werder-bremen/startseite/verein/86/saison_id/2001
+295,2001,Clemens Fritz,Central Midfield,39,-,Rot-Weiß Erfurt,Regionalliga Süd,Karlsruher SC,2. Bundesliga,£675Th.,https://www.transfermarkt.co.uk/fc-rot-weiss-erfurt/startseite/verein/111/saison_id/2001
+296,2001,Sylvain Distin,Centre-Back,42,-,Paris SG,Ligue 1,Newcastle,Premier League,Loan fee:,https://www.transfermarkt.co.uk/fc-paris-saint-germain/startseite/verein/583/saison_id/2001
+297,2001,Pape Sarr,Attacking Midfield,42,-,Saint-Étienne,Ligue 2,Lens,Ligue 1,£675Th.,https://www.transfermarkt.co.uk/ligue-2/transfers/wettbewerb/FR2/saison_id/2001
+298,2001,Bruno N'Gotty,Centre-Back,49,-,Marseille,Ligue 1,Bolton,Premier League,£675Th.,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+299,2001,Fabricio Coloccini,Centre-Back,38,-,Milan,Serie A,Alavés,LaLiga,Loan fee:,https://www.transfermarkt.co.uk/serie-a/transfers/wettbewerb/IT1/saison_id/2001
+300,2001,Éric Rabésandratana,Defensive Midfield,48,-,Paris SG,Ligue 1,AEK Athens,A' Ethniki,£675Th.,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+301,2001,Mark Rivers,Centre-Forward,44,-,Crewe Alexandra,First Division,Norwich,First Division,£675Th.,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123/saison_id/2001
+302,2001,Richard Cresswell,Centre-Forward,43,-,Leicester,Premier League,Preston,First Division,£675Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+303,2001,Danny Granville,Left-Back,45,-,Man City,First Division,Crystal Palace,First Division,£675Th.,https://www.transfermarkt.co.uk/fc-watford/startseite/verein/1010/saison_id/2001
+304,2001,Darren Ward,Centre-Back,42,-,Watford,First Division,Millwall,First Division,£675Th.,https://www.transfermarkt.co.uk/ac-reggiana-berretti/startseite/verein/20406/saison_id/2001
+305,2001,Dmitri Kirichenko,Centre-Forward,43,-,Rostselmash,Premier Liga,CSKA Moscow,Premier Liga,£675Th.,https://www.transfermarkt.co.uk/premier-liga/transfers/wettbewerb/RU1/saison_id/2001
+306,2001,Veniamin Mandrykin,Goalkeeper,39,-,Spartak V-kavkaz,Premier Liga,CSKA Moscow,Premier Liga,£675Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+307,2001,Drazen Bolic,Centre-Back,49,-,Salernitana,Serie B,Ancona,Serie B,£657Th.,https://www.transfermarkt.co.uk/marc-ziegler/profil/spieler/162
+308,2001,Markus Kiesenebner,Defensive Midfield,41,-,LASK,Erste Division,Austria Vienna,Bundesliga,£630Th.,https://www.transfermarkt.co.uk/markus-kiesenebner/profil/spieler/2954
+309,2001,Jan Michaelsen,Central Midfield,49,-,Akademisk BK,SAS Ligaen,Panathinaikos,A' Ethniki,£630Th.,https://www.transfermarkt.co.uk/akademisk-boldklub/startseite/verein/362/saison_id/2001
+310,2001,Nastja Ceh,Attacking Midfield,42,-,NK Maribor,Prva Liga,Club Brugge,Jupiler Pro League,£630Th.,https://www.transfermarkt.co.uk/nk-maribor/startseite/verein/790/saison_id/2001
+311,2001,Sebastjan Cimirotic,Centre-Forward,46,-,NK Olimpija,Prva Liga,Lecce,Serie A,£630Th.,https://www.transfermarkt.co.uk/nk-olimpija-ljubljana/startseite/verein/4772/saison_id/2001
+312,2001,Dudu Aouate,Goalkeeper,42,-,Hapoel Haifa,Ligat ha'Al,Maccabi Haifa,Ligat ha'Al,£630Th.,https://www.transfermarkt.co.uk/hapoel-haifa/startseite/verein/810/saison_id/2001
+313,2001,Dimitrios Papadopoulos,Centre-Forward,38,-,Akratitos,A' Ethniki,Burnley,First Division,£630Th.,https://www.transfermarkt.co.uk/akratitos-ano-liosion/startseite/verein/1119/saison_id/2001
+314,2001,Bogdan Shershun,Centre-Back,39,-,Dnipro,Vyshcha Liga,CSKA Moscow,Premier Liga,£630Th.,https://www.transfermarkt.co.uk/dnipro-dnipropetrovsk/startseite/verein/339/saison_id/2001
+315,2001,Pape Malick Diop,Centre-Back,45,-,Xamax,Nationalliga A,FC Lorient,Ligue 1,£630Th.,https://www.transfermarkt.co.uk/neuchatel-xamax/startseite/verein/625/saison_id/2001
+316,2001,Han-su Seong,Centre-Forward,44,-,Daejeon Citizen,K League 1,Chunnam Dragons,K League 1,£608Th.,https://www.transfermarkt.co.uk/daejeon-citizen-fc/startseite/verein/6499/saison_id/2001
+317,2001,Neil Emblen,Defensive Midfield,49,-,Wolves,First Division,Norwich,First Division,£549Th.,https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543/saison_id/2001
+318,2001,Slawomir Wojciechowski,Left Midfield,47,-,Bayern Munich ,Bundesliga,FC Aarau,Nationalliga A,£540Th.,https://www.transfermarkt.co.uk/fc-bayern-munchen/startseite/verein/27/saison_id/2001
+319,2001,Thomas Riedl,Defensive Midfield,44,-,1860 Munich,Bundesliga,1.FC K'lautern,Bundesliga,£540Th.,https://www.transfermarkt.co.uk/tsv-1860-munchen/startseite/verein/72/saison_id/2001
+320,2001,Hans Sarpei,Left-Back,44,-,MSV Duisburg,2. Bundesliga,VfL Wolfsburg,Bundesliga,£540Th.,https://www.transfermarkt.co.uk/msv-duisburg/startseite/verein/52/saison_id/2001
+321,2001,Tobias Rau,Left-Back,38,-,E. Braunschweig,Regionalliga Nord,VfL Wolfsburg,Bundesliga,£540Th.,https://www.transfermarkt.co.uk/eintracht-braunschweig/startseite/verein/23/saison_id/2001
+322,2001,Marc Zellweger,Right-Back,46,-,FC St. Gallen,Nationalliga A,1. FC Köln,Bundesliga,£540Th.,https://www.transfermarkt.co.uk/fc-st-gallen/startseite/verein/257/saison_id/2001
+323,2001,Ronald Maul,Left-Back,47,-,Hamburger SV,Bundesliga,Hansa Rostock,Bundesliga,£540Th.,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41/saison_id/2001
+324,2001,Marco Zwyssig,Centre-Back,48,-,FC Tirol,Bundesliga,FC Basel,Nationalliga A,£540Th.,https://www.transfermarkt.co.uk/fc-wacker-innsbruck/startseite/verein/2444/saison_id/2001
+325,2001,Thomas Myhre,Goalkeeper,46,-,Everton,Premier League,Besiktas,Süper Lig,£540Th.,https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29/saison_id/2001
+326,2001,Jacob Laursen,Centre-Back,49,-,FC Copenhagen,SAS Ligaen,Leicester,Premier League,£540Th.,https://www.transfermarkt.co.uk/fc-kopenhagen/startseite/verein/190/saison_id/2001
+327,2001,Petr Cech,Goalkeeper,38,-,Chmel Blsany,Gambrinus Liga,Sparta Praha,Gambrinus Liga,£540Th.,https://www.transfermarkt.co.uk/fk-chmel-blsany/startseite/verein/135/saison_id/2001
+328,2001,Giasoumis Giasoumi,Centre-Forward,45,-,APOEL Nicosia,A' Katigoria,PAOK Salonika,A' Ethniki,£540Th.,https://www.transfermarkt.co.uk/division-a/transfers/wettbewerb/ZYP1/saison_id/2001
+329,2001,Petr Svancara,Centre-Forward,42,-,FC Brno,Gambrinus Liga,Slavia Prague,Gambrinus Liga,£540Th.,https://www.transfermarkt.co.uk/fc-zbrojovka-brunn/startseite/verein/5225/saison_id/2001
+330,2001,Chris Janssens,Centre-Back,51,-,KSC Lokeren,Jupiler Pro League,Willem II,KPN Eredivisie,£527Th.,https://www.transfermarkt.co.uk/ksc-lokeren/startseite/verein/498/saison_id/2001
+331,2001,Markus Schopp,Right Midfield,46,-,Sturm Graz,Bundesliga,Brescia,Serie A,£523Th.,https://www.transfermarkt.co.uk/sk-sturm-graz/startseite/verein/122/saison_id/2001
+332,2001,Martin Hasek,Defensive Midfield,50,-,Sparta Praha,Gambrinus Liga,Austria Vienna,Bundesliga,£522Th.,https://www.transfermarkt.co.uk/ac-sparta-prag/startseite/verein/197/saison_id/2001
+333,2001,Jovan Kirovski,Right Winger,44,-,Sporting CP,Liga NOS,Crystal Palace,First Division,£518Th.,https://www.transfermarkt.co.uk/sporting-lissabon/startseite/verein/336/saison_id/2001
+334,2001,Rui Marques,Centre-Back,43,-,Hertha BSC,Bundesliga,VfB Stuttgart,Bundesliga,£495Th.,https://www.transfermarkt.co.uk/hertha-bsc/startseite/verein/44/saison_id/2001
+335,2001,Igli Tare,Centre-Forward,47,-,1.FC K'lautern,Bundesliga,Brescia,Serie A,£495Th.,https://www.transfermarkt.co.uk/1-fc-kaiserslautern/startseite/verein/2/saison_id/2001
+336,2001,Antonio di Salvo,Centre-Forward,41,-,FC Bayern II,Regionalliga Süd,Hansa Rostock,Bundesliga,£495Th.,https://www.transfermarkt.co.uk/fc-bayern-munchen-ii/startseite/verein/28/saison_id/2001
+337,2001,Giuseppe Ticli,Left Midfield,41,-,Inter,Serie A,Reggiana,Serie C1 - A,£464Th.,https://www.transfermarkt.co.uk/prima-divisione-a/transfers/wettbewerb/IT3A/saison_id/2001
+338,2001,Mathias Schober,Goalkeeper,44,-,FC Schalke 04,Bundesliga,Hansa Rostock,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/fc-st-pauli/startseite/verein/35/saison_id/2001
+339,2001,Holger Wehlage,Right Midfield,44,-,FC St. Pauli,Bundesliga,Werder Bremen,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/besiktas-istanbul/startseite/verein/114/saison_id/2001
+340,2001,Markus Münch,Left-Back,48,-,Besiktas,Süper Lig,Bor. M'gladbach,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/vfb-stuttgart/startseite/verein/79/saison_id/2001
+341,2001,Ahmed Salah Hosny,Centre-Forward,41,-,VfB Stuttgart,Bundesliga,KAA Gent,Jupiler Pro League,£450Th.,https://www.transfermarkt.co.uk/ruch-chorzow/startseite/verein/318/saison_id/2001
+342,2001,Jakub Wierzchowski,Goalkeeper,43,-,Ruch Chorzow,I Liga,Werder Bremen,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/borussia-dortmund/startseite/verein/16/saison_id/2001
+343,2001,Fredi Bobic,Centre-Forward,48,-,Bor. Dortmund,Bundesliga,Bolton,Premier League,Loan fee:,https://www.transfermarkt.co.uk/1-fc-saarbrucken/startseite/verein/1/saison_id/2001
+344,2001,Gernot Plassnegger,Right-Back,42,-,Saarbrücken,2. Bundesliga,VfL Wolfsburg,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/tsv-1860-munchen/startseite/verein/72/saison_id/2001
+345,2001,Markus Beierle,Centre-Forward,48,-,1860 Munich,Bundesliga,Hansa Rostock,Bundesliga,£450Th.,https://www.transfermarkt.co.uk/tsv-1860-munchen/startseite/verein/72/saison_id/2001
+346,2001,Erik Mykland,Central Midfield,49,-,1860 Munich,Bundesliga,FC Copenhagen,SAS Ligaen,£450Th.,https://www.transfermarkt.co.uk/1-fc-kaiserslautern/startseite/verein/2/saison_id/2001
+347,2001,Youri Djorkaeff,Attacking Midfield,52,-,1.FC K'lautern,Bundesliga,Bolton,Premier League,£450Th.,https://www.transfermarkt.co.uk/fc-metz/startseite/verein/347/saison_id/2001
+348,2001,Ümit Özat,Left-Back,43,-,Genclerbirligi,Süper Lig,Fenerbahce,Süper Lig,£450Th.,https://www.transfermarkt.co.uk/umit-ozat/profil/spieler/6933
+349,2001,Paulus Roiha,Centre-Forward,40,-,HJK Helsinki,Veikkausliiga,FC Utrecht,KPN Eredivisie,£450Th.,https://www.transfermarkt.co.uk/hjk-helsinki/startseite/verein/1008/saison_id/2001
+350,2001,Jonas De Roeck,Centre-Back,40,-,Royal Antwerp,Jupiler Pro League,Lierse SK,Jupiler Pro League,£450Th.,https://www.transfermarkt.co.uk/royal-fc-antwerpen/startseite/verein/1096/saison_id/2001
+351,2001,Mika Väyrynen,Central Midfield,38,-,FC Jokerit,Veikkausliiga,Heerenveen,KPN Eredivisie,£450Th.,https://www.transfermarkt.co.uk/fc-jokerit/startseite/verein/480/saison_id/2001
+352,2001,Stefano Lombardi,Centre-Back,44,-,Perugia,Serie A,Inter,Serie A,£450Th.,https://www.transfermarkt.co.uk/ac-perugia-calcio/startseite/verein/839/saison_id/2001
+353,2001,Maksym Levitsky,Goalkeeper,47,-,Saint-Étienne,Ligue 2,Spartak Moscow,Premier Liga,£450Th.,https://www.transfermarkt.co.uk/ligue-2/transfers/wettbewerb/FR2/saison_id/2001
+354,2001,Carlos Pavón,Centre-Forward,46,-,Monarcas Morelia,Primera Verano,Udinese,Serie A,£450Th.,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410/saison_id/2001
+355,2001,Martin Laursen,Centre-Back,43,-,AC Parma,Serie A,Milan,Serie A,Loan fee:,https://www.transfermarkt.co.uk/alex-dias/profil/spieler/53310
+356,2001,Alex Dias,Centre-Forward,48,-,Saint-Étienne,Ligue 2,Paris SG,Ligue 1,Loan fee:,https://www.transfermarkt.co.uk/rodrigao/profil/spieler/17440
+357,2001,Kit Symons,Centre-Back,49,-,Fulham,Premier League,Crystal Palace,First Division,£450Th.,https://www.transfermarkt.co.uk/ferencvaros-budapest/startseite/verein/279/saison_id/2001
+358,2001,Steve Vickers,Centre-Back,52,-,Middlesbrough,Premier League,Birmingham,First Division,£428Th.,https://www.transfermarkt.co.uk/premier-league/transfers/wettbewerb/GB1/saison_id/2001
+359,2001,Chris Lumsdon,Central Midfield,40,-,Sunderland,Premier League,Barnsley FC,First Division,£428Th.,https://www.transfermarkt.co.uk/1-fc-union-berlin/startseite/verein/89/saison_id/2001
+360,2001,Victor Ikpeba,Centre-Forward,47,-,Bor. Dortmund,Bundesliga,Real Betis,LaLiga,Loan fee:,https://www.transfermarkt.co.uk/hertha-bsc/startseite/verein/44/saison_id/2001
+361,2001,Emeka Ifejiagwa,Centre-Back,42,-,CA Osasuna,LaLiga,VfL Wolfsburg,Bundesliga,£405Th.,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003/saison_id/2001
+362,2001,Alan Rogers,Left-Back,43,-,Nottm Forest,First Division,Leicester,Premier League,£405Th.,https://www.transfermarkt.co.uk/sk-slavia-prag/startseite/verein/62/saison_id/2001
+363,2001,Gregoor van Dijk,Central Midfield,38,-,FC Groningen,KPN Eredivisie,Roda JC,KPN Eredivisie,£405Th.,https://www.transfermarkt.co.uk/gregoor-van-dijk/profil/spieler/4615
+364,2001,Alan Rogers,Left-Back,43,-,Nottm Forest,First Division,Leicester,Premier League,£405Th.,https://www.transfermarkt.co.uk/nottingham-forest/startseite/verein/703/saison_id/2001
+365,2001,Aleksandr Shirko,Centre-Forward,43,-,Spartak Moscow,Premier Liga,Torpedo Moscow,Premier Liga,£405Th.,https://www.transfermarkt.co.uk/torpedo-moskau/startseite/verein/1186/saison_id/2001
+366,2001,Jörg Stiel,Goalkeeper,52,-,FC St. Gallen,Nationalliga A,Bor. M'gladbach,Bundesliga,£360Th.,https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762/saison_id/2001
+367,2001,Rob Lee,Central Midfield,54,-,Newcastle,Premier League,Derby,Premier League,£360Th.,https://www.transfermarkt.co.uk/kfc-uerdingen-05/startseite/verein/95/saison_id/2001
+368,2001,Daniel Teixeira,Centre-Forward,52,-,KFC Uerdingen,Regionalliga Nord,E. Braunschweig,Regionalliga Nord,£360Th.,https://www.transfermarkt.co.uk/neuchatel-xamax/startseite/verein/625/saison_id/2001
+369,2001,Thimothée Atouba,Left-Back,38,-,Xamax,Nationalliga A,FC Basel,Nationalliga A,£360Th.,https://www.transfermarkt.co.uk/tsv-1860-munchen/startseite/verein/72/saison_id/2001
+370,2001,Sascha Rösler,Second Striker,42,-,1860 Munich,Bundesliga,RW Oberhausen,2. Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/hnk-hajduk-split/startseite/verein/447/saison_id/2001
+371,2001,Björn van der Doelen,Central Midfield,44,-,PSV Eindhoven,KPN Eredivisie,Twente FC,KPN Eredivisie,£360Th.,https://www.transfermarkt.co.uk/eredivisie/transfers/wettbewerb/NL1/saison_id/2001
+372,2001,Zico Tumba,Centre-Forward,43,-,De Graafschap,KPN Eredivisie,NEC Nijmegen,KPN Eredivisie,£360Th.,https://www.transfermarkt.co.uk/sasa-markovic/profil/spieler/1530
+373,2001,Elvir Rahimic,Defensive Midfield,44,-,Anzhi,Premier Liga,CSKA Moscow,Premier Liga,£360Th.,https://www.transfermarkt.co.uk/premier-liga/transfers/wettbewerb/RU1/saison_id/2001
+374,2001,Vasos Melanarkitis,Right Midfield,48,-,Apol. Limassol,A' Katigoria,Anorthosis,A' Katigoria,£360Th.,https://www.transfermarkt.co.uk/anorthosis-famagusta/startseite/verein/3899/saison_id/2001
+375,2001,Raphael Schäfer,Goalkeeper,41,-,VfB Lübeck,Regionalliga Nord,1.FC Nuremberg,Bundesliga,£338Th.,https://www.transfermarkt.co.uk/pogon-stettin/startseite/verein/324/saison_id/2001
+376,2001,Cristiano Brasília,Centre-Forward,43,-,Pogon Szczecin,I Liga,Energie Cottbus,Bundesliga,£338Th.,https://www.transfermarkt.co.uk/spvgg-unterhaching/startseite/verein/66/saison_id/2001
+377,2001,Dietmar Hirsch,Defensive Midfield,48,-,Unterhaching,2. Bundesliga,Hansa Rostock,Bundesliga,£338Th.,https://www.transfermarkt.co.uk/fc-hradec-kralove/startseite/verein/1897/saison_id/2001
+378,2001,Karel Pitak,Central Midfield,40,-,Hradec Králové,Gambrinus Liga,Slavia Prague,Gambrinus Liga,£338Th.,https://www.transfermarkt.co.uk/vfb-stuttgart/startseite/verein/79/saison_id/2001
+379,2001,Stefan Blank,Left-Back,43,-,VfB Stuttgart,Bundesliga,Werder Bremen,Bundesliga,£338Th.,https://www.transfermarkt.co.uk/vasas-budapest/startseite/verein/5378/saison_id/2001
+380,2001,Helgi Sigurdsson,Centre-Forward,46,-,Panathinaikos,A' Ethniki,FK Lyn,Tippeligaen,£338Th.,https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29/saison_id/2001
+381,2001,Phil Jevons,Centre-Forward,41,-,Everton,Premier League,Grimsby Town,First Division,£338Th.,https://www.transfermarkt.co.uk/charlton-athletic/startseite/verein/358/saison_id/2001
+382,2001,Tony Grant,Central Midfield,45,-,Man City,First Division,Burnley,First Division,£338Th.,https://www.transfermarkt.co.uk/vicenza-calcio/startseite/verein/2655/saison_id/2001
+383,2001,Bernard Lambourde,Centre-Back,49,-,Chelsea,Premier League,SC Bastia,Ligue 1,£333Th.,https://www.transfermarkt.co.uk/leomar/profil/spieler/236160
+384,2001,Tomasz Mazurkiewicz,Attacking Midfield,38,-,Legia Warszawa,I Liga,Aarhus GF,SAS Ligaen,£324Th.,https://www.transfermarkt.co.uk/fc-sao-paulo-b/startseite/verein/14708/saison_id/2001
+385,2001,Alex Notman,Right Winger,40,-,Man Utd,Premier League,Norwich,First Division,£315Th.,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123/saison_id/2001
+386,2001,David Nielsen,Centre-Forward,43,-,Wimbledon FC,First Division,Norwich,First Division,£315Th.,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123/saison_id/2001
+387,2001,Tomas Cizek,Attacking Midfield,41,-,FK Jablonec,Gambrinus Liga,Sparta Praha,Gambrinus Liga,£315Th.,https://www.transfermarkt.co.uk/gambrinus-liga/transfers/wettbewerb/TS1/saison_id/2001
+388,2001,Piotr Reiss,Centre-Forward,48,-,Hertha BSC,Bundesliga,Greuther Fürth,2. Bundesliga,£293Th.,https://www.transfermarkt.co.uk/2-bundesliga/transfers/wettbewerb/L2/saison_id/2001
+389,2001,Aleksey Medvedev,Centre-Forward,43,-,Dynamo Moscow,Premier Liga,Saturn REN-TV,Premier Liga,£293Th.,https://www.transfermarkt.co.uk/premier-liga/transfers/wettbewerb/RU1/saison_id/2001
+390,2001,Kristof Imschoot,Central Midfield,39,-,KSK Beveren,Jupiler Pro League,Lierse SK,Jupiler Pro League,£288Th.,https://www.transfermarkt.co.uk/jupiler-pro-league/transfers/wettbewerb/BE1/saison_id/2001
+391,2001,Guy Demel,Right-Back,39,-,Arsenal,Premier League,Bor. Dortmund,Bundesliga,£270Th.,https://www.transfermarkt.co.uk/rudiger-kauf/profil/spieler/603
+392,2001,Rüdiger Kauf,Defensive Midfield,45,-,VfB Stuttgart,Bundesliga,Arm. Bielefeld,2. Bundesliga,£270Th.,https://www.transfermarkt.co.uk/christoph-dabrowski/profil/spieler/524
+393,2001,Christoph Dabrowski,Defensive Midfield,42,-,Werder Bremen,Bundesliga,Arm. Bielefeld,2. Bundesliga,£270Th.,https://www.transfermarkt.co.uk/markus-feldhoff/profil/spieler/654
+394,2001,Markus Feldhoff,Centre-Forward,46,-,VfL Wolfsburg,Bundesliga,Energie Cottbus,Bundesliga,£270Th.,https://www.transfermarkt.co.uk/marijo-maric/profil/spieler/629
+395,2001,Marijo Maric,Centre-Forward,43,-,VfL Bochum,2. Bundesliga,FC Kärnten,Bundesliga,£270Th.,https://www.transfermarkt.co.uk/vik-lalic/profil/spieler/1135
+396,2001,Marco Engelhardt,Defensive Midfield,39,-,Rot-Weiß Erfurt,Regionalliga Süd,Karlsruher SC,2. Bundesliga,£270Th.,https://www.transfermarkt.co.uk/nottingham-forest/startseite/verein/703/saison_id/2001
+397,2001,Andy Johnson,Attacking Midfield,46,-,Nottm Forest,First Division,West Brom,First Division,£270Th.,https://www.transfermarkt.co.uk/erzurumspor/startseite/verein/1766/saison_id/2001
+398,2001,Ergin Yücetas,Central Midfield,41,-,Erzurumspor,1.Lig,Diyarbakirspor,Süper Lig,£270Th.,https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762/saison_id/2001
+399,2001,Silvio Maric,Attacking Midfield,45,-,Newcastle,Premier League,FC Porto,Liga NOS,£270Th.,https://www.transfermarkt.co.uk/ec-pelotas-rs-/startseite/verein/27288/saison_id/2001
+400,2001,Kevin Betsy,Left Midfield,42,-,Fulham,Premier League,Barnsley FC,First Division,£270Th.,https://www.transfermarkt.co.uk/chicago-fire/startseite/verein/432/saison_id/2001
+401,2001,Dipsy Selolwane,Centre-Forward,42,-,Chicago Fire,MLS,Vejle BK,SAS Ligaen,£270Th.,https://www.transfermarkt.co.uk/fbk-kaunas/startseite/verein/1187/saison_id/2001
+402,2001,Audrius Ksanavicius,Left Midfield,43,-,FBK Kaunas,A Lyga,Skonto Riga,Virsliga,£270Th.,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940/saison_id/2001
+403,2001,Manuel Almunia,Goalkeeper,43,-,Celta de Vigo,LaLiga,SD Eibar,2ª División,Loan fee:,https://www.transfermarkt.co.uk/club-atletico-boca-juniors/startseite/verein/189/saison_id/2001
+404,2001,Dovani Roso,Attacking Midfield,47,-,B. Jerusalem,Ligat ha'Al,Maccabi Haifa,Ligat ha'Al,£252Th.,https://www.transfermarkt.co.uk/ligue-1/transfers/wettbewerb/FR1/saison_id/2001
+405,2001,Frédéric Fouret,Centre-Forward,45,-,Olympique Lyon,Ligue 1,AS Nancy,Ligue 2,£252Th.,https://www.transfermarkt.co.uk/fk-rostov/startseite/verein/1083/saison_id/2001
+406,2001,Moudachirou Amadou,Centre-Back,48,-,Hannover 96,2. Bundesliga,FC St. Pauli,Bundesliga,£248Th.,https://www.transfermarkt.co.uk/oldham-athletic/startseite/verein/1078/saison_id/2001
+407,2001,Paulo Rink,Centre-Forward,47,-,Bay. Leverkusen,Bundesliga,1.FC Nuremberg,Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/borussia-monchengladbach/startseite/verein/18/saison_id/2001
+408,2001,Peer Kluge,Defensive Midfield,39,-,Chemnitzer FC,Regionalliga Nord,Bor. M'gladbach,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/borussia-monchengladbach/startseite/verein/18/saison_id/2001
+409,2001,Stephan Paßlack,Centre-Back,50,-,1860 Munich,Bundesliga,1.FC Nuremberg,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/stephan-passlack/profil/spieler/561
+410,2001,Markus Kullig,Defensive Midfield,45,-,VfB Lübeck,Regionalliga Nord,1.FC K'lautern,Bundesliga,£225Th.,https://www.transfermarkt.co.uk/markus-kullig/profil/spieler/1055
+411,2001,Jonathan Akpoborie,Centre-Forward,51,-,VfL Wolfsburg,Bundesliga,Saarbrücken,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/jonathan-akpoborie/profil/spieler/646
+412,2001,Peter Németh,Central Midfield,48,-,Banik Ostrava,Gambrinus Liga,E. Frankfurt,2. Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/fc-banik-ostrava/startseite/verein/377/saison_id/2001
+413,2001,Jae-won Sim,Right-Back,43,-,Busan i.cons,K League 1,E. Frankfurt,2. Bundesliga,Loan fee:,https://www.transfermarkt.co.uk/busan-ipark/startseite/verein/2582/saison_id/2001
+414,2001,Rüdiger Rehm,Left-Back,41,-,Waldh. Mannheim,2. Bundesliga,Saarbrücken,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/sv-waldhof-mannheim-07/startseite/verein/85/saison_id/2001
+415,2001,Marc van Hintum,Left-Back,53,-,Vitesse,KPN Eredivisie,Hannover 96,2. Bundesliga,£225Th.,https://www.transfermarkt.co.uk/vitesse-arnheim/startseite/verein/499/saison_id/2001
+416,2001,Brian Deane,Centre-Forward,52,-,Middlesbrough,Premier League,Leicester,Premier League,£225Th.,https://www.transfermarkt.co.uk/fc-middlesbrough/startseite/verein/641/saison_id/2001
+417,2001,Morten Bisgaard,Central Midfield,46,-,Udinese,Serie A,FC Copenhagen,SAS Ligaen,£225Th.,https://www.transfermarkt.co.uk/fc-kopenhagen/startseite/verein/190/saison_id/2001
+418,2001,Vangelis Pourliotopoulos,Goalkeeper,51,-,Panionios,A' Ethniki,PAOK Salonika,A' Ethniki,£225Th.,https://www.transfermarkt.co.uk/paok-thessaloniki/startseite/verein/1091/saison_id/2001
+419,2001,Petr Bystrov,Left Midfield,41,-,Dynamo Moscow,Premier Liga,Saturn REN-TV,Premier Liga,£225Th.,https://www.transfermarkt.co.uk/saturn-ramenskoe/startseite/verein/2737/saison_id/2001
+420,2001,Dimitrios Nalitzis,Centre-Forward,44,-,Udinese,Serie A,Sporting CP,Liga NOS,Loan fee:,https://www.transfermarkt.co.uk/primeira-liga/transfers/wettbewerb/PO1/saison_id/2001
+421,2001,Ceyhun Eris,Attacking Midfield,43,-,Siirt Jetpa,1.Lig,Fenerbahce,Süper Lig,£225Th.,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2001
+422,2001,Artur Sarnat,Goalkeeper,50,-,Wisla Kraków,I Liga,Diyarbakirspor,Süper Lig,£225Th.,https://www.transfermarkt.co.uk/super-lig/transfers/wettbewerb/TR1/saison_id/2001
+423,2001,Gijs Luirink,Centre-Back,37,-,Ajax U19,U19 Eredivisie,FC Volendam,Eerste Divisie,£225Th.,https://www.transfermarkt.co.uk/oleg-sischin/profil/spieler/44282
+424,2001,Zlatko Dedic,Centre-Forward,36,-,FC Koper,Prva Liga,AC Parma,Serie A,£225Th.,https://www.transfermarkt.co.uk/zlatko-dedic/profil/spieler/28835
+425,2001,Andrea Caracciolo,Centre-Forward,39,-,Como,Serie B,Brescia,Serie A,£218Th.,https://www.transfermarkt.co.uk/calcio-como/startseite/verein/1047/saison_id/2001
+426,2001,Klemi Saban,Right-Back,40,-,Maccabi Netanya,Ligat ha'Al,Hapoel Tel Aviv,Ligat ha'Al,£212Th.,https://www.transfermarkt.co.uk/ligat-ha-al/transfers/wettbewerb/ISR1/saison_id/2001
+427,2001,Krzysztof Ratajczyk,Centre-Back,46,-,Rapid Vienna,Bundesliga,Austria Vienna,Bundesliga,£203Th.,https://www.transfermarkt.co.uk/fk-austria-wien/startseite/verein/14/saison_id/2001
+428,2001,Paul Peschisolido,Centre-Forward,49,-,Fulham,Premier League,Sheff Utd,First Division,£203Th.,https://www.transfermarkt.co.uk/first-division-bis-03-04-/transfers/wettbewerb/EFD2/saison_id/2001
+429,2001,John Mullin,Right Winger,45,-,Burnley,First Division,Rotherham,First Division,£203Th.,https://www.transfermarkt.co.uk/videoton-fc/startseite/verein/11107/saison_id/2001
+430,2001,Paul Crichton,Goalkeeper,52,-,Burnley,First Division,Norwich,First Division,£189Th.,https://www.transfermarkt.co.uk/carlisle-united/startseite/verein/1220/saison_id/2001
