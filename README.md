@@ -1,35 +1,27 @@
-# Project 2: Regression
-###### Weeks 2 and 3
+# Project 2: Predicting Soccer Transfer Prices <u></u>
+###### 
 
-## Backstory:
+## Using information about player and league attributes, I built a model to predict player transfer prices into top European leagues.
 
-Using information we scrape from the web, build linear regression models from which we can learn about movies, sports, or categories.
+I started by scraping all transfer data from Transfermarkt from 1997 until 2020 using scrapy. I then cleaned the data and combined with the FIFA kaggle data matching on name and date. This restricted the data years to those in the FIFA set. 
 
 ### Data:
 
- * **acquisition**: web scraping
- * **storage**: flat files
- * **sources**: (as listed below or any other publicly available information)   
-  - movie: boxofficemojo.com, imdb.com   
-  - sports: sports-reference.com
-
+ * **acquisition**:  I used data from 3 sources for my model
+   1. **<u>Transfermarkt</u>**:  time and amount for over 100,000 transfers from 1997 to present
+   2.  **<u>UEFA:</u>**  historic data for country club coefficients
+   3.  **<u>Kaggle:</u>** player FIFA attribute data set
+ * **storage**: JSON, CSV, sqlite database
 
 ### Skills:
 
- * basics of the web (requests, HTML, CSS, JavaScript)
- * web scraping
+ * `Beautiful Soup` and `Selenium` for UEFA data
+ * `Scrapy` for Transfermarkt data
  * `numpy` and `pandas`
  * `statsmodels`, `scikit-learn`
+ * `sqlite` 
 
 
 ### Analysis:
 
- * linear regression is required, other regression methods are optional
-
-
-## Deliverable/communication:
-
- * organized project repository
- * slide presentation
- * visual and oral communication in presentations
- * write-up of process and results
+![image-20201012195251944](C:\Users\Meehir\AppData\Roaming\Typora\typora-user-images\image-20201012195251944.png)
