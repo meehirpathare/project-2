@@ -1,3 +1,7 @@
 
 database.sqlite
 ~$Predicting Soccer Transfer Prices.pptx
+data_files
+uefa_club_coefficients
+.vscode
+.ipynb_checkpoints
