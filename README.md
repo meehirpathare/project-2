@@ -3,7 +3,7 @@
 
 ## Using information about player and league attributes, I built a model to predict player transfer prices into top European leagues.
 
-I started by scraping all transfer data from Transfermarkt from 1997 until 2020 using scrapy. I then cleaned the data and combined with the FIFA kaggle data matching on name and date. This restricted the data years to those in the FIFA set. 
+I started by scraping all transfer data from Transfermarkt from 1997 until 2020 using scrapy. I then cleaned the data and combined with the FIFA kaggle data matching on name and date. This restricted the data years to those in the FIFA set.  I then converted values to numeric ones for modelling.
 
 ### Data:
 
